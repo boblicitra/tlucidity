@@ -1,0 +1,68 @@
+U|B110|Case Administration
+U|B120|Assets Analysis and Recovery
+U|B130|Asset Disposition
+U|B140|Relief from Stay/Adequate Protection Proceedings
+U|B150|Meetings of and Communications with Creditors
+U|B160|Fee & Employment Applications
+U|B170|Fee and Employment Objections
+U|B180|Avoidance Action Analysis
+U|B190|Other Contested Matters
+U|B210|Business Operations
+U|B220|Employee Benefits & Pensions
+U|B230|Financing and Cash Collections
+U|B240|Tax Issues
+U|B250|Real Estate
+U|B260|Board of Directors Matters
+U|B310|Claims Administration and Objections
+U|B320|Plan, Disclosure Statement and Business Plan
+U|B410|General Bankruptcy Advice and Opinions
+U|B420|Restructuring
+U|C100|Fact Gathering
+U|C200|Researching Law
+U|C300|Analysis and Advice
+U|C400|Third Party Communication
+U|L110|Fact investigation/Development
+U|L120|Analysis/Strategy
+U|L130|Experts/Consultants
+U|L140|Document/File Management
+U|L150|Budgeting
+U|L160|Settlement/Non-Binding ADR
+U|L190|Other Case Assessment Development & Administration
+U|L210|Pleadings
+U|L220|Preliminary Injunctions & Provisional Remedies
+U|L230|Court Mandated Conferences
+U|L240|Dispositive Motions
+U|L250|Other Written Motions/Submissions
+U|L260|Class Action Certification and Notice
+U|L310|Written Discovery
+U|L320|Document Production
+U|L330|Depositions
+U|L340|Expert Discovery
+U|L350|Discovery Motions
+U|L390|Other Discovery
+U|L410|Fact Witnesses
+U|L420|Expert Witnesses
+U|L430|Written Motions/Submissions
+U|L440|Other Trial Preparation and Support
+U|L450|Trial and Hearing Attendance
+U|L460|Post-Trial Motions and Submissions
+U|L470|Enforcement
+U|L510|Appellate Motions and Submissions
+U|L520|Appellate Briefs
+U|L530|Oral Argument
+U|P100|Project Administration
+U|P200|Fact Gathering & Due Diligence
+U|P210|Corporate Review
+U|P220|Tax
+U|P230|Environmental
+U|P240|Real and Personal Property
+U|P250|Employee/Labor
+U|P260|Intellectual Property
+U|P270|Regulatory Review
+U|P280|Other
+U|P300|Structure, Strategy and Analysis
+U|P400|Initial Document Preparation and Filing
+U|P500|Negotiation, Revision and Responses
+U|P600|Completion and Closing
+U|P700|Post-Completion and Post-Closing
+U|P800|Maintenance and Renewal

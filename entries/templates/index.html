@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+{% block content %}
+{% load staticfiles %}
+    <img src="{% static 'logo.png' %}" class="responsive-img" style="max-height:100px;">
+      </div>
+          <center>
+       	      <div class="jumbotron">
+                  <h2> TIME LUCIDITY </h2>
+                  <h4> Online Time Tracking </h4>
+                  <h4> Anytime....Any Device....Anywhere </h4>
+              </div>
+              {% if user.is_authenticated %}
+                  <h5> Select Timesheets above to edit or enter time </h5>
+                  <h5> Select Logout to exit </h5>
+              {% else %}
+                  <h3> Login above to begin </h3> 
+              {% endif %}
+          </center>
+      </div>
+
+{% endblock %}

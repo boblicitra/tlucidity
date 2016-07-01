@@ -1,0 +1,20 @@
+{% extends 'layout.html' %}
+{% block content %}
+    <h2>Time Entries</h2>
+
+    <form action="{% url "make-entry" %}" method="POST">
+        {% csrf_token %}
+        <ul>
+            {{ form.as_ul }}
+        </ul>
+        <input id="save_entry" type="submit" value="Save" />
+    </form>
+
+    {% if entry.id %}
+    <a href="{% url "delete-entry" pk=entry.id %}">Delete</a>
+    {% endif %}
+
+    <p> </p>
+
+    <a href="{% url "entry-list" %}">back to list</a>
+{% endblock %}

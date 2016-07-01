@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+{% block content %}
+    
+    <h2>{{ entry }}</h2>
+
+    <p>Timekeeper:  {{ entry.who }} </p>
+    <p>Work Date:  {{ entry.work_date }} </p>
+    <p>Client:  {{ entry.client }} </p>
+    <p>Case:  {{ entry.case }} </p>
+    <p>#Hours:  {{ entry.hours }} </p>
+    <p>Status:  {{ entry.status }} </p>
+
+{% endblock %}
