@@ -41,6 +41,11 @@ class Profile(models.Model):
     user = models.OneToOneField(User)
     for_whom = models.ForeignKey('climats.Timekeeper', verbose_name='entering for', null=True, blank=True)
 
+    def get_tk_info(user):
+        return Profile.objects.get(user=user)
+
+    def get_absolute_url(self):
+        return reverse('setk', kwargs={'pk': self.id})
 
     def __str__(self):
         return self.user.username

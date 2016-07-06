@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 
 # Create your models here.
 
@@ -75,3 +76,10 @@ class Task(models.Model):
 
     def __str__(self):
         return self.code
+
+
+class Import_Log(models.Model):
+    date_time = models.DateTimeField(auto_now=True)
+    ran_by = models.CharField(max_length=39)
+    results = models.TextField()
+

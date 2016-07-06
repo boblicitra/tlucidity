@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+{% load entry_extras %}
+{% block content %}
+    <h2>Timekeeper Selection</h2>
+
+    <h3> You are entering time for {% entry.id $}  </h3>
+
+    <p> </p>
+
+    <a href="{% url "dashboard" %}">back to list</a>
+{% endblock %}

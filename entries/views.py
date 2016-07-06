@@ -9,6 +9,11 @@ from entries.models import Entry
 from entries.models import Profile
 
 
+class OneTkEntryView(ListView):
+    
+    model = Entry
+    template_name = 'entries/tk_entry_list.html'
+
 class ListEntryView(ListView):
     
     model = Entry
@@ -44,7 +49,7 @@ class UpdateEntryView(UpdateView):
     template_name = 'entries/make_entry.html'
 
     def get_success_url(self):
-        return reverse('entry-list')
+        return reverse('dashboard')
 
 class DeleteEntryView(DeleteView):
     
@@ -53,18 +58,22 @@ class DeleteEntryView(DeleteView):
     template_name = 'entries/delete_entry.html'
 
     def get_success_url(self):
-        return reverse('entry-list')
+        return reverse('dashboard')
 
 class SetTimekeeper(UpdateView):
     
     model = Profile
-    fields = ['whom']
-    template_name = 'entries/set-tk.html'
+    fields = ['for_whom']
+    template_name = 'entries/set_tki.html'
 
     def get_success_url(self):
-        return reverse('entry-list')
+        return reverse('dashboard')
 
 
 def SetTk(request):
-    return HttpResponse("Gotta start somewhere")
 
+    content = ''
+    for profile in Profile.objects.all():
+        content += 'maybe???????  '
+
+    return HttpResponse(content)

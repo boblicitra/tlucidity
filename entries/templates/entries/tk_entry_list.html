@@ -1,15 +1,16 @@
 {% extends 'layout.html' %}
 {% block content %}
-    <h2>Export Time</h2>
+    <h2>Time Entries </h2>
 
     <ul>
         {% for entry in object_list %}
             <li class="entry">
                 <a href="{{ entry.get_absolute_url }}">{{ entry }}</a> 
+                (<a href="{% url "entry-edit" pk=entry.id %}">edit</a>)
             </li>
         {% endfor %}
     </ul>
 
-    <a class="btn btn-primary btn-md" href="/timeadmin" role="button">Cancel</a>
+    <a class="btn btn-primary btn-lg" href="{% url "make-entry" %}" role="button">New Entry</a>
 
 {% endblock %}

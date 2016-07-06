@@ -1,21 +1,15 @@
 {% extends 'layout.html' %}
-f import_stage >= 2 %} from climats.views import import_stage
 {% block content %}
-</div>
-      <div class="col-sm-offset-2 col-sm-10">
-          <h2> Validation update </h2>
-          <h3> ** Select RETURN button at completion ** </h3>
-          <h4>     Timekeepers ......</h4>
-          {% if import_stage >= 1 %} <h4>     Clients ................</h4> {% endif %}
-          {% if import_stage >= 2 %} <h4>     Matters ...............</h4> {% endif %}
-          {% if import_stage >= 3 %} <h4>     Other codes .......</h4> {% endif %}
-          {% if import_stage == 1 %} <h4> Updating.. </h4> {% endif %}
-          {% if import_stage == 2 %} <h4> Updating.. </h4> {% endif %}
-          {% if import_stage == 3 %} <h4> Updating.. </h4> {% endif %}
-          {% if import_stage == 4 %} 
-              <a class="btn btn-primary btn-lg" href="/timeadmin" role="button">Return</a>
-          {% endif %}   
-      </div>
-</div>
+   <div class="col-sm-offset-2 col-sm-10">
+       <h2> Validation update </h2>
+       <h3> RESULTS: </h3>
+       {% if import_stage >= 1 %} <h4> {{ end_text1 }} </h4> {% endif %}
+       {% if import_stage >= 1 %} <h4> {{ end_text2 }} </h4> {% endif %}
+       {% if import_stage >= 1 %} <h4> {{ end_text3 }} </h4> {% endif %}
+       {% if import_stage >= 1 %} <h4> {{ end_text4 }} </h4> {% endif %}
+       {% if import_stage == 4 %} 
+       <a class="btn btn-success btn-md" href="/timeadmin" role="button">Click here to Exit</a>
+       {% endif %}   
+   </div>
 
 {% endblock %}
