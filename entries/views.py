@@ -1,18 +1,34 @@
 from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
 from django.views.generic import *
-from rest_framework import viewsets
 from django.core.urlresolvers import reverse
 from django.http import HttpResponse
-#from django.contrib.auth.mixins import LoginRequiredMixin
+from entries.forms import EntryForm
 from entries.models import Entry
 from entries.models import Profile
-
+from climats.models import Timekeeper
+from django.contrib.auth.models import User
+from django.template.response import TemplateResponse
+from tlucidity.get_userobj import get_userobj
 
 class OneTkEntryView(ListView):
     
     model = Entry
     template_name = 'entries/tk_entry_list.html'
+
+    def get_queryset(self):
+        usobj = get_userobj()
+        selected_tk=Profile.objects.get(user = usobj).for_whom
+        qlist =  Entry.objects.filter(who=selected_tk, status = 'O').order_by('work_date')
+        return qlist
+
+    def get_context_data(self, **kwargs):
+        context = super(OneTkEntryView, self).get_context_data(**kwargs)
+        usobj = get_userobj()
+        selected_tk=Profile.objects.get(user = usobj).for_whom
+        context['whom'] = selected_tk
+        return context
+
 
 class ListEntryView(ListView):
     
@@ -22,7 +38,7 @@ class ListEntryView(ListView):
 class EntryView(DetailView):
     
     model = Entry
-    fields = ['who', 'work_date', 'company', 'matter', 'hours','narrative']
+    fields = ['who', 'work_date', 'company', 'client', 'case', 'matter', 'hours','narrative']
     template_name = 'entries/entry.html'
 
     def get_success_url(self):
@@ -35,21 +51,36 @@ def index(request):
 
 class MakeEntryView(CreateView):
     
-    model = Entry
-    fields = ['who', 'work_date', 'company', 'matter', 'hours','narrative']
+    form_class = EntryForm
     template_name = 'entries/make_entry.html'
 
     def get_success_url(self):
-        return reverse('entry-list')
+        return reverse('make-entry')
+
+    def get_context_data(self, **kwargs):
+        context = super(MakeEntryView, self).get_context_data(**kwargs)
+        usobj = get_userobj()
+        selected_tk=Profile.objects.get(user = usobj).for_whom
+        context['whom'] = selected_tk
+        return context
+
 
 class UpdateEntryView(UpdateView):
     
     model = Entry
-    fields = ['who', 'work_date', 'company', 'matter', 'hours','narrative']
+    form_class = EntryForm
     template_name = 'entries/make_entry.html'
 
     def get_success_url(self):
         return reverse('dashboard')
+
+    def get_context_data(self, **kwargs):
+        context = super(UpdateEntryView, self).get_context_data(**kwargs)
+        usobj = get_userobj()
+        selected_tk=Profile.objects.get(user = usobj).for_whom
+        context['whom'] = selected_tk
+        return context
+
 
 class DeleteEntryView(DeleteView):
     
@@ -71,9 +102,10 @@ class SetTimekeeper(UpdateView):
 
 
 def SetTk(request):
-
-    content = ''
-    for profile in Profile.objects.all():
-        content += 'maybe???????  '
-
-    return HttpResponse(content)
+    usobj = get_userobj()
+    selected_tk=Profile.objects.get(user = usobj).for_whom
+    if usobj.groups.filter(name='Proxy').exists():
+        proxy = 'can'
+    else:
+        proxy = 'cannot'
+    return TemplateResponse(request, 'entries/check_tk.html', {'for_whom' : selected_tk, 'changeyn' : proxy})

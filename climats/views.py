@@ -1,7 +1,6 @@
 from django.shortcuts import render
 from django.views.generic import *
 from django.template import RequestContext
-from rest_framework import viewsets
 from django.core.urlresolvers import reverse
 from django.http import HttpResponse
 #from django.core.urlresolvers import reverse_lazy
@@ -176,7 +175,7 @@ def updateval(request):
             nextTa.save()
 
     datime = datetime.datetime.now()                              
-    time4results = datime.strftime("%A, %d. %B %Y %I:%M%p")       
+    time4results = datime.strftime("%A, %d %B %Y %I:%M%p")       
     current_results += 'Completed successfully on '
     current_results += time4results 
     name4log = request.user.username

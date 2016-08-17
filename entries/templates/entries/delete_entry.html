@@ -8,6 +8,6 @@
         {% csrf_token %}
 
         <input type="submit" value="Yes, delete." />
-        <a href="{% url "entry-list" %}">No, cancel.</a>
+        <a href="{% url "dashboard" %}">No, cancel.</a>
     </form>
 {% endblock %}

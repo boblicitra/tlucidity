@@ -15,6 +15,21 @@
 	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 	<![endif]-->
+
+    <script type="text/javascript" src="/admin/jsi18n/"></script>
+    <script type="text/javascript" src="/static/admin/js/core.js"></script>
+    <script type="text/javascript" src="/static/admin/js/vendor/jquery/jquery.js"></script>
+    <script type="text/javascript" src="/static/admin/js/jquery.init.js"></script>
+    <script type="text/javascript" src="/static/admin/js/admin/RelatedObjectLookups.js"></script>
+    <script type="text/javascript" src="/static/admin/js/actions.js"></script>
+    <script type="text/javascript" src="/static/admin/js/urlify.js"></script>
+    <script type="text/javascript" src="/static/admin/js/prepopulate.js"></script>
+    <script type="text/javascript" src="/static/admin/js/vendor/xregexp/xregexp.min.js"></script>
+    <script type="text/javascript" src="/static/admin/js/calendar.js"></script>
+    <script type="text/javascript" src="/static/admin/js/admin/DateTimeShortcuts.js"></script>
+    <script type="text/javascript" src="/static/admin/js/jquery.js"></script>
+    <script type="text/javascript" src="/static/smart-selects/admin/js/chainedfk.js"></script>
+
 </head>
 <body>
 	<nav class="navbar navbar-inverse" role="navigation">
@@ -35,8 +50,6 @@
 
 					{% if user.is_authenticated %}
 						<li><a href="{% url 'logout' %}">Logout</a></li>
-                                        {% else %}
-						<li><a href="{% url 'login' %}">Login</a></li>
 					{% endif %}
 
 					{% if user.is_authenticated %}
@@ -47,7 +60,7 @@
 					{% endif %}
 
 					{% if user.is_staff %}
-						<li><a href="/admin">Program Administration</a></li>
+						<li><a href="/admin">Administration</a></li>
 					{% endif %}
 				</ul>
 			</div>

@@ -15,13 +15,13 @@ Including another URLconf
 """
 from django.conf.urls import url, patterns, include
 from django.contrib import admin
-from rest_framework import routers
 
 from climats import views
 from entries import views, auth
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^chaining/', include('smart_selects.urls')),
     url(r'^$', views.index, name = 'index'),
     url(r'^entrylist/', views.ListEntryView.as_view(), name = 'entry-list'),
     url(r'^makentry/', views.MakeEntryView.as_view(), name = 'make-entry'),
@@ -29,7 +29,7 @@ urlpatterns = [
     url(r'^edit/(?P<pk>\d+)/$', views.UpdateEntryView.as_view(), name = 'entry-edit'),
     url(r'^delete/(?P<pk>\d+)/$', views.DeleteEntryView.as_view(), name = 'delete-entry'),
     url(r'^setk/(?P<pk>\d+)/$', views.SetTimekeeper.as_view(), name = 'setk'),
-    url(r'^dashboard/', views.OneTkEntryView.as_view(), {'timekeeper':'KS'}, name = 'dashboard'),
+    url(r'^dashboard/', views.OneTkEntryView.as_view(), name = 'dashboard'),
     url(r'^settk/$', views.SetTk, name = 'settk'),
     url(r'^login/', auth.login, name = 'login'),
     url(r'^logout/', auth.logout, name = 'logout'),

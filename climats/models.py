@@ -22,7 +22,7 @@ class Timekeeper(models.Model):
     status = models.CharField(max_length=1, choices = TK_STATUSES)
 
     def __str__(self):
-        return u'%s %s' % (self.code, self.full_name)
+        return u'%s - %s' % (self.code, self.full_name)
 
 class Company(models.Model):
     code = models.CharField(max_length=2, primary_key=True)
@@ -43,7 +43,7 @@ class Client(models.Model):
     client_list_name = models.CharField(max_length=59)
 
     def __str__(self):
-        return u'%s %s' % (self.code, self.name)
+        return u'%s %s' % (self.name, self.code)
 
 class Case(models.Model):
     code = models.CharField(max_length=12, primary_key=True)
@@ -56,7 +56,7 @@ class Case(models.Model):
     case_list_name = models.CharField(max_length=59)
 
     def __str__(self):
-        return u'%s %s' % (self.code, self.name)
+        return u'%s %s' % (self.name, self.code)
 
 class Activity(models.Model):
     code = models.CharField(max_length=2, primary_key=True)

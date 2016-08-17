@@ -1,6 +1,6 @@
 {% extends 'layout.html' %}
 {% block content %}
-    <h2>Time Entries </h2>
+    <h2>Time for {{ whom }} </h2>
 
     <ul>
         {% for entry in object_list %}
@@ -11,6 +11,8 @@
         {% endfor %}
     </ul>
 
-    <a class="btn btn-primary btn-lg" href="{% url "make-entry" %}" role="button">New Entry</a>
+    <a class="btn btn-primary btn-md" href="{% url "make-entry" %}" role="button">New Entry</a>
+    <a class="btn btn-primary btn-md" href="{% url "dashboard" %}" role="button">Release Time</a>
+    <a class="btn btn-primary btn-md" href="{% url "index" %}" role="button">Exit</a>
 
 {% endblock %}

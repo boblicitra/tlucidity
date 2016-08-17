@@ -3,9 +3,13 @@
 {% block content %}
     <h2>Timekeeper Selection</h2>
 
-    <h3> You are entering time for {% entry.id $}  </h3>
+    <h3> You are entering time for {{for_whom}}   </h3>
+
+    <p> </p>
+    <h3> You {{changeyn}} change it.  </h3>
 
     <p> </p>
 
-    <a href="{% url "dashboard" %}">back to list</a>
+
+    <a href="{% url "dashboard" %}">Proceed to Timesheets</a>
 {% endblock %}

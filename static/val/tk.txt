@@ -1,120 +1,31 @@
 AB|Akilah||Beckles|Akilah Beckles|A
-AC|Alison||Chadwick|Alison Chadwick|I
-AK|Anna||Kessaram|Anna Kessaram|I
-AMD|Andrea||Moniz-DeSouza|Andrea Moniz-DeSouza|I
-AR|Annaka||Rubidge|Annaka Rubidge|I
 ARB|Andrew||Barnes|Andrew Barnes|A
-AS|Alison||Sanderson|Alison Sanderson|I
-AT|Alyson||Tuxworth|Alyson Tuxworth|I
-ATS|Angela||Tull Simmons|Angela Tull Simmons|I
-BJ|Betty||Jones|Betty Jones|I
-CJ|Collette||Johnston|Collette Johnston|I
-CLA1|CLA||FIRM|CLA FIRM|I
-CLA2|CLA||CLIENT|CLA CLIENT|I
-CM|Cheri||Minors|Cheri Minors|I
-CMS|Cratonia|M|Smith|Cratonia M Smith|I
 CR|Craig||Rothwell|Craig Rothwell|A
 CS|Corporate||Secretary|Corporate Secretary|A
-CT|Celia||Tuzo|Celia Tuzo|I
-DAJ|DAVID|A|JONES|DAVID A JONES|I
-DB|Dana||Bean|Dana Bean|I
-DG|David||Goodwin|David Goodwin|I
 DGC|David|G|Cooper|David G Cooper|A
 DH|Dionne||Hackett|Dionne Hackett|A
-DHP|DOUGLAS|H|PULLEN|DOUGLAS H PULLEN|I
-DL|Don||Laurenceo|Don Laurenceo|I
 DRK|David|R|Kessaram|David R Kessaram|A
-DS|Daniella||Skotnicki|Daniella Skotnicki|I
 EAM|Ernest|A|Morrison|Ernest A Morrison|A
-EF|Eve||Finnbogason|Eve Finnbogason|I
-ESS|S|S|S|S S S|I
-ET|Evatt||Tamine|Evatt Tamine|I
-GC|Gail||Chamberlain|Gail Chamberlain|I
-GEM|Gemma|E|Morrison|Gemma E Morrison|I
 GH|George||Hassell|George Hassell|A
-GLH|Gordon|L|Hill|Gordon L Hill|I
-HA|Helen||Adderley|Helen Adderley|I
-HK|Harry||Kessaram|Harry Kessaram|I
 HM|Helen||McIntosh|Helen McIntosh|A
-HMK|Henry|M|Komansky|Henry M Komansky|I
-JB|Jonathan||Betts|Jonathan Betts|I
-JCM|Chuck||MacDonald|Chuck MacDonald|I
-JEM|Jennifer|E|McKervey|Jennifer E McKervey|I
 JG|Janice||Gutteridge|Janice Gutteridge|A
 JH|Jennifer||Hedges|Jennifer Hedges|A
-JHC|John|H|Cooper|John H Cooper|I
-JK|John||Kessaram|John Kessaram|I
 JM|Jeannette||Monk|Jeannette Monk|A
-JMW|Judtih|M|Wilke|Judtih M Wilke|I
 JRK|John|R|Kessaram|John R Kessaram|A
-JS|Julie||Stanton|Julie Stanton|I
-JW|JUSTIN||WILLIAMS|JUSTIN WILLIAMS|I
-KA|Kylah||Akinstall|Kylah Akinstall|I
-KM|Kai||Musson|Kai Musson|A
-KO|Kate||Olszewski|Kate Olszewski|I
-KR|Kerri||Rance|Kerri Rance|I
 KRW|Kim|R|White|Kim R White|A
 KS|Karen||Skiffington|Karen Skiffington|A
 KW|Karen||Woollery|Karen Woollery|A
 LAW|Lorren|A|Wilson|Lorren A Wilson|A
-LC|Louise||Charleson|Louise Charleson|I
-LG|Lori||Gilbert|Lori Gilbert|I
-LR|Linda||Russell|Linda Russell|I
-LZ|Lilla||Zuill|Lilla Zuill|I
-MD|Marilyn||Darrell|Marilyn Darrell|I
-MDB|M|M|M|M M M|I
 MF|Melanie||Fullerton|Melanie Fullerton|A
-MG|Melanie||Gardiner|Melanie Gardiner|I
-MJ|Melika||Jones|Melika Jones|I
-ML|Megan||Lewin|Megan Lewin|I
 MT|Michelle||Tokunbo|Michelle Tokunbo|A
-NB|Natalie||Belgrave|Natalie Belgrave|I
-ND|Nicole||DaPonte|Nicole DaPonte|I
-NH|Nicole||Haziza|Nicole Haziza|I
 NN|Natalie||Neto|Natalie Neto|A
-OR|Olga||Rankin|Olga Rankin|I
-OS|Omar||Sial|Omar Sial|I
-PB|Pro||ProBona|Pro ProBona|I
-PD|Pat||Dean|Pat Dean|I
-PJCS|Peter|JC|Smith|Peter JC Smith|I
-PL|Paralegal||Paralegal|Paralegal Paralegal|I
 PL1|Eve||Mantle|Eve Mantle|A
 PL2|Asha||Vidale|Asha Vidale|A
-PL3|Annaka||Rubidge|Annaka Rubidge|I
-PL4|Jennifer||McKervey|Jennifer McKervey|I
-PL5|Melanie||Cave|Melanie Cave|I
 PS|Patreese||Simmons|Patreese Simmons|A
-RC|Rachel||Cabot|Rachel Cabot|I
-RR|Rahlemah||Robinson|Rahlemah Robinson|I
-RS|Richard||Stephens|Richard Stephens|I
-RT|Robert||Tailford|Robert Tailford|I
-RW|Richard||Williams|Richard Williams|I
-S S|11|1|1|11 1 1|I
-SAD|System||Admin|System Admin|I
 SF|Sara||Fox|Sara Fox|A
-SH|Sarah||Hurrion|Sarah Hurrion|I
-SK|Shayne||Kjertinge|Shayne Kjertinge|I
-SLS|S|S|S|S S S|I
-SMP|Susan|M|Poole|Susan M Poole|I
-SN|Stephen||Notman|Stephen Notman|I
-SPC|Stephen|P|Cook|Stephen P Cook|I
 SR|Sam||Riihiluoma|Sam Riihiluoma|A
-SS|Sharon||Simmons|Sharon Simmons|I
-ST|Selena||Tucker|Selena Tucker|I
-STD|Sara||Darrell|Sara Darrell|I
 SW|Steven||White|Steven White|A
-TB|Theresa||Brentano|Theresa Brentano|I
 TG|Theresa||Grant|Theresa Grant|A
-TJ|Taaj||Jamal|Taaj Jamal|I
-TL|Tina||Lima|Tina Lima|I
-TMB|Tracy||Botelho|Tracy Botelho|I
 TR|Trustee||Fee|Trustee Fee|A
-TT|Thomas||Terrell|Thomas Terrell|I
-TTA|A||Testor|A Testor|I
-TTB|B||Testor|B Testor|I
-TTC|C||Testor|C Testor|I
 VD|Valerie||Dill|Valerie Dill|A
-VL|Vanessa||Lewis|Vanessa Lewis|I
-WH|Wendell||Hollis|Wendell Hollis|I
-WMC|WILLIAM|M|COX|WILLIAM M COX|I
 ZD|Zina||Darrell|Zina Darrell|A

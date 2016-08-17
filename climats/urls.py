@@ -1,7 +1,6 @@
 """climats URL Configuration
 """
 from django.conf.urls import url, patterns, include
-from rest_framework import routers
 from climats import views
 
 urlpatterns = [
