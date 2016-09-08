@@ -2,16 +2,16 @@
 {% block content %}
 {% load staticfiles %}
 </head> 
+    <img src="{% static 'logo.png' %}" class="responsive-img" style="max-height:100px;">
       </div>
           <center>
        	      <div class="jumbotron">
-                  <img src="{% static 'logo.png' %}" class="responsive-img" style="max-height:100px;">
                   <h2> TIME LUCIDITY </h2>
                   <h4> Online Time Tracking </h4>
                   <h4> Anytime </h4>
               </div>
               {% if user.is_authenticated %}
-                  <h4> Select <a href="{% url 'dashboard' %}">Timesheets</a> to enter or edit time </h4>
+                  <h4> Select <a href="{% url 'settk' %}">Timesheets</a> to enter or edit time </h4>
                   <h5> Select  <a href="{% url 'logout' %}">Logout</a>  to exit </h5>
               {% else %}
                   <h3> <a href="{% url 'login' %}">Login</a> to begin </h3> 

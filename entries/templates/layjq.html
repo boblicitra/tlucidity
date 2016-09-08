@@ -27,7 +27,6 @@
     <script type="text/javascript" src="/static/admin/js/vendor/xregexp/xregexp.min.js"></script>
     <script type="text/javascript" src="/static/admin/js/calendar.js"></script>
     <script type="text/javascript" src="/static/admin/js/admin/DateTimeShortcuts.js"></script>
-    <script type="text/javascript" src="/static/admin/js/jquery.js"></script>
     <script type="text/javascript" src="/static/smart-selects/admin/js/chainedfk.js"></script>
 
 </head>
@@ -46,14 +45,15 @@
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="nav-toggle">
-				<ul class="nav navbar-nav">
+				<ul class="nav navbar-nav" style="float:right">
 
 					{% if user.is_authenticated %}
 						<li><a href="{% url 'logout' %}">Logout</a></li>
 					{% endif %}
-
+                                </ul>
+                                 <ul class="nav navbar-nav">
 					{% if user.is_authenticated %}
-						<li><a href="/settk">Timesheets</a></li>
+						<li><a href="/dashboard">Timesheets</a></li>
 					{% endif %}
 					{% if user.is_staff %}
 						<li><a href="/timeadmin">Import/Export</a></li>

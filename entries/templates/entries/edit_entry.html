@@ -2,7 +2,7 @@
 {% block content %}
     <h2>Entry for {{whom}} </h2>
 
-    <form action="{% url "make-entry" %}" method="POST">
+    <form action="{% url "entry-edit" pk=entry.id %}" method="POST">
         {% csrf_token %}
 <style>
 textarea { vertical-align: top; }
@@ -12,6 +12,10 @@ textarea { vertical-align: top; }
         </ul>
         <input id="save_entry" type="submit" value="Save" />
     </form>
+
+    {% if entry.id %}
+    <a href="{% url "delete-entry" pk=entry.id %}">Delete</a>
+    {% endif %}
 
     <p> </p>
 

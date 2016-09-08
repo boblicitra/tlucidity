@@ -2,17 +2,143 @@
 {% block content %}
     <h2>Time for {{ whom }} </h2>
 
-    <ul>
-        {% for entry in object_list %}
-            <li class="entry">
-                <a href="{{ entry.get_absolute_url }}">{{ entry }}</a> 
-                (<a href="{% url "entry-edit" pk=entry.id %}">edit</a>)
-            </li>
-        {% endfor %}
-    </ul>
+    <p>
+    <a class="btn btn-primary btn-md active" href="{% url "make-entry" %}" role="button">New Entry</a>
+    <a class="btn btn-primary btn-md" href="{% url "release-list" %}" role="button">Release Time</a>
+    {% if swtk = 'can' %}
+        <a class="btn btn-primary btn-md" href="{% url "set-w" pk=profile_pk %}" role="button">Change Timekeeper</a>
+    {% endif %}
+    <a class="btn btn-default btn-sm" href="{% url "index" %}" role="button">Exit</a>
+    </p>
 
-    <a class="btn btn-primary btn-md" href="{% url "make-entry" %}" role="button">New Entry</a>
-    <a class="btn btn-primary btn-md" href="{% url "dashboard" %}" role="button">Release Time</a>
-    <a class="btn btn-primary btn-md" href="{% url "index" %}" role="button">Exit</a>
-
+{% load staticfiles %}
+<link rel="stylesheet" href="{{ STATIC_URL }}django_tables2/themes/paleblue/css/screen.css" />
+{% load render_table from django_tables2 %}
+    {% if table1.rows.data.data %}
+        <p> {% render_table table1 %} </p>
+    {% endif %}
+    {% if table2.rows.data.data %}
+    <p> {% render_table table2 %} </p>
+    {% endif %}
+    {% if table3.rows.data.data %}
+    <p> {% render_table table3 %} </p>
+    {% endif %}
+    {% if table4.rows.data.data %}
+    <p> {% render_table table4 %} </p>
+    {% endif %}
+    {% if table5.rows.data.data %}
+    <p> {% render_table table5 %} </p>
+    {% endif %}
+    {% if table6.rows.data.data %}
+    <p> {% render_table table6 %} </p>
+    {% endif %}
+    {% if table7.rows.data.data %}
+    <p> {% render_table table7 %} </p>
+    {% endif %}
+    {% if table8.rows.data.data %}
+    <p> {% render_table table8 %} </p>
+    {% endif %}
+    {% if table9.rows.data.data %}
+    <p> {% render_table table9 %} </p>
+    {% endif %}
+    {% if table10.rows.data.data %}
+    <p> {% render_table table10 %} </p>
+    {% endif %}
+    {% if table11.rows.data.data %}
+    <p> {% render_table table11 %} </p>
+    {% endif %}
+    {% if table12.rows.data.data %}
+    <p> {% render_table table12 %} </p>
+    {% endif %}
+    {% if table13.rows.data.data %}
+    <p> {% render_table table13 %} </p>
+    {% endif %}
+    {% if table14.rows.data.data %}
+    <p> {% render_table table14 %} </p>
+    {% endif %}
+    {% if table15.rows.data.data %}
+    <p> {% render_table table15 %} </p>
+    {% endif %}
+    {% if table16.rows.data.data %}
+    <p> {% render_table table16 %} </p>
+    {% endif %}
+    {% if table17.rows.data.data %}
+    <p> {% render_table table17 %} </p>
+    {% endif %}
+    {% if table18.rows.data.data %}
+    <p> {% render_table table18 %} </p>
+    {% endif %}
+    {% if table19.rows.data.data %}
+    <p> {% render_table table19 %} </p>
+    {% endif %}
+    {% if table20.rows.data.data %}
+    <p> {% render_table table20 %} </p>
+    {% endif %}
+    {% if table21.rows.data.data %}
+    <p> {% render_table table21 %} </p>
+    {% endif %}
+    {% if table22.rows.data.data %}
+    <p> {% render_table table22 %} </p>
+    {% endif %}
+    {% if table23.rows.data.data %}
+    <p> {% render_table table23 %} </p>
+    {% endif %}
+    {% if table24.rows.data.data %}
+    <p> {% render_table table24 %} </p>
+    {% endif %}
+    {% if table25.rows.data.data %}
+    <p> {% render_table table25 %} </p>
+    {% endif %}
+    {% if table26.rows.data.data %}
+    <p> {% render_table table26 %} </p>
+    {% endif %}
+    {% if table27.rows.data.data %}
+    <p> {% render_table table27 %} </p>
+    {% endif %}
+    {% if table28.rows.data.data %}
+    <p> {% render_table table28 %} </p>
+    {% endif %}
+    {% if table29.rows.data.data %}
+    <p> {% render_table table29 %} </p>
+    {% endif %}
+    {% if table30.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table31.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table32.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table33.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table34.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table35.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table36.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table37.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table38.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table39.rows.data.data %}
+    <p> {% render_table table30 %} </p>
+    {% endif %}
+    {% if table1.rows.data.data %}
+        <p>
+        <a class="btn btn-primary btn-md active" href="{% url "make-entry" %}" role="button">New Entry</a>
+        <a class="btn btn-primary btn-md" href="{% url "release-list" %}" role="button">Release Time</a>
+        {% if swtk = 'can' %}
+            <a class="btn btn-primary btn-md" href="{% url "set-w" pk=profile_pk %}" role="button">Change Timekeeper</a>
+        {% endif %}
+        <a class="btn btn-default btn-sm" href="{% url "index" %}" role="button">Exit</a>
+        </p>
+    {% endif %}
 {% endblock %}

@@ -14,6 +14,6 @@
     <p>Status:  {{ entry.status }} </p>
    <p> </p>
 
-    <a href="{% url "dashboard" %}">back to list</a>
+    <input type=button value="Return to list" onClick="window.history.back();return false;" />
 
 {% endblock %}

@@ -1,5 +1,6 @@
+{#  set_tki.html  #}
 {% extends 'layout.html' %}
-{% load entry_extras %}
+{# load entry_extras #}
 {% block content %}
     <h2>Timekeeper Selection</h2>
 
@@ -8,10 +9,10 @@
         <ul>
             {{ form.as_ul }}
         </ul>
-        <input id="save_entry" type="submit" value="Save" />
+        <input id="save_entry" type="submit" value="Select" />
     </form>
 
     <p> </p>
 
-    <a href="{% url "dashboard" %}">back to list</a>
+    <a href="{% url "dashboard" %}">Cancel</a>
 {% endblock %}

@@ -1,0 +1,14 @@
+{% extends 'layjq.html' %}
+{% block content %}
+    <h2>Results</h2>
+    <p>
+    {% if count >= 1 %} <h2>Time released:</h2> {% endif %}
+    {% if count = 1 %} <h4> {{ count }} entry </h4> {% endif %}
+    {% if count > 1 %} <h4> {{ count }} entries </h4> {% endif %}
+    {% if count >= 1 %} <h4> {{ hours }} hours </h4> {% endif %}
+    </p>
+    <p>
+    <a class="btn btn-default btn-lg" href="{% url "dashboard" %}" role="button">Back to Timesheets</a>
+    </p>
+
+{% endblock %} 

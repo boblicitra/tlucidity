@@ -31,16 +31,17 @@
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="nav-toggle">
-				<ul class="nav navbar-nav">
-
+				<ul class="nav navbar-nav" style="float:right">
 					{% if user.is_authenticated %}
 						<li><a href="{% url 'logout' %}">Logout</a></li>
                                         {% else %}
 						<li><a href="{% url 'login' %}">Login</a></li>
 					{% endif %}
+				</ul>
+				<ul class="nav navbar-nav">
 
 					{% if user.is_authenticated %}
-						<li><a href="/settk">Timesheets</a></li>
+						<li><a href="/dashboard">Timesheets</a></li>
 					{% endif %}
 					{% if user.is_staff %}
 						<li><a href="/timeadmin">Import/Export</a></li>

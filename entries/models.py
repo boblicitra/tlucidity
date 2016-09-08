@@ -1,7 +1,9 @@
 from django.db import models
 from django.contrib.auth.models import User
+from datetime import datetime
 from climats.models import Timekeeper, Company, Activity, Client, Case, Task
 from smart_selects.db_fields import ChainedForeignKey
+from django.http import request
 from django.core.urlresolvers import reverse
 from smart_selects.db_fields import ChainedForeignKey
 from tlucidity.get_userobj import get_userobj
@@ -14,7 +16,7 @@ STATUSES = (
 
 class Entry(models.Model):
     user = models.ForeignKey(User, null=True)
-    who = models.ForeignKey('climats.Timekeeper', verbose_name="Timekeeper", null=True)
+    who = models.ForeignKey('climats.Timekeeper', verbose_name="Timekeeper", null=True, blank=True)
     work_date = models.DateField(null=True)
     company = models.ForeignKey('climats.Company', null=True)
     matter = models.CharField(max_length=10, null=True)
@@ -64,17 +66,34 @@ class Entry(models.Model):
         usero = get_userobj()
         usobj = User.objects.get(pk=usero.pk)
         self.user = usobj
-        if not self.pk:
+        if not self.who:
+#           print ('new because no who')
             self.who = Profile.objects.get(user_id=usobj.id).for_whom
-        super(Entry, self).save(*args, **kwargs)
+            if self.released == True:
+                self.status = 'R'
+                self.released_date = datetime.now()
+            super(Entry, self).save(*args, **kwargs)
+        else:
+#           print ('who already set so update existing')
+            self.last_change_date = datetime.now()
+            if self.released == True:
+                if self.released_date == None:
+                    self.status = 'R'
+                    self.released_date = datetime.now()
+            else:
+                self.status = 'O'
+                self.released_date = None
+            super(Entry, self).save(*args, **kwargs)
+        return reverse('dashboard')
 
 
 class Profile(models.Model):
-    user = models.OneToOneField(User)
+    user = models.OneToOneField(User, primary_key=True)
     for_whom = models.ForeignKey('climats.Timekeeper', verbose_name='entering for', null=True, blank=True)
-
-    def get_absolute_url(self):
-        return reverse('setk', kwargs={'pk': self.id})
 
     def __str__(self):
         return self.user.username
+
+    def get_absolute_url(self):
+        return reverse('set-w', kwargs={'pk': self.user.id})
+

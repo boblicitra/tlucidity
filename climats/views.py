@@ -14,8 +14,15 @@ import datetime
 def timeadmin(request):
     return render(request, 'climats/timeadmin.html')
 
+
+class ExportEntryView(ListView):
+    model = Entry
+    template_name = 'climats/export_list.html'
+
+
 def updatevals(request):
     return render(request, 'climats/updatevals.html')
+
 
 def updateval(request):
     current_results = ''
@@ -189,9 +196,4 @@ def updateval(request):
          'end_text3': text_result3,
          'end_text4': text_result4
         })
-
-class ExportEntryView(ListView):
-
-    model = Entry
-    template_name = 'climats/export_list.html'
 

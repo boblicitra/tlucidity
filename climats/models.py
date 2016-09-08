@@ -66,7 +66,7 @@ class Activity(models.Model):
         verbose_name_plural ='activities'
 
     def __str__(self):
-        return self.code
+        return u'%s %s' % (self.code, self.description)
 
 class Task(models.Model):
     set_code_code = models.CharField(max_length=5, primary_key=True)
