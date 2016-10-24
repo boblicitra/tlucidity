@@ -1,16 +1,14 @@
 {% extends 'layout.html' %}
 {% block content %}
-      </div>
-            <div class="col-sm-offset-2 col-sm-10">
-                  <h3> Time Administration</h3>
-             {% if user.is_staff %}
-                        <a class="btn btn-primary btn-md" href="updatevals" role="button">Import Validation</a>
-             {% endif %}
-             {% if user.is_staff %}
-                        <a class="btn btn-primary btn-md" href="exporttime" role="button">Export Time</a>
-             {% endif %}
-                        <a class="btn btn-primary btn-md" href="/" role="button">Exit</a>
-            </div>
-      </div>
+    <div class="col-sm-offset-2 col-sm-10">
+        <h2> Time Administration</h2>
+            {% if user.is_staff %}
+                <a class="btn btn-primary btn-md" href="updatevals" role="button">Import Validation</a>
+            {% endif %}
+            {% if user.is_staff %}
+                <a class="btn btn-primary btn-md" href="exports" role="button">Export Time</a>
+            {% endif %}
+                <a class="btn btn-default btn-md" href="/" role="button">Exit</a>
+    </div>
 
 {% endblock %}

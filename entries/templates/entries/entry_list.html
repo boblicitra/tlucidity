@@ -1,13 +1,18 @@
 {% extends 'layout.html' %}
 {% block content %}
-    <h2>All Time Entries by Date</h2>
+    <h2>Time Entries for {{ whom }}</h2>
+
+    <p>
+    <a class="btn btn-primary btn-md" href="{% url "dashboard" %}" role="button">Timesheets</a>
+    <a class="btn btn-default btn-sm" href="{% url "index" %}" role="button">Exit</a>
+    </p>
 
 {% load staticfiles %}
 <link rel="stylesheet" href="{{ STATIC_URL }}django_tables2/themes/paleblue/css/screen.css" />
 {% load render_table from django_tables2 %}
     {% render_table table %}
-
     <p>
-    <a class="btn btn-primary btn-lg" href="{% url "index" %}" role="button">Exit</a>
+    <a class="btn btn-primary btn-md" href="{% url "dashboard" %}" role="button">Timesheets</a>
+    <a class="btn btn-default btn-sm" href="{% url "index" %}" role="button">Exit</a>
     </p>
 {% endblock %}

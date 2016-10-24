@@ -1,6 +1,9 @@
 {% extends 'layjq.html' %}
 {% block content %}
     <h2>Entry for {{whom}} </h2>
+    {% if stat = 'E' %}
+        <h3> Already exported - no edits can be saved </h3>
+    {% endif %}
 
     <form action="{% url "entry-edit" pk=entry.id %}" method="POST">
         {% csrf_token %}
@@ -10,14 +13,38 @@ textarea { vertical-align: top; }
         <ul>
             {{ form.as_ul }}
         </ul>
+    {% if stat != 'E' %}
         <input id="save_entry" type="submit" value="Save" />
+    {% endif %}
     </form>
 
-    {% if entry.id %}
-    <a href="{% url "delete-entry" pk=entry.id %}">Delete</a>
+    {% if stat != 'E' %}
+        <center>
+        <a href="{% url "delete-entry" pk=entry.id %}">Delete</a>
+        </center>
     {% endif %}
 
     <p> </p>
 
-    <a href="{% url "dashboard" %}">Cancel</a>
+    {% if stat != 'E' %}
+        <a href="{% url "dashboard" %}">Exit without saving</a>
+    {% else %}
+        <input type=button value="Return" onClick="window.history.back();return false;" />
+    {% endif %}
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+<script type="text/javascript">
+( function($) {
+    $(document).ready(function() {
+        ddate = document.getElementById('datepicker').value;
+        $('.datepicker').datepicker({
+                dateFormat: 'yy-mm-dd',
+                defaultDate: ddate
+            });
+    });
+})(jQuery || django.jQuery);
+</script>
+
 {% endblock %}

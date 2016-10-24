@@ -105,40 +105,43 @@
     <p> {% render_table table30 %} </p>
     {% endif %}
     {% if table31.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table31 %} </p>
     {% endif %}
     {% if table32.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table32 %} </p>
     {% endif %}
     {% if table33.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table33 %} </p>
     {% endif %}
     {% if table34.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table34 %} </p>
     {% endif %}
     {% if table35.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table35 %} </p>
     {% endif %}
     {% if table36.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table36 %} </p>
     {% endif %}
     {% if table37.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table37 %} </p>
     {% endif %}
     {% if table38.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table38 %} </p>
     {% endif %}
     {% if table39.rows.data.data %}
-    <p> {% render_table table30 %} </p>
+    <p> {% render_table table39 %} </p>
+    {% endif %}
+    {% if table40.rows.data.data %}
+    <p> {% render_table table40 %} </p>
     {% endif %}
     {% if table1.rows.data.data %}
-        <p>
-        <a class="btn btn-primary btn-md active" href="{% url "make-entry" %}" role="button">New Entry</a>
-        <a class="btn btn-primary btn-md" href="{% url "release-list" %}" role="button">Release Time</a>
-        {% if swtk = 'can' %}
-            <a class="btn btn-primary btn-md" href="{% url "set-w" pk=profile_pk %}" role="button">Change Timekeeper</a>
-        {% endif %}
-        <a class="btn btn-default btn-sm" href="{% url "index" %}" role="button">Exit</a>
-        </p>
+    <p>
+    <a class="btn btn-primary btn-md active" href="{% url "make-entry" %}" role="button">New Entry</a>
+    <a class="btn btn-primary btn-md" href="{% url "release-list" %}" role="button">Release Time</a>
+    {% if swtk = 'can' %}
+        <a class="btn btn-primary btn-md" href="{% url "set-w" pk=profile_pk %}" role="button">Change Timekeeper</a>
+    {% endif %}
+    <a class="btn btn-default btn-sm" href="{% url "index" %}" role="button">Exit</a>
+    </p>
     {% endif %}
 {% endblock %}

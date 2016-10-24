@@ -1,15 +1,31 @@
 {% extends 'layout.html' %}
+{% load staticfiles %}
 {% block content %}
-</div>
       <div class="col-sm-offset-2 col-sm-10">
           <h2> Validation update </h2>
-          <h3> ** Click START button to launch process ** </h3>
-          <h3> ** Wait for EXIT button at end of update ** </h3>
-          <h3> ( May take a couple minutes to complete )  </h3>
-          <h4> -------------------------------------------------------------------------  </h4>
-          <a class="btn btn-primary btn-md" href="/timeadmin/updateval" role="button">START</a>
-          <a class="btn btn-primary btn-md" href="/timeadmin" role="button">Cancel</a>
+          <h3> Click START button to launch process </h3>
+          <h3> Wait for Exit button at end of update </h3>
+          <h4> ( *** May take a couple minutes to complete *** )  </h4>
+          <h4> ------------------------------------------------------------------  </h4>
       </div>
-</div>
+      <div class="col-sm-offset-3 col-sm-10">
+          <a class="btn btn-success btn-md active" onclick="show()" href="/timeadmin/updateval" role="button">START</a>
+          <a class="btn btn-default btn-md" href="/timeadmin" role="button">Cancel</a>
+      </div>
+<div class="col-sm-offset-5 col-sm-10" id = "myDiv" style="display:none"><img src="{% static 'img/ajax-loader.gif' %}"></div><br>
+
+<script type = "text/javascript">
+
+function show() {
+    document.getElementById("myDiv").style.display="block";
+}
+
+</script>
+
+<script>
+function bePatient() {
+<img src="{% static 'ajax-loader.gif' %}" class="responsive-img" style="max-height:100px;">
+}
+</script>
 
 {% endblock %}

@@ -1,0 +1,18 @@
+{#  set_tki.html  #}
+{% extends 'layout.html' %}
+{# load entry_extras #}
+{% block content %}
+    <h2>Export Released Time</h2>
+
+    <form action="{% url "export" %}" method="POST">
+        {% csrf_token %}
+        <ul>
+            {{ form.as_ul }}
+        </ul>
+        <input id="save_entry" type="submit" value="Proceed" />
+    </form>
+
+    <p> </p>
+
+    <a href="{% url "dashboard" %}">Cancel</a>
+{% endblock %}

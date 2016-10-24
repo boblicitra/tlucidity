@@ -5,19 +5,129 @@ from django.core.urlresolvers import reverse
 from django.http import HttpResponse
 #from django.core.urlresolvers import reverse_lazy
 from climats.models import *
-from entries.models import Entry
+from entries.models import Entry, Expthru
+from entries.forms import ExpthruForm
 from django.contrib.auth.models import User
+from django.conf import settings
+from tlucidity.get_userobj import get_userobj
 import csv
 import datetime
+import os
 
 
 def timeadmin(request):
     return render(request, 'climats/timeadmin.html')
 
 
-class ExportEntryView(ListView):
-    model = Entry
-    template_name = 'climats/export_list.html'
+def Exported(request):
+    now = datetime.datetime.now()
+    sufix = now.strftime("%y%m%d%H%M%S")
+    opath = settings.BASE_DIR + '/Exports/'
+    comps = 0
+    coss = ''
+    tec = 0
+    summary = ''
+    usobj = get_userobj()
+    who = usobj.username
+    entlist = Expthru.objects.get(user = usobj).key_list
+    ent_list = [int(x) for x in entlist.split(',') if x]
+    for cos in Company.objects.all():
+        output = opath+cos.code+"/"+cos.code + sufix
+        cec=0      
+        for key in ent_list:
+            released = Entry.objects.get(id=key)
+            if released.company == cos:
+                if cec == 0:
+                    ofile = open ( output, "w" )
+                    ofile.write ("###\n")
+                cec = cec + 1 
+                tec = tec + 1 
+                tk = released.who.code
+                ofile.write ("TK="+tk+"\n")
+                sd = released.work_date
+                fd = sd.strftime("%m%d%y")
+                ofile.write ("SD="+fd+"\n")
+                cm = released.matter
+                ofile.write ("CC="+cm+"\n")
+                hr = released.hours
+                ofile.write ("HR="+str(hr)+"\n")
+                a1 = released.activity_code1
+                if a1:
+                    ofile.write ("A1="+a1.code+"\n")
+                a2 = released.activity_code2
+                if a2:
+                    ofile.write ("A2="+a2.code+"\n")
+#               ta = released.task_code
+#               ofile.write ("TA="+tk+"\n")
+                tx = released.narrative
+                if tx:
+                    ofile.write ("TX="+tx+"\n")
+                ofile.write ("##\n")
+                Entry.objects.filter(id=key).update(exported_date=now)
+                Entry.objects.filter(id=key).update(exported=True)
+                Entry.objects.filter(id=key).update(status='E')
+        if cec > 0:
+            ofile.close()
+            comps = comps + 1
+            if cos.code == 'CH':
+                os.system('/usr/lib/send4ch')
+            if cos.code == 'CO':
+                os.system('/usr/lib/send4co')
+            if cos.code == 'ST':
+                os.system('/usr/lib/send4st')
+            if cos.code == 'GM':
+                os.system('/usr/lib/send4gm')
+            if cos.code == 'GS':
+                os.system('/usr/lib/send4gs')
+            coss = coss + ' ' + cos.code + ' '
+    if comps > 0:
+        summary = str(tec)
+        if tec == 1:
+            summary = summary + ' entry was'
+        else:
+            summary = summary + ' entries were '
+        summary = summary + 'exported for ' + coss
+        return render(request, 'climats/exported.html', {'comps': comps, 'results': summary})
+    else:
+        return render(request, 'climats/exported.html', {'comps': comps, 'results': err_summy})
+
+
+def Exportlist(request):
+    if request.method == 'GET':
+        elist = ''
+        comps = 0
+        summary = ''
+        usobj = get_userobj()
+        thru = Expthru.objects.get(user = usobj).thru_date
+        for cos in Company.objects.all():
+            centry = 0
+            chour = 0
+            for released in Entry.objects.filter(status='R', work_date__range=["1959-08-23", thru], company=cos):
+                if elist == '':
+                    elist = str(released.id)
+                else:
+                    elist = elist + ',' + str(released.id)
+                centry = centry + 1
+                chour = chour + released.hours
+            if centry > 0:
+                tcr = '{:<26}'.format(cos.name)
+                tcr = tcr + '{:>6}'.format(centry) + '{:>10}'.format(chour)
+                summary = summary + tcr + '\n'
+                comps = comps + 1
+        if comps > 0 :
+            Expthru.objects.filter(user = usobj).update(key_list=elist)
+            return render(request, 'climats/export_list.html', {'comps': comps, 'summy': summary, 'through':thru})
+    return render(request, 'climats/export_list.html', {'comps': 0, 'through':thru})
+
+
+class ExpthrView(CreateView):
+
+    model = Expthru
+    form_class = ExpthruForm
+    template_name = 'climats/exports.html'
+
+    def get_success_url(self):
+        return reverse('export-list')
 
 
 def updatevals(request):
@@ -26,7 +136,8 @@ def updatevals(request):
 
 def updateval(request):
     current_results = ''
-    textfile="static/val/company.txt"
+    vpath = settings.BASE_DIR + '/climats/val/'
+    textfile = vpath + 'company.txt'
     with open ( textfile, "r" ) as inputF:
         lines = csv.reader (inputF, delimiter="|")
         for nextCo in lines:
@@ -40,7 +151,7 @@ def updateval(request):
             nextComp = Company (code=f1, name=f2)
             nextComp.save()
 
-    textfile="static/val/tk.txt"
+    textfile = vpath + 'tk.txt'
     with open ( textfile, "r" ) as inputF:
         lines = csv.reader (inputF, delimiter="|")
         rnum = 0
@@ -71,7 +182,7 @@ def updateval(request):
         current_results += ' timekeeper records. \n'
         text_result1 += ' timekeeper records. '
 
-    textfile="static/val/client.txt"
+    textfile = vpath + 'client.txt'
     with open ( textfile, "r" ) as inputF:
         lines = csv.reader (inputF, delimiter="|")
         rnum = 0
@@ -101,7 +212,7 @@ def updateval(request):
         current_results += ' client records. \n'
         text_result2 += ' client records. '
 
-    textfile="static/val/case.txt"
+    textfile = vpath + 'case.txt'
     with open ( textfile, "r" ) as inputF:
         lines = csv.reader (inputF, delimiter="|")
         rnum = 0
@@ -136,7 +247,7 @@ def updateval(request):
         current_results += ' matter records. \n'
         text_result3 += ' matter records. '
 
-    textfile="static/val/activity.txt"
+    textfile = vpath + 'activity.txt'
     with open ( textfile, "r" ) as inputF:
         lines = csv.reader (inputF, delimiter="|")
         rnum = 0
@@ -164,7 +275,7 @@ def updateval(request):
         current_results += ' activity code records. \n'
         text_result4 += ' activity code records. '
     
-    textfile="static/val/task.txt"
+    textfile = vpath + 'task.txt'
     with open ( textfile, "r" ) as inputF:
         lines = csv.reader (inputF, delimiter="|")
         for nextTa in lines:
@@ -185,6 +296,7 @@ def updateval(request):
     time4results = datime.strftime("%A, %d %B %Y %I:%M%p")       
     current_results += 'Completed successfully on '
     current_results += time4results 
+    current_results += ' (GMT)'
     name4log = request.user.username
     log_entry = Import_Log (ran_by=name4log, results=current_results)
     log_entry.save()

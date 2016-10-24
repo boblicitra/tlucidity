@@ -1,5 +1,6 @@
 {% extends 'layjq.html' %}
 {% block content %}
+{% load staticfiles %}
     <h2>Entry for {{whom}} </h2>
 
     <form action="{% url "make-entry" %}" method="POST">
@@ -7,13 +8,57 @@
 <style>
 textarea { vertical-align: top; }
 </style>
+
         <ul>
             {{ form.as_ul }}
         </ul>
         <input id="save_entry" type="submit" value="Save" />
     </form>
 
-    <p> </p>
+    <center>
+    <a href="{% url "dashboard" %}">Exit without saving</a>
+    </center>
 
-    <a href="{% url "dashboard" %}">Cancel</a>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+<script type="text/javascript">
+(function($) {
+    $(document).ready(function() {
+        ddate = document.getElementById('datepicker').value;
+        $('.datepicker').datepicker({
+                dateFormat: 'yy-mm-dd',
+                defaultDate: ddate
+            });
+    });
+})(jQuery || django.jQuery);
+</script>
+
+<script language="JavaScript">
+function recent(source) {
+    var rfs = "";
+    var len = 0;
+    var casev = "";
+    var clientv = "";
+    var compv = "";
+    rfs = document.getElementById('id_recent_files').value;
+    len = rfs.length;
+    casev = rfs.substr(len-11);
+    compv = casev.substr(0,2);
+    if (len > 0) {
+        document.getElementById('id_company').value = compv;
+        document.getElementById('id_company').disabled = true;
+        document.getElementById('id_client').value = 'undefined';
+        document.getElementById('id_client').disabled = true;
+        document.getElementById('id_case').value = 'undefined';
+        document.getElementById('id_case').disabled = true;
+    }
+    else {
+        document.getElementById('id_company').disabled = false;
+        document.getElementById('id_client').disabled = false;
+        document.getElementById('id_case').disabled = false;
+    }
+}
+</script>
+
 {% endblock %}

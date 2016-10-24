@@ -1,0 +1,4000 @@
+CH|07000|CLIENT DEVELOPMENT|O
+CH|10208|Benmore Limited|O
+CH|10234|BUSYCOMM LIMITED|O
+CH|10308|CAPITAL INTERNATIONAL LTD.,|O
+CH|10823|HEMISPHERE MANAGEMENT LIMITED|O
+CH|11102|KINGS PORT CATERING COMPANY LIMITED,|O
+CH|12052|Sheraton  Bermuda  Limited|O
+CH|12121|Carrigaholt Holdings Ltd.|O
+CH|12303|Venture Management Ltd.|O
+CH|21954|Raynor: Darnell|O
+CH|33008|ADDERLEY, CLARA|O
+CH|33019|Bruson International Ltd|O
+CH|33024|Dennis E. & John D. Fagundo & Pereira|O
+CH|33087|DE COUTO, ERNEST  THE HON.|O
+CH|33093|SCRYMGEOUR, JOHN  ESTATE OF|O
+CH|33095|Waterfront Properties Limited|O
+CH|33106|FAGUNDO, DENNIS E.|O
+CH|33107|Cross, Norma|O
+CH|33134|MVB Management Ltd|O
+CH|33143|HAYWARD, DAVID|O
+CH|33203|BAUM, JUDITH D.|O
+CH|33210|Roust Trading Ltd.|O
+CH|33213|Southern Cross Sports Management|O
+CH|33245|PEREIRA, JOHN D.|O
+CH|33253|American Constantine Insurance Company Ltd|O
+CH|33306|Rothwell, Eric Garth|O
+CH|33344|Bermuda Broadcasting Company Limited|O
+CH|33353|FRASER, RICHARD M M|O
+CH|33361|Specialised Technologies Limited|O
+CH|33481|RAPOSO, JOHN|O
+CH|33523|ESC Ltd.|O
+CH|33527|Stephenson Harwood LLP|O
+CH|33532|West End Development Corporation|O
+CH|33534|Ignition  Bermuda  Ltd.|O
+CH|33589|Rankin, Olga|O
+CH|33602|Fagundo, Dennis John|O
+CH|33614|Rosebud Trust|O
+CH|33696|Burnt Point Trust|O
+CH|33698|James Dockeray|O
+CH|33700|Stratus Technologies Bermuda Ltd.|O
+CH|33712|SOUTHERN, LUCILLE|O
+CH|33812|HEAL, JAMES FREDERICK|O
+CH|33859|Winchester Global Trust|O
+CH|33873|Container Ship Management Ltd.|O
+CH|33879|Southampton Beach Resort Ltd.|O
+CH|33889|Magnolia Properties Ltd.|O
+CH|33914|Honeywell Bermuda L.P.|O
+CH|33943|MIRA CETI Ltd.|O
+CH|33974|CS  Australasia  Limited|O
+CH|34008|WARWICK, JOHN & DONNA|O
+CH|34027|Trimingham Brothers Limited|O
+CH|34029|Transport Provider Ltd.|O
+CH|34056|Landmark Southampton Ltd.|O
+CH|34067|Burgess, Albert|O
+CH|34101|Frias, Jennifer Jane|O
+CH|34128|KURRON SHARES OF AMERICA|O
+CH|40001|Freisenbruch Meyer Investment  Holding  Ltd.|O
+CH|40004|Fowle, Graham|O
+CH|40005|Ford, Edwin|O
+CH|40006|Fernandes, John|O
+CH|40007|Fox, Sharon|O
+CH|40008|Fisher, David|O
+CH|40009|Foster & Wolkind, P. C.|O
+CH|40010|Flood, Isabelle|O
+CH|40011|Fagundo Family Trust|O
+CH|40014|Fox, Elijah Joseph|O
+CH|40015|Fasken Martineau Dumoulin LLP|O
+CH|40016|Fountain, Annabel E. C.|O
+CH|40021|Fifth Street Finance Corp.|O
+CH|40023|Fritholme Gardens Residential Estate|O
+CH|40024|Farquharson, Angie|O
+CH|40026|Faegre Baker Daniels LLP|O
+CH|40027|Faegre Baker Daniels LLP|O
+CH|40028|Fontanetta, Michael|O
+CH|40029|Foley, Allen|O
+CH|40032|Fairbairn Catley Low & Kong|O
+CH|40034|Fisher, Christopher|O
+CH|40035|Francis J Vallis Trust|O
+CH|40037|Foggo, Kristi|O
+CH|40040|FU Songyang|O
+CH|40041|Fassler, Kourtney|O
+CH|40042|5Fathom Ltd.|O
+CH|40043|Fakunle, Eyitayo|O
+CH|40044|Ferrero Law Firm et al|O
+CH|40045|Fray, Jimmy|O
+CH|40046|FARRELL, CAROLA|O
+CH|40047|Finance & Risk Services Ltd.|O
+CH|40048|Farge, Emma Daisy|O
+CH|40049|Fiszman, Emma, Katie, Marc & Paul|O
+CH|40050|Froud, Pamela|O
+CH|40051|Fox, Rhiannon|O
+CH|41018|Applewood Trust|O
+CH|41126|ABT HOLDING LTD. & XEDEX INTERNATIONAL LTD.|O
+CH|41188|APPLEBY|O
+CH|41195|Atlantico Trust|O
+CH|41212|ARNOLD, IBERIA|O
+CH|41213|Abercrombie & Russell Ltd.|O
+CH|41215|AET Inc. Ltd.|O
+CH|41220|Argent Global  Bermuda  Limited|O
+CH|41281|ARGUS INSURANCE CO. LTD|O
+CH|41299|A.J. PARK|O
+CH|41302|AAHSA RISK MANAGEMENT LTD.|O
+CH|41305|ALTICOR INC.|O
+CH|41312|Applied Computer Tectnologies Ltd.|O
+CH|41314|ABN AMRO BANK N.V.|O
+CH|41315|ATTICUS TRUST|O
+CH|41331|ADDLESHAW GODDARD|O
+CH|41333|ARDENT INVESTMENT MANAGEMENT LIMITED|O
+CH|41341|AVIATION COMMONWEALTH|O
+CH|41345|ALKON, BRIAN|O
+CH|41347|ADAMS, ROBERT & MARION|O
+CH|41351|AGFA GEVAERT N.V.|O
+CH|41361|ADAMS SUBSEA LTD.|O
+CH|41365|ASSOCIATED CUISINE LTD|O
+CH|41367|Argent Global Convertible Securties Ltd.|O
+CH|41405|ARTHUR MORRIS, CHRISTENSEN|O
+CH|41427|AMARANDS DEVELOPMENT CORPORATION LTD|O
+CH|41440|Uberrimae Fidei Insurance Co.|O
+CH|41448|CASSAN MACLEAN|O
+CH|41470|ASPEN ASSOCIATES LTD.|O
+CH|41473|ACADIA LIFE INTERNATIONAL LIMITED|O
+CH|41480|ARCHER, MICHAEL & LESLEY|O
+CH|41482|Alpha Investment Advisory Group Ltd.|O
+CH|41484|Abdullah: Ameenah|O
+CH|41491|APD TRUST|O
+CH|41499|ADAMS & ADAMS|O
+CH|41508|Argus Group|O
+CH|41521|Arbor Capital Ltd|O
+CH|41523|Araujo: debra|O
+CH|41535|ASHBY, WILLIAM|O
+CH|41562|ACCOUNTABILITY  BERMUDA  LTD.|O
+CH|41566|LONGWAY LTD|O
+CH|41567|COOPER, ALEXANDER SAMUEL LIMITED|O
+CH|41572|NASH, ADRIAN & ARTURO SARMIENTO|O
+CH|41574|MB Capital Partner Ltd.|O
+CH|41590|ACE LIMITED|O
+CH|41592|ACLIRES|O
+CH|41604|ADVANCED ECO TECHNOLOGY LTD.|O
+CH|41610|ALEX SAM LIMITED|O
+CH|41637|AMZAK CAPITAL MANAGEMENT, LLC|O
+CH|41651|AQUARENA LTD.|O
+CH|41653|Adderley, Vernall & Lorraine|O
+CH|41663|Aguas, ligaya|O
+CH|41666|Amcap Holdings Ltd.,|O
+CH|41674|PADRAIG McALISTER|O
+CH|41677|Alba Leasing Limited|O
+CH|41682|A.J.Lewis Enterprise Ltd.|O
+CH|41689|Araujo Michael|O
+CH|41691|Ashdown Dr. David Spanton|O
+CH|41692|Abril Abogados, S.L.|O
+CH|41693|Auda Hedge LLC|O
+CH|41694|Anand and Anand|O
+CH|41698|Pitcher, Angela|O
+CH|41699|Adams, Kyle|O
+CH|41703|Airbus   2009 Limited|O
+CH|41710|ABC Leasing Limited|O
+CH|41719|American United Life Insurance Company|O
+CH|41720|Assured Guaranty Ltd.|O
+CH|41722|ALT Properties US Ltd.|O
+CH|41723|ALT Properties Europe Ltd.|O
+CH|41727|Air Transworld Limited|O
+CH|41735|Atlant Soyuz|O
+CH|41737|Agincourt Ltd.|O
+CH|41738|Altimo Management Services Limited|O
+CH|41741|Aviation Capital Group Corp.|O
+CH|41742|Arorash, Kevin|O
+CH|41751|Allied Domecq  Holdings  Limited|O
+CH|41752|Arnold & Porter  UK  LLP|O
+CH|41753|Aton Group|O
+CH|41754|Anheuser   Busch, Incorporated|O
+CH|41755|AWM Ltd.|O
+CH|41756|A1 Fencing Ltd.|O
+CH|41758|Aviation Business Consulting Services Ltd.|O
+CH|41760|Aloma Ltd.|O
+CH|41761|Albouy, Katharyn|O
+CH|41763|American Safety Razor Company, LLC|O
+CH|41765|Ali Robinson, Wendy|O
+CH|41767|Adams and Reese LLP|O
+CH|41768|American Bureau of Shipping|O
+CH|41769|Ahern, Bente|O
+CH|41774|Allen, Janice|O
+CH|41776|ADT Fire & Security|O
+CH|41780|Austin, Kathy|O
+CH|41787|Association of School Principals|O
+CH|41790|Aegis Trust|O
+CH|41791|Adderley, Richard Ross Estate|O
+CH|41793|Adderley, Nathalie|O
+CH|41795|Activision Blizzard Inc,|O
+CH|41796|Autmezguine, Alberto|O
+CH|41799|Algoma Central Corporation|O
+CH|41801|Adcock, JohnN|O
+CH|41802|Aitken, Harold|O
+CH|41804|Angelor, Deborah Ann Jordan|O
+CH|41805|Arnason   Faktor|O
+CH|41806|Anglican Church of Bermuda|O
+CH|41809|Armadillo Management Co. Ltd.|O
+CH|41812|Appaloosa Management LP|O
+CH|41814|Allen, Beverly|O
+CH|41817|ALL INSURANCE Solutions Management, LLC|O
+CH|41818|Abdul Jabbar, Maymunah Francine|O
+CH|41819|Antenor Ltd.|O
+CH|41820|Atlantic Marine Associates Inc.|O
+CH|41821|Assoc. Certified Money Laundering Specialists Inc.|O
+CH|41824|Arietta Limited|O
+CH|41825|Advance China I.P. Law Office|O
+CH|41826|Air Canada|O
+CH|41827|Advance Partners International Limited|O
+CH|41828|Arnold, Matthew Dr.|O
+CH|41830|Andinoria Ltd.|O
+CH|41831|Ansari, Abdun Nur|O
+CH|41832|Arthur Morris & Company|O
+CH|41833|Ascendant Group|O
+CH|41834|Ardea Capital LLC|O
+CH|41836|Arnall Golden Gregory LLP|O
+CH|41837|Aggarwal, Nitin|O
+CH|41844|Angeles & Lugo Lovaton|O
+CH|41845|Almeida, Carmen|O
+CH|41847|The Ashley Trust|O
+CH|41848|AgencyPort Software US Incorporated|O
+CH|41849|A.T. Resolve Sarl|O
+CH|41850|ADC Therapeutics Sarl|O
+CH|41851|ADC Products Switzerland Sarl|O
+CH|41853|Auven Therapeutics|O
+CH|41854|Allen, Claude|O
+CH|41855|Antigone Limited|O
+CH|41856|Aico Brevetti|O
+CH|41858|African Minerals Limited|O
+CH|41862|AG Show Ltd.|O
+CH|41863|Araujo, Caroline|O
+CH|41864|Algoma Shipping Ltd.|O
+CH|41865|Amlin  Bermuda|O
+CH|41866|Angostura Trust|O
+CH|41867|Attride Stirling, Jeffrey|O
+CH|41869|Almeida, Steven|C
+CH|41870|Ace Bermuda Insurance Ltd.|O
+CH|41872|AHI CV|O
+CH|41874|ABA Group Inc.|O
+CH|41875|Admiral's View Ltd.|O
+CH|41876|Anfossi, Elma Kathleen|O
+CH|41877|Anfossi, Brian Copeland|O
+CH|41878|Aditya & Associates|O
+CH|41879|Artis Ltd.|O
+CH|41880|ABN Amro Bank, Jersey Branch|O
+CH|41881|Anfossi, Norman David|O
+CH|41882|AMR Services Ltd.|O
+CH|41883|Aberdeen Trust|O
+CH|41884|Anfossi, Frederick William Victor|O
+CH|41886|Atoll Pro Ltd.|C
+CH|41887|Atlantic Construction and Marine Services Ltd.|C
+CH|41890|Arorash, Keidoe|O
+CH|42006|BANK OF N T BUTTERFIELD & SON LTD.,|O
+CH|42018|BAYFIELD TRUST   HUGH WOOD|O
+CH|42022|The Baron Bermuda Trust  SHTCL as Trustee|O
+CH|42025|Bowsprit Trust|O
+CH|42026|Bamboo Trust|O
+CH|42033|THE BANK OF BERMUDA LTD,.|O
+CH|42192|BERMUDA MECHANICS BENEFICIAL ASSOCIATION|O
+CH|42259|Banbury Limited|O
+CH|42284|Borland, Peter E.|O
+CH|42311|Bermuda Government|O
+CH|42375|Baptiste Builders Supply|O
+CH|42477|Brown: Peter|O
+CH|42513|BAPTISTE: RAYMOND|O
+CH|42543|BILLINGS: DOROTHY|O
+CH|42557|BERMUDIANA DENTAL GROUP|O
+CH|42559|BERMUDA PEST CONTROL LIMITED|O
+CH|42563|BARRINGTON INVESTMENT LTD.|O
+CH|42571|BRANGMAN: IONA MAE|O
+CH|42577|The Estate of Donald Henry Burns,|O
+CH|42579|Michael T. D. Budge,|O
+CH|42591|BELL: RICHARD & ELEANOR|O
+CH|42611|BASSETT, AMICE HOPE|O
+CH|42612|BEGG: CURTIS|O
+CH|42614|BERMUDA CREAMERY LTD.,|O
+CH|42621|BERMUDA GLASS COMPANY LTD.|O
+CH|42623|Buzzi, Notara & Antonielli d'Oulx S.r.l.,|O
+CH|42631|Bulling, Mr & Mrs Ronald E.|O
+CH|42633|Blommenholm Settlement|O
+CH|42637|Bermuda Import & Export Co. Ltd.|O
+CH|42657|Beacon Trust: The|O
+CH|42668|BUTTERWORTH, FRASER GRAEME|O
+CH|42670|RICHEMONT INTERNATIONAL S.A.|O
+CH|42677|Burgess: Norris C. R.|O
+CH|42682|BELBODA, ESTATE OF GEORGE ERIC|O
+CH|42684|BURGESS, ROBERT|O
+CH|42699|Bean: Barbara|O
+CH|42702|Barrington International Ltd.|O
+CH|42705|Belboda: Ruth Ismay|O
+CH|42715|BELBODA, GREGORY VINCENT|O
+CH|42716|BREMAR, TINA|O
+CH|42740|BROWN, LEONARD G.|O
+CH|42746|BULL, DAVID JOHN|O
+CH|42760|BIECO HOLDINGS LIMITED|O
+CH|42768|Bailey Walsh & Co. LLP|O
+CH|42770|BURGESS, E. BURNELL|O
+CH|42771|BASCOME, CARRIE L.|O
+CH|42773|BUTTERFIELD, ALFREDA EDITH|O
+CH|42787|BARKER, STEPHEN J.|O
+CH|42802|BEAN, HENRIETTA V.|O
+CH|42835|BAY IMPORTS & MARINE SERVICES|O
+CH|42869|Bermuda Healthcare Services Ltd|O
+CH|42894|Borden Ladner Gervais LLP|O
+CH|42902|BRIARFIELD INSURANCE CONSULTANTS LTD.|O
+CH|42912|BRASIL TELECOM SUBSEA CABLE SYSTEMS  BERMUDA  LTD.|O
+CH|42922|BLUE LINE INVESTMENTS LIMITED|O
+CH|42935|BERMUDA POLICE SERVICE|O
+CH|42958|BASCOME, JAMES BERNARD  ESTATE OF|O
+CH|42960|BENN, CHRISTINE|O
+CH|42965|BLUEWATER TRUST|O
+CH|42972|BEARINGPOINT INTERNATIONAL HOLDINGS LIMITED|O
+CH|42978|BARBER, DAVID ALFRED  ESTATE|O
+CH|42980|BARANY, HOLLY ANNE HAVEMEYER|O
+CH|42989|BONE MCALLESTER NORTON PLLC|O
+CH|42991|Bremar, Gina Cheryl|O
+CH|42993|BRONSON TRUST|O
+CH|43003|Benjamin: MacDonald|O
+CH|43007|Columbus Capital Offshore Fund, Ltd.|O
+CH|43019|BLACK PEARL TRUST|O
+CH|43021|Bank of America N.A.|O
+CH|43037|Bermuda Air Medivac Limited|O
+CH|43041|BRANGMAN, ANGELA|O
+CH|43047|BELMONT HILLS PROPERTY LIMITED|O
+CH|43052|Benevides, Joel  Estate of|O
+CH|43064|BERMUDA HOMES FOR PEOPLE LTD.|O
+CH|43092|Bullen, Greta M.|O
+CH|43093|BEEZER, SYLVIA|O
+CH|43099|Brooks, Raymond|O
+CH|43106|BELVIN, ANITA|O
+CH|43107|Chagnon Foundation Ltd|O
+CH|43115|BARNES, MICHAEL|O
+CH|43116|Brandstock Services AG,|O
+CH|43124|Infigen Energy  Bermuda  Limited|O
+CH|43127|Bermuda Housing Corporation|O
+CH|43171|BREWIN, ELSPETH|O
+CH|43175|BRANDSTOCK AG|O
+CH|43187|BRIGHT BRIGADE|O
+CH|43191|BLAIKLOCK, "TIM" DAVID M.|O
+CH|43209|BAKER & MCKENZIE LLP|O
+CH|43214|BARBER, MARY  ESTATE OF|O
+CH|43219|A.S. Cooper & Sons Ltd.|O
+CH|43223|BRIGHTSIDE TRUST|C
+CH|43230|Biogen MA Inc.|O
+CH|43237|BARCLAYS BANK PLC|O
+CH|43238|Bermuda Cricket Board|O
+CH|43245|Coson Corporate Services|O
+CH|43263|BERMUDA PERFUMERY|O
+CH|43265|Bromby: Nicola|O
+CH|43272|Bruce, Lurline Maude|O
+CH|43281|Baptise Real Estate Holdings|O
+CH|43283|BRINKS HOFER GILSON & LIONE|O
+CH|43285|Burgess, Helen Gloria Jean|O
+CH|43309|Bermuda Construction Services Ltd.|O
+CH|43310|BELL, GARTH WAYNE|O
+CH|43329|BEST BUY ENTERPRISE SERVICES, INC.|O
+CH|43335|CANNONIER BEAN: JEAN|O
+CH|43345|COMMERCE CASUALTY INSURANCE COMPANY LTD.|O
+CH|43362|Bean, Deborah|O
+CH|43364|Bearden Limited|O
+CH|43365|Baptiste Limited|O
+CH|43368|Bird, James & Kim Ann Bennett|O
+CH|43381|Bottomley, Dean|O
+CH|43387|COLONIAL INSURANCE COMPANY LIMITED|O
+CH|43405|Bennett, Francyna|O
+CH|43412|Itau Unibanco S.A.|O
+CH|43420|COWAN, LIEBOWITZ & LATMAN, P.C.|O
+CH|43422|CROSS, BURNETTE|O
+CH|43430|CABLE & WIRELESS BERMUDA LTD.|O
+CH|43431|CCS GROUP|O
+CH|43440|Complete Office Ltd.|O
+CH|43445|CONTINENTAL TRUST CORPORATION LTD.|O
+CH|43455|CRAWFORD: JUNE|O
+CH|43458|Dineff Trademark Law Limited|O
+CH|43463|Cameron Renaud,|O
+CH|43465|THOMSON COMPU MARK|O
+CH|43466|Cabinet Weinstein|O
+CH|43469|CCS GROUP|O
+CH|43476|CONSOLIDATED SERVICES LTD.|O
+CH|43484|Cumming, Charles I.|O
+CH|43489|Caines, Nicole|O
+CH|43512|CLIFFORD CHANCE|O
+CH|43520|COLGATE PALMOLIVE COMPANY,|O
+CH|43526|Corrado, Henry|O
+CH|43537|Cooper, John H.|O
+CH|43549|CARDINAL AVIATION LTD.|O
+CH|43553|COOPER, MARGARET  ESTATE|O
+CH|43561|Car   Am Foundation Holdings Ltd.|O
+CH|43582|Cool Air  Bermuda  Limited|O
+CH|43623|Cable & Wireless Network Services Ltd.|O
+CH|43628|Jones, Juanita    Previously named Campbell|O
+CH|43637|COOPER, DAVID G.|O
+CH|43657|CABLE & WIRELESS PLC|O
+CH|43666|C. R. BARD INC.|O
+CH|43675|CARD, ANDREW|O
+CH|43681|CARPATHIA PRODUCTIONS LTD|O
+CH|43692|Clarien Bank Limited|O
+CH|43697|CLEMENS, BARBARA|O
+CH|43705|Correia Construction Co.|O
+CH|43708|CALCITECH LTD|O
+CH|43710|CEDARCREST APARTMENTS LIMITED|O
+CH|43714|COLLINS, MICHAEL BRIAN|O
+CH|43715|CLARIANT GMBH|O
+CH|43723|CHIAPPA, THOMAS|O
+CH|43729|CARNE, GRETA & THOMAS|O
+CH|43748|CHRISTENSEN, CRAIG|O
+CH|43753|CASTOR   POLLUX TRUSTS|O
+CH|43770|Colarusso: Maria|O
+CH|43778|Dana Classic Fragrances, INC.|O
+CH|43782|Cabral, Persephone Elizabeth|O
+CH|43793|Chadwick, Donald  Estate of|O
+CH|43808|CHURCH & DWIGHT CO., INC.|O
+CH|43814|CAINES, TRAVIS  MR & MRS|O
+CH|43818|CLIFFORD CHANCE LLP|O
+CH|43819|Corbett: Jodi|O
+CH|43846|COUPER, NEIL BLACKSTOCKS|O
+CH|43851|CHRISTENSEN, CRAIG|O
+CH|43863|REALOGY CORPORATION|O
+CH|43868|CWC Island Limited|O
+CH|43874|CABLE & WIRELESS PLC.|O
+CH|43881|COONEY, GRETCHEN|O
+CH|43885|CORPORATION OF HAMILTON|O
+CH|43890|COLONY CAPITAL LLC|O
+CH|43891|CLARIANT INTERNATIONAL LTD.|O
+CH|43899|COLLINS, DENIS & BETH|O
+CH|43916|Cosmic Ltd.|O
+CH|43934|CARTER, FRANCIS J.|O
+CH|43935|CBS Corporation|O
+CH|43938|CBS HOLDINGS  BERMUDA  LTD.|O
+CH|43939|CBS WORLDVISION  BERMUDA  LTD.|O
+CH|43940|CBS BROADCAST KINGWORLD  BERMUDA  LTD.|O
+CH|43941|CBS STUDIOS  BERMUDA  LTD.|O
+CH|43944|COX HALETT WILKINSON|O
+CH|43953|CBS Holdings  Bermuda  2 Ltd.|O
+CH|43958|COOPER, REED|O
+CH|43968|Classic Sports International Ltd|O
+CH|43970|Continental Gold Limited|O
+CH|43971|CTJ Limited|O
+CH|43976|Chivas Brothers Ltd.|O
+CH|43977|CG Marketing & Finance Ltd.|O
+CH|43983|Carmichael, Marcia|O
+CH|43986|Curley: David Francis|O
+CH|43989|Champagne Perrier Jouet|O
+CH|43995|CBS Corporation|O
+CH|43996|Cades Schutte LLP|O
+CH|44003|Crazylegs Trust|O
+CH|44007|CBS   CSI Distribution  Bermuda  Ltd|O
+CH|44015|CS  Far East  Holdings Company Ltd.|O
+CH|44023|Christensen, R. Gwendolyn|O
+CH|44034|Chico's Fas, Inc.|O
+CH|44040|Cabinet Szilvasi|O
+CH|44041|Crow, Nigel|O
+CH|44048|Corporation of Hamilton & Stevedoring Ser, Ltd.|O
+CH|44051|Compagnon, Karen E.|O
+CH|44053|Chateauroux Limited|O
+CH|44061|Caritas Energy Growth Fund I  Bermuda  Ltd.|O
+CH|44063|Cox Hallett Wilkinson|O
+CH|44066|Dill, Eldon|O
+CH|44075|Canaan Ltd.|O
+CH|44077|Cyrus, Carmon|O
+CH|44089|CPA Global|O
+CH|44096|Cash, David|O
+CH|44101|Crocs, Inc.|O
+CH|44106|Clarien Bank Limited|O
+CH|44107|Cieters, Jan|O
+CH|44108|Cerveceria Modelo, S.A. De C.V.|O
+CH|44109|Cornerstone Bible Fellowship|O
+CH|44110|Chip Venture Ltd.|O
+CH|44112|Cougar, Ltd.|O
+CH|44116|COVIDIEN AG|O
+CH|44118|Cantor Colburn LLP|O
+CH|44123|Deeside Holdings Limited|O
+CH|44128|Cornerstone Management  Bermuda  Ltd.|O
+CH|44131|CA, Inc.|O
+CH|44137|Cornerstone E. S. Ltd.|O
+CH|44138|Clariden Leu|O
+CH|44139|Coleman, Paul|O
+CH|44141|Hendrickson, Shayna|O
+CH|44143|Calcitech Synthetic Minerals Ltd.|O
+CH|44146|Cooper, Somers|O
+CH|44148|Corundum Investments Ltd.|O
+CH|44150|Caravan Trust  Cargill II|O
+CH|44156|Carrick, David George|O
+CH|44159|Darling: Elaine|O
+CH|44161|Cooper, Herbert Morris|O
+CH|44164|Beneficiaries of the will trusts of      |O
+CH|44165|Clifford Chance|O
+CH|44170|Clarke, Ingrid|O
+CH|44174|Chandler, Bastrock|O
+CH|44178|WWIPPS SARL|O
+CH|44182|Calko, Jennifer L.|O
+CH|44184|Costas Georgopoulos & Partners|O
+CH|44188|CARREIRO, JOSE & REGINA|O
+CH|44192|Carreiro, Virginio Do Cout|O
+CH|44197|CBS Firewalker II Ltd.|O
+CH|44201|Chevereau, Philippe|O
+CH|44203|Canaccord|O
+CH|44206|Corporate Secretarial Services Ltd.|O
+CH|44208|Carreiro, Maria Dos Anjos|O
+CH|44209|Crowne Capital Ltd.|O
+CH|44210|CB Capital Trust |O
+CH|44211|Cable & Wireless International HQ Limited|O
+CH|44216|CGL International Holdings Limited|O
+CH|44217|CGL Dominical Holdings Limited|O
+CH|44218|CGL Lunareja Holdings Limited|O
+CH|44219|CGL Santander Holdings Limited|O
+CH|44221|CGL Berlin Holdings Limited|O
+CH|44222|Campbell, Charlita D.K.|O
+CH|44224|Castle, Victoria|O
+CH|44226|Cascio, Anna & Ray, Karen Roberts|O
+CH|44227|Constancy Trust|O
+CH|44232|Jones, Juanita J. P.|O
+CH|44236|Caisey, Yvette Winifred|O
+CH|44240|DILLAS: HELEN|O
+CH|44242|Cable and Wireless Communications Ltd.|O
+CH|44247|Cummings Eversley, Dawn Kennita|O
+CH|44249|CGL Greater Buritica Holdings Limited|O
+CH|44258|Castle Re Insurance Company Ltd.|O
+CH|44259|DARRELL, WILLIAM W.|O
+CH|44261|Cooney, James A.|O
+CH|44263|CGL Dojura Holdings Limited|O
+CH|44266|Chiappa, Christopher|O
+CH|44284|DESILVA: ALLAN & JANICE|O
+CH|44291|Dacosta, Joseph|O
+CH|44297|Carl Darrell,|O
+CH|44298|DE SILVA, ZANE|O
+CH|44302|Dorsey & Whitney LLP|O
+CH|44313|DEFONTES, KENNETH|O
+CH|44321|DEFONTES TELEVISION LIMITED  RETAIL|O
+CH|44322|Defontes Broadcasting  Television  Ltd. VSB TV 11|O
+CH|44323|DEFONTES BROADCASTING CO. LTD.  VSB RADIO|O
+CH|44345|Diversified Services Bermuda Ltd.|O
+CH|44346|DAPONTE, DURVAL|O
+CH|44350|DAL POGETTO, MARK|O
+CH|44351|Dillas, Helen & Andrea|O
+CH|44362|Daniels: Kenneth C.E.|O
+CH|44371|Dowling: Elaine|O
+CH|44387|Doxa Technologies Ltd.|O
+CH|44408|DUBLOON TRUST|O
+CH|44424|MELLO, DESMOND|O
+CH|44431|DAVIDSON, MICHAEL J. B.|O
+CH|44437|DRINKER, BIDDLE & REATH LLP.,|O
+CH|44442|DRECHSEL DIVERSIFIED BERMUDA LTD|O
+CH|44444|DAVIDSON, IAN|O
+CH|44458|DAVIDSON, WILLIAM J. & BRISTOL|O
+CH|44461|DE GRAFF, CURTIS|O
+CH|44472|Deutsche Bank A.G. London Branch|O
+CH|44508|Robinson, Cecilie Edith Ismay  Nee Darrell|O
+CH|44527|DYER, EDMUND|O
+CH|44530|LAURENCEO, DONALDS S. SR.|O
+CH|44550|Duperreault, Brian|O
+CH|44552|Davis, Raymond|O
+CH|44553|Dill, Jayson|O
+CH|44561|DUNLOP, DANNY|O
+CH|44582|Datacraft Americas Holding Ltd|O
+CH|44587|DACOSTA, WENDY|O
+CH|44614|Lawler, David Patrick j. & Brown, Elaine Mary C.|O
+CH|44616|AngloAmerican Plc|O
+CH|44627|Donahue & Partners LLP|O
+CH|44629|Daley, Kevin|O
+CH|44653|DAWSON, LISA|O
+CH|44657|DA PONTE, NARCISO P.|O
+CH|44668|DACOSTA, CHRISTINE|O
+CH|44675|DILL, MARJORIE  MARGARET  EILEEN EST|O
+CH|44681|DuBois: Mary Louise  Estate|O
+CH|44688|Decouto & Dunstan Real Estate Limited|O
+CH|44692|Dural, Murad|O
+CH|44698|DHL EXPRESS BERMUDA|O
+CH|44712|Downing Elaine|O
+CH|44715|DLA Piper LLP  US|O
+CH|44719|De Silva, Nellie Louise|O
+CH|44736|Danish Ship Finance|O
+CH|44742|Daniels, Mia Suzeann|O
+CH|44749|Dresser International LLC|O
+CH|44764|Drover, Olive Bernice|O
+CH|44774|Davis, Lucy Elizabeth|O
+CH|44778|Dolan, William|O
+CH|44779|Desilva Brago, Marie|O
+CH|44781|Doughty, Betty|O
+CH|44793|De Wijze, Victor|O
+CH|44803|Dickinson, Melvin|O
+CH|44804|Degraff, Curtis|O
+CH|44815|Dickens, Margaret Ann|O
+CH|44817|DeSilva, Zane Jr.|O
+CH|44818|Deutsche Bank Trust Company Americas|O
+CH|44819|De Frias, Mario|O
+CH|44823|Drinkwater, John|O
+CH|44824|Dacosta, Catarina|O
+CH|44825|D. Young & Co. LLP,|O
+CH|44827|Douglas, Jakisha & James|O
+CH|44828|Document Genie International Ltd.|O
+CH|44831|Dixon, Samantha Louisa|O
+CH|44832|Dixon, Nea L. or T. M. Dixon|O
+CH|44835|Daphne Adams Trust|O
+CH|44837|David, Maricar|O
+CH|44838|Darrell, Richard|O
+CH|44839|Dockwise|O
+CH|44842|Durham, William|O
+CH|44844|Davis, Scott|O
+CH|44845|Desilva, Debora|O
+CH|44846|Dill, Patrick|O
+CH|44847|Dorsey & Whitney LLP|O
+CH|44848|DETAILS MANAGEMENT LTD|O
+CH|44853|Davy, Quennetta E. K.|O
+CH|44855|Dreyfus|O
+CH|44857|Daspin, Jonathan|O
+CH|44858|Deshields, Jennita|O
+CH|44859|Drover, Georgi|O
+CH|44860|Doble, Andrew|O
+CH|44861|Dillas, Cynthia|O
+CH|44862|Doyle, Dermot|O
+CH|44863|Durham Thompson, Shangri La|O
+CH|44864|De Roza, Dy Juan|O
+CH|44866|DV Construction Ltd.|O
+CH|44867|DeVent, Scymone|O
+CH|44870|Desilva, Glen|O
+CH|44871|Darrel, Edward|O
+CH|44873|DHL Express Global|O
+CH|44876|Dundee Leeds Management Services Ltd|O
+CH|44878|Dickinson, Dr. John|O
+CH|44880|Doig, Hannah|O
+CH|44882|Dill, Khijuan Gilbert|O
+CH|44883|Davis, Corlita|O
+CH|44884|De Silva Trust|O
+CH|44885|Dowling, Quinton|O
+CH|44887|Denbrook, Donna M.R.|O
+CH|44888|Duarte, Jose|O
+CH|44892|Darrell, Randolph|O
+CH|44893|Decouto, Douglas|O
+CH|44894|Da Silva, Maria Jose|O
+CH|44895|DeMello, Elsie|O
+CH|44897|Davis, Randy|O
+CH|44898|DeCosta, Wendy|O
+CH|44899|Dutranoit, Patricia|O
+CH|44903|Dicker, Michael|O
+CH|44904|Driot, Jean Paul|O
+CH|44905|The Dannon Company, Inc.|O
+CH|44906|DeFontes, Joanne  Estate|O
+CH|44907|DeShields, Megan & Anthony|O
+CH|44908|Dill, Ralph Ludwig|O
+CH|44909|Devent, Antonia|O
+CH|44910|Darrell, Lorna Thelma|O
+CH|44912|Dundonald Properties Ltd.|O
+CH|44913|Darrell Augustus, Leighsa|O
+CH|44914|Dexxon Holdings Ltd.|O
+CH|44917|Dickinson Baras, Robyn|O
+CH|44918|DLA Piper LLP  US|O
+CH|44920|Dynamic Asia Multi Strategy Fund Limited|O
+CH|44921|Deutsche Bank|O
+CH|44923|Du Bois, Crystal|O
+CH|44924|Dilks, Tracy Elizabeth|O
+CH|44925|Dixon, Roy|O
+CH|44926|Davis, Preston|O
+CH|44927|Dill, Valerie Janice|O
+CH|44929|Darrell, Jacqueline|O
+CH|44930|Dundee Offshore Services Ltd.|O
+CH|44931|Dundee International Limited|O
+CH|44932|Dalvey Asset Management Ltd|O
+CH|44934|Darkside Productions Inc|O
+CH|44935|De Oliveira, Elia M.|O
+CH|44936|Dineff Trademark Law Limited|O
+CH|44937|Dyer, Mildred|O
+CH|44938|Drinker Biddle & Reath LLP|O
+CH|44939|Diamond Living Limited|O
+CH|44941|De Sousa, Felipe Manuel P A|O
+CH|44943|Darrell, Damon & Anwar|O
+CH|44944|DeSilva, Sahrika|O
+CH|44945|DeSilva, Alan|O
+CH|44946|Dears, Ruth Eileen|O
+CH|44947|Dunstan, David|O
+CH|44948|De Rosa, Diana|O
+CH|44949|DVB America NV|O
+CH|44951|Denson Development Limited|O
+CH|44952|Destination Summit International Bermuda Ltd.|O
+CH|44953|DeSilva, Carolyn  Estate of|O
+CH|44954|Du Bois, Brian|O
+CH|44955|Dickinson Trust|O
+CH|44956|Duffy, Charles|O
+CH|44957|DeSilva, Amanda|O
+CH|44958|Darrell, Callette|O
+CH|44959|Davis, Craig|O
+CH|44960|Dillas, Clifford|O
+CH|44961|Desilva, Karen Ann|O
+CH|44962|Duperreault, Nancy|O
+CH|44964|Dutranoit, Charles Henri Lawrence|O
+CH|44967|De Villa, Jr. Edgardo|O
+CH|44968|Davidge, Richard M.|O
+CH|44969|Daponte, Manual|O
+CH|44971|Davidson, Cecile|O
+CH|44972|Dionysys Trust|O
+CH|44974|Dillas, Derek & Gloria|O
+CH|44975|Dot BM Ltd.|O
+CH|45001|Bennett Johnson, Alice|O
+CH|45003|BFO Capital Holdings Ltd.|O
+CH|45006|Burchall, Donyelle D.|O
+CH|45009|eVOYAGER TRUST|O
+CH|45012|1849 Trust|O
+CH|45014|Eminence Trust|O
+CH|45091|Eucon Ltd.|O
+CH|45119|Eversley, Phyllis|O
+CH|45123|E. & J. GALLO WINERY|O
+CH|45127|EDGECOMBE: RENEE|O
+CH|45128|EDMUND: GIBBONS LTD|O
+CH|45134|EPPS: JOHN E.|O
+CH|45135|EDGECOMBE: RENEE A.|O
+CH|45161|Morgan, Lewis & Bockius LLP,|O
+CH|45167|MARINER PLUS LTD|O
+CH|45197|E. L. & W. ROBINSON LIMITED|O
+CH|45199|Export Development Canada|O
+CH|45221|Eversheds LLP|O
+CH|45240|MININO Abogados|O
+CH|45241|Eminence Contractors Ltd.|O
+CH|45245|ERNST & YOUNG|O
+CH|45252|E Proint|O
+CH|45266|Ecolab Inc.|O
+CH|45267|Eyke Trust|O
+CH|45268|Eight Hundred Holdings Ltd.|O
+CH|45272|ERNST & YOUNG TAX ADVISORS|O
+CH|45273|Eagle Park L.P.|O
+CH|45274|Edwards Angell Palmer & Dodge LLP|O
+CH|45280|Eve, Dennis W.|O
+CH|45286|Ernst & Young|O
+CH|45291|Edwards, James|O
+CH|45292|Edwards, Roseann|O
+CH|45293|Eminence Warehouse Ltd.|O
+CH|45294|Edan Trust|O
+CH|45297|Export Assist  Bermuda  Ltd.|O
+CH|45298|Ero, Irlene|O
+CH|45301|Elder Home Care Services|O
+CH|45302|Elite Group  The|O
+CH|45304|Englehorn, Mr & Mrs Kurt|O
+CH|45305|Endsmeet Animal Hospital|O
+CH|45307|Enterprise Settlement Trust|O
+CH|45308|Eurohelvitica Trustco S.A.|O
+CH|45309|Bowen, Wanda Jean|O
+CH|45310|Ezra Sutton|O
+CH|45311|Elder, George|O
+CH|45312|Edness, Rodney|O
+CH|45313|Endsmeet Trust|O
+CH|45316|Ernst & Young|O
+CH|45320|Executors of Sarah Sylvia Lee|O
+CH|45322|Eve, Shelly|O
+CH|45323|Elbow Beach Hotel|O
+CH|45324|Erskine, Alexander J.|O
+CH|45325|East West Bank|O
+CH|45326|Electrum Strategic Exploration Limited|O
+CH|45327|Esdaille, Terene|O
+CH|45328|Every, Blanche Rosemary,Estate of|O
+CH|45329|Everett, Ross|O
+CH|45331|Emmott, Margaret|O
+CH|45332|Edwards, Hadley Hayden R.|O
+CH|45333|Eversley, Troy|O
+CH|45334|Export Assist, Inc.|O
+CH|45335|Equity International|O
+CH|45337|Endeavour Capital Offshore Fund Ltd.|O
+CH|45338|Endeavour Regional Bank Opportunities Fund II|O
+CH|45341|Everett, Norma Christel|O
+CH|45344|Edwards, Glenda & Shaun Johnson|O
+CH|45345|EXOR NV|O
+CH|45348|Everson, Fay Jewel Ann|O
+CH|45350|E D & F Man Limited|O
+CH|45351|Edgewood Pediatrics Services|O
+CH|45352|EXOR S.p.A.|O
+CH|45353|Ewart, Gordon Duncan|O
+CH|45354|Esterhuysen, Ian|O
+CH|45355|Eminence Restoration Services Ltd.|O
+CH|45356|Ellison, David & Jane|O
+CH|45357|Elson, Harold Richard|O
+CH|46001|FLEETWOOD TRUST|O
+CH|46007|Fowle: Graham|O
+CH|46019|FRITH; HAROLD HAYES|O
+CH|46020|F.S. HOLDINGS LIMITED|O
+CH|46117|Southcorp Brands PTY Limited|O
+CH|46127|State House Trust Company Limited|O
+CH|46208|Fowle: Robert G.|O
+CH|46243|FRITH BROWN: SANDERS|O
+CH|46270|FRASER SMITH: LAIDLAW|O
+CH|46273|FREISENBRUCH   MEYER INSURANCE SERVICES LTD.|O
+CH|46274|BERMUDA FIRE & MARINE GENERAL INSURANCE CO. LTD.|O
+CH|46277|FRANCIS: ESTATE OF FRANCES CECILIA  DECEASED|O
+CH|46290|FINNEGAN, HENDERSON, FARABOW, GARRETT & DUNNER LLP|O
+CH|46293|French, Jocelyn W.|O
+CH|46294|Ferguson: Roderick  III|O
+CH|46309|FRANCIS, SINCLAIR|O
+CH|46319|FREITAG & BEST|O
+CH|46320|FUBLER, IVAN|O
+CH|46332|Furbert: Linda May|O
+CH|46333|Ferigo: Livio|O
+CH|46341|Finlay, James H.|O
+CH|46347|FROSS, ZELNICK, LEHRMAN & ZISSY, P.C.|O
+CH|46349|FULHAM INVESTMENTS|O
+CH|46369|FM INVESTMENTS  HOLDING  LTD.|O
+CH|46404|FAY, DR. JAMES|O
+CH|46409|Frick, Alan H.|O
+CH|46410|FRANCIS LIMITED|O
+CH|46416|FIGUEIREDO, MORRIS|O
+CH|46420|FRANK'S INTERNATIONAL|O
+CH|46452|Reliance Globalcom Limited|O
+CH|46453|Faries, Carol Ann|O
+CH|46468|Foster's Group Limited|O
+CH|46471|FLOORE, GEORGE|O
+CH|46502|Falcon Trust|O
+CH|46506|Flood, Derek T.|O
+CH|46507|Flood, Charles Archibald Vincent|O
+CH|46508|FairIsle Management Limited|O
+CH|46514|FLOOD, LEO|O
+CH|46519|FARIES, DAVID PETER  EST.|O
+CH|46520|Fischer, Melinda|O
+CH|46521|FOREST LABORATORIES HOLDINGS LIMITED|O
+CH|46531|FRITH, HAROLD  JR  AS TRUSTEE OF THE ATLANTIC TRUS|O
+CH|46534|FOUNTAIN, CARLA LEE K.|O
+CH|46536|FRIEND MEDIA TECHNOLOGY SYSTEMS LIMITED|O
+CH|46537|Cleveland|O
+CH|46554|FRANCOEUR & TODD|O
+CH|46555|FAIRMONT SOUTHAMPTON RESORT|O
+CH|46557|Ferigo, Livio|O
+CH|46559|Dehns|O
+CH|46560|Fraser Epps, Tina|O
+CH|46570|FINNSTAR LTD.|O
+CH|46571|Ferreira, Sylvia J.|O
+CH|46577|Foley, Eugene|O
+CH|46586|Figueirado Virginia Soares|O
+CH|46596|Frazer, Andria Lillian|O
+CH|46603|Frontier Reinsurance Limited|O
+CH|46605|Fire Arms Insurance Registry Ltd.|O
+CH|46607|Foggo, Alma Clair|O
+CH|46617|Faegre Baker Daniels LLP|O
+CH|46621|Fortress Investment Group LLC|O
+CH|46622|Flood, Richard E.  Estate of|O
+CH|46628|Firlodge Trust|O
+CH|46629|Fletcher, Rees|O
+CH|46630|FRKELLY|O
+CH|46632|Farge, Gillian|O
+CH|46636|Greenwich Kahala Aviation Ltd.|O
+CH|46638|Faries, Sandra|O
+CH|46642|Fox, Mr. & Mrs. Cornell   Lorna|O
+CH|46645|Ogin Bermuda Limited|O
+CH|46646|Foram Brokerage Ltd.|O
+CH|46647|Furtak, Edward|O
+CH|46650|Fiammenghi   Fiammenghi|O
+CH|46651|Fernando, Badanasinghe Roshan|O
+CH|46652|Fleming, Michelle|O
+CH|46656|Furbert, Bayard|O
+CH|46657|Frangapani Trust|O
+CH|46658|Fernandes, Gerald & Jacqueline|O
+CH|46663|Bar One Limited|O
+CH|46664|Flood, Cameron Floyd|O
+CH|46665|Flanagan, Matthew|O
+CH|46667|Fray, Terry|O
+CH|46669|Fagundo, Danny   Pereira, John Des.|O
+CH|46670|Ferreira, Seraphin William  Est|O
+CH|46678|Forever 21 Headquarters|O
+CH|46679|Gagner Holdings Ltd|O
+CH|46680|Flood, Stephanie   Est.|O
+CH|46681|Firm Advisory Ltd.|O
+CH|46682|Fenn, Keith & Sharon|O
+CH|46683|Forbes, Florence E.|O
+CH|46684|Fosun International Limited|O
+CH|46685|Franklin, Glenn|O
+CH|46686|Fairmont Hamilton Princess|O
+CH|46687|Fisher, Katherine   Goddard, Tiffany|O
+CH|47009|Goja Trust|O
+CH|47178|GIBBONS: SYLVIA|O
+CH|47186|GROSVENOR TRUST COMPANY LIMITED|O
+CH|47193|GIBBONS MANAGEMENT SERVICES LTD.|O
+CH|47204|Harrison Goddard Foote Incorporating Grant Spencer|O
+CH|47206|Gurret, Annie M. & Edmond F.|O
+CH|47207|Grosvenor Park  Bermuda  Limited|O
+CH|47217|GORTHON INTERNATIONAL SHIPPING LTD.|O
+CH|47222|GLASGOW TRUST|O
+CH|47226|GALLOWAY, ROSANNE|O
+CH|47234|GODET & YOUNG|O
+CH|47237|GATEWAY SYSTEMS LIMITED|O
+CH|47243|Grunenthal GmbH|O
+CH|47252|Gray: Donald|O
+CH|47287|Grosvenor Park Asset Management Limited|O
+CH|47302|GOODMAN, GRANT   GOODMAN, TERI B.|O
+CH|47316|Greenwood Ltd.|O
+CH|47319|Gurr: Stewart|O
+CH|47325|GIBSON, DUNN & CRUTCHER|O
+CH|47326|GLOBAL ONE LTD.|O
+CH|47328|GRIZZLE, LOIS BERNICE|O
+CH|47341|GODFREY, PAULETTE H.|O
+CH|47349|GRINGLEY, MICHAEL|O
+CH|47370|GeoPark Latin America Limited|O
+CH|47383|Hopkins: Gregory Ian|O
+CH|47384|GeoPark Limited|O
+CH|47386|GROSVENOR INVESTMENT MANAGEMENT LTD|O
+CH|47388|GROSVENOR INTERNATIONAL ASSET MANAGEMENT LTD.|O
+CH|47393|Grosvenor Fund Administration|O
+CH|47400|GARAFFA, EVELYN|O
+CH|47442|GIBBONS, EDWARD & ELLEN|O
+CH|47448|GREER, BURNS & CRAIN LTD.|O
+CH|47476|GLOBAL TRADEMARKS, INC.|O
+CH|47477|GATTI & ASOCIADOS S.A.|O
+CH|47484|GORHAM'S LIMITED|O
+CH|47491|Gulf Keystone Petroleum  UK  Ltd.|O
+CH|47493|GEMINI SUBMARINE CABLE SYSTEM LIMITED|O
+CH|47505|G. E. Bairactaris & Partners|O
+CH|47520|Gracey, Carmen|O
+CH|47521|Greet, Sydney Cecil Anstey|O
+CH|47534|Gray, Alicia|O
+CH|47538|Glasford: Pandora & Johnson: Dolores|O
+CH|47543|Group Kaitu, LLC|O
+CH|47548|General Mills Global Holdings Two GP|O
+CH|47557|Gibbings, Marcus Sheldon|O
+CH|47560|Gutteridge, Patrick|O
+CH|47563|Gutteridge, Jamie|O
+CH|47566|Gibbons, Virginia|O
+CH|47567|Dahlia Gardner|O
+CH|47568|Greet Redrobe, Catherine|O
+CH|47569|Gowling Lafleur Henderson LLP|O
+CH|47571|Gouveia DeSousa, Edward|O
+CH|47573|Gutteridge, Janice|O
+CH|47574|Green River Ltd.|O
+CH|47575|Greenslade, Amy|O
+CH|47577|Goldberg Kohn Ltd.|O
+CH|47580|Gardner Whit|O
+CH|47581|Grosvenor Aggressive Growth Fund Limited|O
+CH|47582|Grosvenor Private Reserve Fund  Class B  Limited|O
+CH|47583|Grosvenor Private Reserve Fund Limited|O
+CH|47584|Grosvenor Special Reserve Fund Limited|O
+CH|47585|Grosvenor Balanced Growth Fund Limited|O
+CH|47587|Gordon, Kenneth Robert|O
+CH|47588|Germain & Maureau|O
+CH|47590|Greig, Thomas|O
+CH|47593|Goldman Sachs Bank USA|O
+CH|47594|Greenview Landscaping & Home Maintenance Ltd.|O
+CH|47595|Griffiths, Carleen|O
+CH|47598|GeoPark Asia Limited|O
+CH|47602|Gutteridge, Michael|O
+CH|47603|Greenway, Sebrina|O
+CH|47605|Gevers & Associates|O
+CH|47606|Grant, Curtis & Tamera Lee|O
+CH|47607|GMK Intellectual Property Ltd.|O
+CH|47608|Green Lantern Employees|O
+CH|47609|Gracie, Andrew & Carol|O
+CH|47613|Gardere Wynne Sewell LLP|O
+CH|47614|Grundy, Paul|O
+CH|47615|Galapagos NV|O
+CH|47616|Gray, Brian|O
+CH|47618|Gibbons Brown, Eleanor Pauline|O
+CH|47619|Great Things Limited|O
+CH|47620|Glasgow, Deborah & Michael|O
+CH|47621|Gallagher, Seamus|O
+CH|47623|Guangdong Zhenrong Energy Co. Ltd.|O
+CH|47624|Grayston, Nicole & David|O
+CH|47625|Gibbons, Gordon|O
+CH|47628|Simply Charming Limited|O
+CH|47629|Georges, Winifred Allen|O
+CH|47630|Goslings Limited|O
+CH|47631|Goater, Zackia|O
+CH|47632|Glynn, Nick|O
+CH|47634|Gaugain, John V.|O
+CH|47636|Gordon Seymore, Charles|O
+CH|47638|Gomez Restrepo, Diana M.|O
+CH|47639|Greenberg Traurig, P.A.|O
+CH|47642|Gorham's Management & Design Services Ltd.|O
+CH|47646|Greenberg Traurig, LLP|O
+CH|47647|General Cable Technologies Corporation|O
+CH|47648|George's Bay Limited|O
+CH|47650|Goldman Sachs International|O
+CH|47652|Garrigan, Kathy|O
+CH|47654|Gibbons, Kyle|O
+CH|47655|George's Bay Property Limited|O
+CH|47656|George's Bay Residences Limited|O
+CH|47657|Grand China Logistics Holding  Group  Co, Limited|O
+CH|47658|Gutteridge, Eveline Jean|O
+CH|47659|Gus Skavronskas Associate|O
+CH|47661|Dechert LLP,,|O
+CH|47662|Gordon, Ronald|O
+CH|47664|Gonsalves, Brian|O
+CH|47665|Gibbons, Tracey & Chris|O
+CH|47668|George's Bay Hotel Ltd.|C
+CH|47670|Gabriel Performance Products, LLC|O
+CH|47671|Globe Holding Company Limited|O
+CH|47674|Guy Carpenter Bermuda Ltd.|O
+CH|47675|Gordon, Lorna|O
+CH|47676|Gerardo, Luis|O
+CH|47677|Gosse, Shaun & Jennifer|O
+CH|47688|Fracea, Albert|O
+CH|47689|Fox, Pauline Alice|O
+CH|47691|Farge, Richard|O
+CH|47692|Faulks, Jill De Quincey|O
+CH|47693|Francis, Martha|O
+CH|47694|Freshfields Bruckhaus Deringer LLP|O
+CH|47695|Financiere Zannier|O
+CH|48019|High Standing Trust|O
+CH|48131|Hairitage Ltd.|O
+CH|48173|HANNAM: JAMES F.H.|O
+CH|48258|HARNETT & RICHARDSON LTD.|O
+CH|48266|Sanofi Aventis,|O
+CH|48269|HALLMARK CARDS INCORPORATED|O
+CH|48277|AVENTIS PHARMA S.A.|O
+CH|48281|Henkel AG & Co., KGaA|O
+CH|48286|HOLLIS: DUDLEY M M|O
+CH|48288|H. & R. SERVICES,|O
+CH|48322|HART, JEAN ANNE|O
+CH|48324|HARD ROCK CAFE CORPORATE HEADQUARTERS|O
+CH|48332|Harvey: Dr. Ian|O
+CH|48350|Hutchings, Nathaniel W.|O
+CH|48356|Human Rights Commission|O
+CH|48364|Building for The Furture Foundation, Ltd.|O
+CH|48369|HILL, CAROL  ESTATE|O
+CH|48371|TRUSTEES OF THE HOUSTON TRUST|O
+CH|48375|Hall, June Rose|O
+CH|48378|WOOD, HUGH WILLIAM|O
+CH|48384|HEALY, THOMAS S.|O
+CH|48393|HILL, ESTATE OF HILTON GRAY|O
+CH|48405|HALL, CAROL ANN|O
+CH|48413|HAMZA, MOHAMED|O
+CH|48428|HINSON, GWENDOLINE N.  ESTATE|O
+CH|48430|HOLLIS, JAN|O
+CH|48441|HUNT, NELSON|O
+CH|48443|HLV Private Trust Company Ltd.|O
+CH|48450|Howard: Gordon|O
+CH|48471|Hetzel, Erich W.|O
+CH|48473|Huntley Manor Ltd|O
+CH|48480|Hamilton, Lynn|O
+CH|48494|HEWLETT PACKARD COMPANY|O
+CH|48501|HOLBROW, NORMAN|O
+CH|48502|HOPE GILL, DR. HERBERT F.|O
+CH|48516|HA'PENNY TRUST|O
+CH|48521|Harbourn Trust  The|O
+CH|48531|Hamner, John B.   Family Trust|O
+CH|48548|Hinckley, Allen & Snyder LLP|O
+CH|48551|Hansmann & Vogeser|O
+CH|48558|Howes James G.|O
+CH|48564|HONEYWELL INTERNATIONAL|O
+CH|48579|HARVEY, WAYLAND|O
+CH|48588|HSH NORDBANK AG, COPENHAGEN BRANCH|O
+CH|48603|HOLLAND, WILFRED  C O LESLIE ARCHER|O
+CH|48612|HONEYWELL INTERNATIONAL MIDDLE EAST LIMITED|O
+CH|48614|HUTCHINGS, BARBARA|O
+CH|48619|HEWES, TUCKER|O
+CH|48620|HELEN OF TROY LIMITED|O
+CH|48629|Hill Georgine|O
+CH|48650|Hill, Hilton Gray III|O
+CH|48657|Harry's Restaurant|O
+CH|48665|Hayward, Karla|O
+CH|48667|Henry, Gordon M.|O
+CH|48670|Hypo Real Estate Capital Corporation|O
+CH|48673|Hatfield, Fiona|O
+CH|48674|Havana Club Holdings, S. A.|O
+CH|48679|Holland, Susan|O
+CH|48682|Husch Blackwell LLP|O
+CH|48688|Hermes International Fund Limited|O
+CH|48698|Holland, Marian Eileen|O
+CH|48699|Harris, Charles Arthur|O
+CH|48704|Hooper, Dorothy Ann|O
+CH|48709|Hertz, Jenning M.|O
+CH|48710|Harris, Andrew  Estate|O
+CH|48711|Hamilton Family|O
+CH|48712|Hayward, Andre|O
+CH|48714|Hassell, Deverio|O
+CH|48723|Hutchings, Harold|O
+CH|48725|Hovi, Kevin|O
+CH|48726|Henderson, Michael|O
+CH|48727|Hogo, Taina|O
+CH|48728|HASSELL: Beverley & George|O
+CH|48729|Hazel: Joy Geraldene|O
+CH|48731|Dyna Management Services Ltd.|O
+CH|48732|Husch Blackwell LLP|O
+CH|48733|Hooper, Peter|O
+CH|48734|HCS Law Ltd.|O
+CH|48736|Heffernan Legal Group|O
+CH|48737|Harris, Elaine|O
+CH|48738|Hermes Capital Limited|O
+CH|48739|2HFutura Capital Ltd.|O
+CH|48743|Hartley's Under Sea Adventures Ltd.|O
+CH|48746|Hassell, Tasha|O
+CH|48747|Hewey, Wilma|O
+CH|48748|Hanabusa Patent Office|O
+CH|48750|Honeywell International Inc.|O
+CH|48751|Headlam, Gladstone Sr.|O
+CH|48753|Harris, Micah|O
+CH|48755|Hoechst Gmbh|O
+CH|48757|Havas, Mary Claire|O
+CH|48758|Howard, Gail|O
+CH|48759|Hsu, Edward|O
+CH|48761|Holder, Hazel M.|O
+CH|48762|Hodson, Jr. John Edward|O
+CH|48763|2H Futura Trust|O
+CH|48764|Holding Redlich|O
+CH|48765|Higgins, Deryn|O
+CH|48766|Hetzel, Brian|O
+CH|48767|Hooper, Scott|O
+CH|48768|Harbour Fund II LP Ltd.|O
+CH|48770|Hayward, Samantha|O
+CH|48771|Hutchinson, Trevor Gordon|O
+CH|48775|Hazelwood, Carl|O
+CH|48776|Herbert Smith Freehills LLP|O
+CH|48779|Hayward, Henry Mr. & Mrs.|O
+CH|48780|Hotel Employers of Bermuda|O
+CH|48781|Homan, Colm|O
+CH|48782|Hartwig, Staphen Michael|O
+CH|48783|800 Hirer Ltd.|O
+CH|48784|Hartswood Trust|O
+CH|48785|Helios Capital Limited|O
+CH|48786|Hogan, Vincent & Berta|O
+CH|48789|Harvey, Rosalyn Wenona|O
+CH|48791|Hammond, Richard Owen|O
+CH|48792|Hodge, Benjamin|O
+CH|48794|Hafnia Tankers Aps|O
+CH|48795|Hugh Wood Inc.|O
+CH|48796|Hafnia Tankers Bermuda Ltd.|O
+CH|49157|Island Trading Limited|O
+CH|49188|BNY Mellon Alternative Investment Services Ltd.|O
+CH|49190|Healthcare Services Ltd.,|O
+CH|49191|Giambrocono & C.S.p.A.|O
+CH|49218|IPCO ONE TRUST c o CRAIG CHRISTENSEN|O
+CH|49240|InterCity Tire    Bermuda  Ltd.|O
+CH|49256|ISLAND CLEANING SERVICES|O
+CH|49287|INGHAM DOUNOUK, EMMA|O
+CH|49292|INGHAM, GWENDOLYN A.L.|O
+CH|49293|iStore Limited|O
+CH|49305|Thomson IP Management Services|O
+CH|49315|Integrated Tubing, Ltd.|O
+CH|49322|IMG International Ltd.|O
+CH|49323|Irish Distillers Limited|O
+CH|49324|Independent Consulting Solution Ltd.|O
+CH|49325|Independent Consulting Solutions Ltd.|O
+CH|49329|STOBBS  IP  Limited|O
+CH|49331|IACS|O
+CH|49333|Ingham, Judith Vanessa|O
+CH|49335|Ideas Trademarks and Patents|O
+CH|49337|Ingemann, Judith Anne|O
+CH|49339|Regena Limited|O
+CH|49342|Ingham, Keniel|O
+CH|49345|Intergraph Corporation|O
+CH|49347|Inside Out Wellness Centre|O
+CH|49348|Isabey, Claudia|O
+CH|49350|IMG Management Ltd.|O
+CH|49351|Integra IP LLC|O
+CH|49352|Integra IP LLC|O
+CH|49353|Institute of Chartered Accountants of Bermuda|O
+CH|49354|iClick|O
+CH|49357|Ingham, Emma Joyce|O
+CH|49359|Island Waste Management Ltd.|O
+CH|49360|ING Real Estate Finance|O
+CH|49364|Island Engineering Limited|O
+CH|49365|Inner Peace Trust|O
+CH|49366|Intellectual Property Agency  Wan Hai Da|O
+CH|49367|Irvine, Matthew|O
+CH|49368|Itau Unibanco S.A., Nassau Branch|O
+CH|49369|Imperial Pacific International Holdings|O
+CH|50049|JOHNSON, Joseph C.H.|O
+CH|50122|JIBSAIL LTD.|O
+CH|50158|Jahde, Mr. Alan R.|O
+CH|50166|JACOME, JOYCE A.|O
+CH|50211|J.H.R. PROPERTIES LIMITED|O
+CH|50212|Johnson: Kirk|O
+CH|50217|JOHNSON, IDA CYNTHIA|O
+CH|50218|WILLIAMS, JOHN|O
+CH|50225|James, Leslie|O
+CH|50226|JAVELIN CONNECTIONS BERMUDA LTD.|O
+CH|50230|Javelin Connection Bermuda Ltd..|O
+CH|50231|JABIL CIRCUIT INC|O
+CH|50241|JONES, VERA|O
+CH|50244|JACKSON, SUZANNE|O
+CH|50246|JPG CONSTRUCTION LTD.|O
+CH|50263|JONES, LYDIA|O
+CH|50276|Jam Group Holdings Ltd.|O
+CH|50277|Joell,Lauren Charles & Lillian June|O
+CH|50283|Jackson, Jane|O
+CH|50286|J W Trust|O
+CH|50289|JP Morgan International Bank Limited|O
+CH|50296|JP Morgan Chase|O
+CH|50299|Jonas Rechtsanwaltsgesellschaft mbh|O
+CH|50302|737 Bermuda II Ltd.|O
+CH|50303|Jamal, Taaj|O
+CH|50306|Johnson, Dr. Christopher L.|O
+CH|50307|Jackson, Laura|O
+CH|50309|Jones, Michael|O
+CH|50315|Smith, Joelle|O
+CH|50317|Johnston, Emer|O
+CH|50318|J.E. Dias Costa, LDA.|O
+CH|50320|Johal, Devi|O
+CH|50321|James Helen|O
+CH|50322|J Roc Communications|O
+CH|50323|James, Edward|O
+CH|50326|Jordan, Gregory John   Deceased|O
+CH|50327|Johnson, Pamela|O
+CH|50329|Johnson, Antoine|O
+CH|50330|Jones, Oral W.|O
+CH|50331|Jones, Trevor|O
+CH|50332|Joint Stock Company "Yamal Airlines"|O
+CH|50333|Jardini Properties Limited|O
+CH|50336|JAMES, ELVIN GERALD|O
+CH|50337|J.D. Sellier & Co.|O
+CH|50338|Jones, Terrence|O
+CH|50340|Jones, Andrea|O
+CH|50342|Jones, Melika N.|O
+CH|50343|Janzen, Kevin|O
+CH|50345|James, Marian|O
+CH|50346|Jet Engineering Technical Support Ltd.|O
+CH|50347|Johnston, J. Garry|O
+CH|50348|JDC Darrell Ltd.|O
+CH|50351|Jackman, Stephen C.|O
+CH|50352|Johnston, Nastassja Collette|O
+CH|50353|Jankowski, Sarah|O
+CH|50355|Jones, Alvin A.|O
+CH|50358|J R Rosas Law Firm|O
+CH|50360|Jones, Ashlee|O
+CH|50362|J Cubed International Trust|O
+CH|50364|Jones, Michael Andrew|O
+CH|50365|Johnston, Sheldon|O
+CH|50366|J.M. Smucker Company|O
+CH|50368|Jones, Pearle|O
+CH|50369|James, Zonique Marie|O
+CH|50371|Joshua Bate Trading Bermuda Ltd.|O
+CH|50375|Jones, Tasha|O
+CH|50401|Bratus Limited|O
+CH|50402|Biltara Vineyards PTY Ltd.|O
+CH|50403|Beringer Blass Italia SRL|O
+CH|50404|Bradley, Darren|O
+CH|50405|Brangman, Deborah|O
+CH|50406|Burgess Bentil, Aleta|O
+CH|50407|Bermuda Restaurants Limited|O
+CH|50410|Bartel, Tyler L.|O
+CH|50411|Britton, Steve|O
+CH|50412|Bell, Ronald Desmond|O
+CH|50414|Bolden, David & Antoinette|O
+CH|50415|Burgess, Jeanette|O
+CH|50416|Belivanaki, Eleni|O
+CH|50418|Bean, Claudius|O
+CH|50419|Bean, Elizabeth Agnes|O
+CH|50420|Barbosa, Frank Gilbert  Mr. & Mrs.|O
+CH|50421|Buchan, Christopher|O
+CH|50423|Bermuda Sloop Foundation|O
+CH|51009|KEYSTONE TRUST|O
+CH|51033|Planet Hollywood International Inc.|O
+CH|51037|Kenneth C. Daniels Limited|O
+CH|51055|Kennington Holdings Limited|O
+CH|51095|Karibuni Ltd.|O
+CH|51129|KUNDSEN: LARS & CHRISTIANA|O
+CH|51147|KEMPE, EST. WILLIAM M.|O
+CH|51151|Kilpatrick Townsend & Stockton LLP|O
+CH|51153|KING, ENITH O.|O
+CH|51155|Kennedy Trust  The|O
+CH|51157|Keill: Mrs. Tracy|O
+CH|51172|KING, ROBERT O'DONNELL CRAWFORD|O
+CH|51175|K2 REINSURANCE LTD.|O
+CH|51182|KENIEN, HARRIETT|O
+CH|51191|Kirker & Cie|O
+CH|51192|Kismet Private Trust|O
+CH|51224|Kyle, John|O
+CH|51230|KOMANSKY, HENRY|O
+CH|51245|Katana Energy International Ltd.|O
+CH|51248|Kelly Guy & Fiona|O
+CH|51249|Kennedy, Wesley Edwards|O
+CH|51263|Kraft Foods Europe GmbH|O
+CH|51270|KEMPSTER, STEVEN|O
+CH|51273|Karim, Ayman Abdel|O
+CH|51277|Alisio Travel Company Ltd.|O
+CH|51278|Kean Miller|O
+CH|51279|Krupp, Wenda|O
+CH|51280|Knox, Juliet|O
+CH|51281|Keil & Schaafhausen|O
+CH|51284|Kelly Man, Kenika|O
+CH|51285|Keath, Zellda|O
+CH|51286|Kelso, Joyce|O
+CH|51287|Katelios Enterprises Limited|O
+CH|51289|KPMG Advisory Limited|O
+CH|51290|Knox, David|O
+CH|51292|Kumar, Komally Linna|O
+CH|51293|Kas Corporation|O
+CH|51294|Kuchler, Muriel|O
+CH|51295|Koh, Owen|O
+CH|51296|Kahala Aviation Ltd.|O
+CH|51297|Keith W. Young & Sons Contracting|O
+CH|51298|Kaufman Laramee, LLP|O
+CH|51302|Kane  Bermuda  Limited|O
+CH|51306|Keri, Deangelo|O
+CH|51308|Kuhn, Allan Pratt|O
+CH|51310|Knezic, Cara|O
+CH|51313|Kiacta SARL|O
+CH|51315|Khalifa A. Algosaibi Diving & Marine Services Co.|O
+CH|51316|Kao Kabushiki Kaisha|O
+CH|51317|Kaiser Desilva, Sarah|O
+CH|51319|Kempe, Harold|O
+CH|51321|King & Wood Mallesons|O
+CH|51322|Kemp, Charles|O
+CH|51324|Knight, Alexander|O
+CH|51325|Pacheco, Kevin|O
+CH|51326|Kuznetsov, Valery|O
+CH|51329|Chrun, Kietny|O
+CH|51583|KLARQUIST SPARKMAN, LLP|O
+CH|52004|Maitland Trust|O
+CH|52010|Leroy Discretionary Trust|O
+CH|52132|MIT SEA AH YACHT LTD.,|O
+CH|52182|Keochley: James|O
+CH|52271|SOUSA'S LANDSCAPE MANAGEMENT CO. LTD.|O
+CH|52273|LIVINGSTON, ALEXANDER & LEVY|O
+CH|52276|LESEUR: DOROTHY|O
+CH|52285|Lorad Management Limited,|O
+CH|52286|Alan & Jennifer Leigh,|O
+CH|52302|LAHAINA TRUST|O
+CH|52305|LEWIN FAMILY TRUST|O
+CH|52315|WHITE & CASE|O
+CH|52322|Lewis: Robert|O
+CH|52324|Lightbourne, Dilton|O
+CH|52333|BARNES & THORNBURG LLP|O
+CH|52334|LATHAM & WATKINS|O
+CH|52345|Littlejohn, Heather D.  Vernon|O
+CH|52350|LEYDIG, VOIT & MAYER, LTD.|O
+CH|52351|Lodge: Ethel I.  Estate|O
+CH|52358|Lines: Lydia Ruth|O
+CH|52384|LEACH, SHIRLEY|O
+CH|52385|LG Holding Ltd.|O
+CH|52393|Leet, Helen Francis|O
+CH|52409|LAMBERT, CLIFTON|O
+CH|52413|LAROCO FINANCIAL & RISK MANAGEMENT SERVICES LTD.|O
+CH|52423|Laubscher, Spendlove & Laubscher, P.C.,|O
+CH|52430|Linberg, Sjur|O
+CH|52440|LAZARD EUROPEAN TECHNOLOGY OPPORTUNITY LTD|O
+CH|52443|Lazard Worldwide Opportunities, Ltd|O
+CH|52450|LINDSAY, JOLENE|O
+CH|52451|LANDMARK CONSTRUCTION COMPANY LIMITED|O
+CH|52467|Marjuszycz, Yolanda Vincentia|O
+CH|52490|LATTYAK, DR. BRUCE|O
+CH|52494|LEGAL LANGUAGE SERVICES|O
+CH|52496|Montagulaw, P.C.|O
+CH|52500|LINKLATERS OPPENHOFF & RADLER|O
+CH|52501|LTB Holdings Limited|O
+CH|52504|LONGMEADOW TRUST|O
+CH|52512|LEE, GERALDINE|O
+CH|52513|LEADER, ANTHONY|O
+CH|52521|LRN, THE LEGAL KNOWLEDGE COMPANY|O
+CH|52539|Hogan Lovells  Alicante  S.L. & Cia.|O
+CH|52540|LEE, CHARLES|O
+CH|52549|Lewis, Peter Stephen|O
+CH|52553|LOHAN, JOAN LUCILLE|O
+CH|52559|LLOYD HENRY, DONNA|O
+CH|52579|LUCK, FIONA|O
+CH|52585|LAMB, KENNETH RONALD|O
+CH|52587|LOWE, DEBORAH|O
+CH|52600|Longtail Properties Ltd.|O
+CH|52611|LOOBY, MICHELLE|O
+CH|52631|Luis Avila & Gloria Gutierrez|O
+CH|52633|L & M Holdings|O
+CH|52636|Lindsay, Gladys Marie|O
+CH|52640|Lott & Fischer|O
+CH|52645|LooperReed & McGraw|O
+CH|52648|Latham & Watkins, LLP|O
+CH|52657|LDI  Cayman  Ltd.|O
+CH|52664|Lazarus Limited|O
+CH|52666|Lightbourne, Deanna|O
+CH|52668|Lehigh Enterprises Limited|O
+CH|52670|LRWS Investment Group Ltd.|O
+CH|52672|Legal Aid Committe|O
+CH|52676|Lazard Global Hexagon Master Fund, L.P.|O
+CH|52677|Lloyds TSB Bank PLC|O
+CH|52684|Loving, Tracey|O
+CH|52685|Lightbourne, Raynal|O
+CH|52687|LEE: FREDERICK|O
+CH|52688|Lang, William|O
+CH|52689|Lang, Pat|O
+CH|52690|Lehman Brothers Holdings Inc.|O
+CH|52693|Lamb, Rodney Earlston|O
+CH|52694|Lindo, Duane Albert|O
+CH|52702|Landy, Noel|O
+CH|52703|Lewnowski, Oskar P.|O
+CH|52705|Lion International Trust Company Ltd.|O
+CH|52707|Lee, John|O
+CH|52708|Laronge, Christopher|O
+CH|52713|Lawrence, Joyanne|O
+CH|52714|LGT Bank  Ireland  Limited|O
+CH|52717|Lusher, Dorothy|O
+CH|52718|Little, David & Nadine|O
+CH|52720|Lee, Elizabeth|O
+CH|52721|Lightbourne, Ruby & Wilbur|O
+CH|52722|Lee, Curtis|O
+CH|52723|Lyons, Robert|O
+CH|52724|Lambert, Roger|O
+CH|52725|BW LPG Holding Limited|O
+CH|52726|Lightbourne, Dion|O
+CH|52727|Lowe, Keetha|O
+CH|52728|Lund, Stephen|O
+CH|52730|Lightbourne, Renee|O
+CH|52731|Landy, Rosetta|O
+CH|52732|LA Chapelle, Michel & Monique|O
+CH|52733|Lenovo Group Limited|O
+CH|52734|HIFA Management|O
+CH|52735|Lightbourne, Calvin|O
+CH|52736|Lightbourne, Shawn|O
+CH|52738|Lovell, Shaquan|O
+CH|52739|Larkin, Michael|O
+CH|52740|Levon, Brandon|O
+CH|52741|Lyle & Scott Ltd.|O
+CH|52744|Laurin, Cindy Eileen & Nancy Ann Mello|O
+CH|52745|Larm, Cheung Hon Peter & Chun Kit Lo|O
+CH|52746|LaMontagne, Jean|O
+CH|52748|LECAP Law Firm|O
+CH|52749|Lightbourne, Gail|O
+CH|52750|Lalonde, David|O
+CH|52752|Lee, Nelson|O
+CH|52754|Lenzen, John Charles|O
+CH|52757|LAM, LY|O
+CH|52758|Lewis Brisbois Bisgaard & Smith LLP|O
+CH|52759|Lovett, Lee Gilson  Mr & Mrs|O
+CH|52760|Lambert, Arnold L.|O
+CH|52761|Lucas & Mercanti, LLP|O
+CH|52763|Lightbourne, Ruby, Wilbur & Damien|C
+CH|52764|Christopher Leach|O
+CH|52766|Leonardo One, Ltd.|O
+CH|52767|Leonardo Two, Ltd.|O
+CH|52768|Leonardo Three, Ltd.|O
+CH|52769|Leonardo Four, Ltd.|O
+CH|52770|Leonardo Five, Ltd.|O
+CH|52771|Leonardo Six, Ltd.|O
+CH|53007|Bascome, Archibald Alphonso Eugene|O
+CH|53008|Berina Trust|O
+CH|53009|Banco Itau BBA International SA, London Branch|O
+CH|53011|HSBC Bank Plc|O
+CH|53014|737 Bermuda Ltd.|O
+CH|53020|Bercana Trust|O
+CH|53028|Bernhardt, Bernhard Peter|O
+CH|53029|Bascome, Charles Orville Alexander|O
+CH|53030|Braunworth, Anna|O
+CH|53031|Bascome, Mackie|O
+CH|53032|Fasken Martineau Dumoulin LLP,|O
+CH|53045|Burgess, Hilton Stowe|O
+CH|53047|Barzano & Zanardo|O
+CH|53048|Bermuda Blueprinting Ltd.|O
+CH|53050|BearingPoint Ireland Limited|O
+CH|53055|Bridgewater, Stephanie|O
+CH|53056|Bank of N.T. Butterfield|O
+CH|53065|Barnfield, Michael|O
+CH|53068|Binns, Audrey Jean  Estate of|O
+CH|53075|Bascome, Raoul|O
+CH|53076|Brackstone, Kirby|O
+CH|53077|Bascome, Warren Mansfield|O
+CH|53079|Lorraine Holding Company|O
+CH|53088|Bermuda Hospital's Board|O
+CH|53090|Bascome, Cecilia|O
+CH|53092|Bermuda Financial Network LTD.|O
+CH|53169|Milner Holdings Ltd|O
+CH|53194|Benbow, Moyra Frances|O
+CH|53196|Brown, Shawn & Terlina|O
+CH|53198|Mailboxes Unlimited Ltd.|O
+CH|53201|Belzer PC|O
+CH|53204|Briggs, Nick|O
+CH|53205|Burgess, Quinton & Karolyn Darrell Burgess|O
+CH|53207|Bermuda Longtail Properties Limited|O
+CH|53211|Butterworth Associates   Design Limited|O
+CH|53212|Burbank Capital Ltd.|O
+CH|53213|Brimmer, Kenneth Vincent Leroy|O
+CH|53216|Bandarage, Don Madduma|O
+CH|53218|Bank of America Merrill Lynch|O
+CH|53221|Byron, Walter|O
+CH|53222|Butterfield, Jim|O
+CH|53226|Binning, Howard|O
+CH|53228|Baptiste, James Robert|O
+CH|53231|Bascome, Marion|O
+CH|53234|Burch, Almeria|O
+CH|53237|Bermuda Marine Services Ltd.|O
+CH|53238|BSmart Development Center Limited|O
+CH|53239|Bsmart Development Foundation Limited|O
+CH|53242|Butterfield, Mandala|O
+CH|53243|BF & M General Insurance Company Limited|O
+CH|53245|Burt, Randall|O
+CH|53249|Bean, Daunette|O
+CH|53254|Brangman, Wendall|O
+CH|53256|Belleavoine, Pauline|O
+CH|53257|Bean, Martin & Patricia|O
+CH|53263|Beeson, Robert O. Jr.|O
+CH|53264|Boxx, Althea Y|O
+CH|53265|Bermuda Brickyard Limited|O
+CH|53266|Brown, Daunette|O
+CH|53276|Brooks, Paschal|O
+CH|53280|Bean, Julie|O
+CH|53281|Dickinson Wright PLLC|O
+CH|53285|Bautista, Lourdes and Pepito|O
+CH|53286|Bermuda Institute of Ocean Sciences  Bios|O
+CH|53287|Bata Schmidt Christine|O
+CH|53288|Bermuda Insurance Institute|O
+CH|53290|Bayer Corporation|O
+CH|53292|Bascome, Ada Eugenie Bennett|O
+CH|53293|Bungaleea, Vivian|O
+CH|53295|Best Rechtsanwalte|O
+CH|53296|Bermuda S.P.C.A.|O
+CH|53298|Bean, Mark A F|O
+CH|53299|Best, Neil|O
+CH|53301|Brewster Trust Co. Ltd.|O
+CH|53303|Burgess, Gregory|O
+CH|53312|Cedarbridge Academy  Board of Governors|O
+CH|53314|Bodenstab, Craig|O
+CH|53315|Bailey, Jason|O
+CH|53316|BF & M Limited|O
+CH|53317|Blanchette, Karen|O
+CH|53318|Butterfield, Ceita|O
+CH|53320|Bryan, Dean|O
+CH|53321|Browne, Aaron|O
+CH|53324|Barkwell, Ross|O
+CH|53325|Barlaw   Barrera & Associates S. Civil de R.L.|O
+CH|53326|Brimmer, Josette|O
+CH|53327|Brangman, June Elise|O
+CH|53328|Botelho, Gerald & Joan|O
+CH|53329|Bobiak, Jennifer|O
+CH|53330|Brangman, Violet Constance|O
+CH|53335|Bullen, Fabian|O
+CH|53336|Bean, Rochelle|O
+CH|53337|Bullett Holdings Ltd.|O
+CH|53338|Bermuda Hospitals Board|O
+CH|53341|Bird & Bird   CITIG 0079|O
+CH|53342|Babwah, Sandra|O
+CH|53345|Barnes, Joan Marie|O
+CH|53347|Busher, Thomas|O
+CH|53348|Bermuda Forwarders Ltd.|O
+CH|53349|Bermuda Cleaning Limited|O
+CH|53350|Beauline, Ann|O
+CH|53351|Butterworth, William Norman|O
+CH|53354|Beretta Management Ltd.|O
+CH|53355|Bean, Tracey|O
+CH|53357|Black, Michael|O
+CH|53358|Bleriot Ltd.|O
+CH|53361|Bridges, Heidi Jane|O
+CH|53362|Baron, Joseph|O
+CH|53363|Brook, Andrew|O
+CH|53364|Boreas Ltd.|O
+CH|53365|Bitterley Agricultural Contractors Pension Plan|O
+CH|53368|Brangman, Ramon|O
+CH|53371|BCB Paragon Trust Limited|O
+CH|53372|Brickman Management  Bermuda  Ltd.|O
+CH|53375|Brangman, Clarence|O
+CH|53376|Bean, Maxine|O
+CH|53379|Balyasny Asset Management L.P.|O
+CH|53380|Beckett, Peter & Diana|O
+CH|53382|BWS   Boss Ltd.|O
+CH|53385|Brandt, Tony|O
+CH|53386|Blyden, Stephenie|O
+CH|53387|Blackburn, Lisa Margaret|O
+CH|53389|Bermuda Economic Development Corporation|O
+CH|53390|Bean, Rheneka|O
+CH|53397|Mayer Brown JSM|O
+CH|53398|Bingham McCutchen  London  LLP|O
+CH|53399|Bassett, John|O
+CH|53401|Big Red, Inc.|O
+CH|53402|Bermuda Hospitals Board|O
+CH|53403|Brandstock Legal GMBH|O
+CH|53404|BW Pacific Limited|O
+CH|53405|Butterfield, Tyler & Nikki|O
+CH|53408|Burgess, Wayne|O
+CH|53409|BW Maritime PTE|O
+CH|53410|Burch, David|O
+CH|53411|Brine, Cecile Lina|O
+CH|53412|Bermuda Chiropractic Association|O
+CH|53414|Bentley Resorts Ltd.|O
+CH|53416|Baker & Mckenzie LLP|O
+CH|53417|Burrows, Claude Perry Randolph & Cleo Lionel|O
+CH|53418|Borges, Ernesto|O
+CH|53419|Bailey, Leleath Gloria|O
+CH|53424|Barbier, Aymeric|O
+CH|53425|MELLO, ANTHONY|O
+CH|53426|Browne, Aaron Brent|O
+CH|53427|Brehmer, Elizabeth Lauriston|O
+CH|53428|Binns, Quinton & Mildred Marie|O
+CH|53429|Barbier, Guy|O
+CH|53431|Berman DeValerio|O
+CH|53432|Brown, Hazel Louise|O
+CH|53433|Beek, Edith & Dennis|O
+CH|53435|Browne, Rebecca|O
+CH|53437|Brangman, Cynthia Raynell|O
+CH|53440|Burch, Sereana|O
+CH|53441|Bermuda Monetary Authority|O
+CH|53442|MAYFAIR LIMITED|O
+CH|53445|Baras, Shannon|O
+CH|53447|Bermuda Motors Limited|O
+CH|53449|Bar Professional Conduct Committee|O
+CH|53451|Bowen Tucker, Denise|O
+CH|53452|Besco  Bermuda Energy Services Company|O
+CH|53453|Barclay, Jennifer Jane|O
+CH|53455|Bellina Trust|O
+CH|53456|Bracewell & Guiliani LLP|O
+CH|53457|Barbier, Amelie|O
+CH|53461|Beach Majors GmbH|O
+CH|53465|Butterfield Trust  Guernsey  Limited|O
+CH|53470|Bean, Tynieka|O
+CH|53474|Bermuda Tourism Authority|O
+CH|53481|BGA Wholesale Distributors|O
+CH|53483|Burch, Deborah|O
+CH|53492|Burgess, Cheryl|O
+CH|53495|Bermuda Medical Doctors' Association|O
+CH|53496|Burrill, Philip Mr. & Mrs.|O
+CH|53497|Beattie, Andrew E.|O
+CH|53499|Bailie, Paul|O
+CH|53529|MARKS & CLERK|O
+CH|53531|MICRON LEASING LTD.|O
+CH|53539|MARRIOTT INTERNATIONAL INC.|O
+CH|53543|MASTERCARD INTERNATIONAL|O
+CH|53550|Jeremiah J. Madeiros,|O
+CH|53551|P. A. Margaronis,|O
+CH|53557|MONIZ, STEPHEN ALTON|O
+CH|53562|MING, CHARLOTTE SUZANNE|O
+CH|53573|MADEIROS: DAVID L.|O
+CH|53575|MONTGOMERY MOORE: JUDITH|O
+CH|53589|MOFFAT & COMPANY,|O
+CH|53595|MANGROVE TRUST|O
+CH|53618|MITCHELL, VINCENT|O
+CH|53621|MOUNT LANGTON HOLDINGS LTD.,|O
+CH|53632|M.R. CONSTRUCTION|O
+CH|53640|MINUGH, MICHAEL  MAX|O
+CH|53647|MING SR., CALVIN & HESTER|O
+CH|53670|MARSON; ELSIE|O
+CH|53682|MONIZ, W. ELLIOTT & S. ALTON|O
+CH|53713|MARGARONIS, ESTATE PANDELIS|O
+CH|53729|Meyer Franklin Travel Limited|O
+CH|53734|MADERIOS, DR. ANDREW|O
+CH|53743|MANDERSON, JOAN|O
+CH|53746|MANHATTAN SETTLEMENT TRUSTEES|O
+CH|53771|Marquardt, Sara Alice|O
+CH|53774|MANNING, JAMES RONALD & OTHERS|O
+CH|53785|Marsh: Michael|O
+CH|53790|Manuel, Edward A.|O
+CH|53794|Meyer Agencies Ltd.|O
+CH|53798|MCGRATH, NORTH, MULLIN & KRATZ P.C. LLO|O
+CH|53801|M.S. COMPANY LTD.|O
+CH|53802|MAGUIRE, MICHAEL|O
+CH|53804|MORRISON, LIS|O
+CH|53824|MCS PAYROLL SERVICES LTD|O
+CH|53836|MONIZ, DEREK & HELEN|O
+CH|53846|MONIZ, WILLIAM ELLIOTT|O
+CH|53848|MERCURY MARINE|O
+CH|53855|MCHARDY, MAEFERE V..|O
+CH|53862|MARTIN, GLORIA|O
+CH|53870|MAGUIRE, PAULA|O
+CH|53872|MASTERS, ALISON|O
+CH|53888|Medical Protection Society|O
+CH|53898|MARTIN, DAVID JOHN  ESTATE|O
+CH|53925|Manning, Louise|O
+CH|53933|Myers: Larry|O
+CH|53940|Mayor: William|O
+CH|53945|Mello: Gerald & Joan|O
+CH|53948|MADEIROS, RAYMOND|O
+CH|54007|Minors, Dwayne|O
+CH|54008|Mello David P.|O
+CH|54016|MEDICAL PROTECTION SOCIETY|O
+CH|54019|Holder, Kent|O
+CH|54023|Mello, David|O
+CH|54025|Medical Protection Society|O
+CH|54037|Merryvale Ltd.|O
+CH|54040|Microstrategy Incorporated|O
+CH|54045|Marimar Ltd.|O
+CH|54048|MING, JOHN H.Y. & MURIEL|O
+CH|54059|Mather, Ryan|O
+CH|54061|AXIS CAPITAL|O
+CH|54075|MAYOR, KATHLEEN|O
+CH|54098|Munro, Joan|O
+CH|54099|MEDERIOS, CARLOS|O
+CH|54100|Eniva Corporation|O
+CH|54102|MULLAN, MICHAEL J. & SHIRLEY M.C.|O
+CH|54121|MELLO, IRENE|O
+CH|54128|Markham Limited|O
+CH|54143|Morgan Stanley & Co. LLC|O
+CH|54160|Meyer Lustenberger|O
+CH|54164|MENTZELOPOULOS, LAURA|O
+CH|54165|McDonald's Restaurant of Canada Limited|O
+CH|54200|MINORS, ROSALIND ALBERTA|O
+CH|54201|KRAFT FOODS HOLDINGS, INC.|O
+CH|54204|North Rock Communications Ltd.|O
+CH|54243|NORTH ROCK VENTURES LTD.|O
+CH|54248|INBEV S.A.|O
+CH|54251|NYABONGO, ADA|O
+CH|54276|NCL Corporation Ltd.|O
+CH|54282|North Rock Ventures Ltd. And The Terra Trust|O
+CH|54286|LEACH, NICHOLAS|O
+CH|54289|SA Gevers Legal NV|O
+CH|54295|Lee: Howard|O
+CH|54297|Nordea Bank Norge ASA|O
+CH|54298|NELSON, GEOFF|O
+CH|54301|Natixis|O
+CH|54312|Neal Gerber & Eisenberg LLP|O
+CH|54315|Newstead Belmont Hills Hotel Limited|O
+CH|54321|National Australia Bank|O
+CH|54325|NGB Corporation|O
+CH|54326|NTT Communications Corporation|O
+CH|54327|Novagraaf Nederland B.V.|O
+CH|54328|Newlead Holdings Ltd.|O
+CH|54330|Noriling, Marcelle|O
+CH|54332|Natixis New York Branch|O
+CH|54333|Nexar Capital LLC|O
+CH|54335|NJQ & ASSOCIATES|O
+CH|54336|Norton Rose Australia|O
+CH|54338|Novagraaf France|O
+CH|54340|North Rock Communications Ltd.|O
+CH|54342|Nesbitt, Nafeesah|O
+CH|54343|Thunderbolt Resources Inc.|O
+CH|54344|Thunderbolt Resources Master Ltd.|O
+CH|54345|Thunderbolt Resources Ltd.|O
+CH|54346|NBC Atlantic Ltd.|O
+CH|54350|Nordea Bank AB  publ|O
+CH|54352|Norris, Althea  Ms|O
+CH|54354|Fergus Jack and Bryn Williams|O
+CH|54386|Wine Cellar Fund  The|O
+CH|54388|Nzabalinda, Onesimus|O
+CH|54391|NXT Capital, LLC|O
+CH|54393|Northern Shipowners Defence Club|O
+CH|54397|NSAM, Bermuda Ltd.|O
+CH|54398|Norwegian Cruise Line Holdings Ltd.|O
+CH|54399|Norman, Lynn|C
+CH|54401|Norman, Mark|C
+CH|54402|NFP Insurance Services, Inc.|O
+CH|54403|Nechifor, Ion|O
+CH|54404|North Face Apparel Corp.|O
+CH|54406|Novaquest Pharma Opportunities Fund IV, L.P.|O
+CH|54407|Niklaus, Janet|O
+CH|54408|Novavax Bermuda Ltd.|O
+CH|54409|Novavax Bermuda Holdings Ltd.|O
+CH|54410|Newson, Gina|O
+CH|55003|Optical Science Purpose Trust|O
+CH|55056|ORANGE VALLEY COMPANY LIMITED|O
+CH|55089|ORTHOPAEDICS AND SPORT MEDICINE OF BERMUDA LTD.|O
+CH|55139|OLIVER, LINDSEY|O
+CH|55149|Orconsult Limited|O
+CH|55159|Outerbridge, Clara Rose Marie|O
+CH|55163|OATLEY, JOHN & SARAH|O
+CH|55166|OXFORD METRICA LIMITED|O
+CH|55179|OSBORN, MIKE|O
+CH|55182|OCTANE DIVERSIFIED STRATEGIES|O
+CH|55189|OCEANUS FINANCIAL, LTD|O
+CH|55203|OUTERBRIDGE, LENA Mae|O
+CH|55209|OLD WILLIAM D.|O
+CH|55211|Oppenheimer Wolff & Donnelly LLP|O
+CH|55214|Old Lyme Insurance Company Ltd.|O
+CH|55215|OLd Lyme Insurance Group|O
+CH|55417|Mel   Wel Trust|O
+CH|55422|Macquarie SBI Infrastructure Trustee Limited|O
+CH|55426|McNeish Alistair|O
+CH|55430|Medical Protection Society|O
+CH|55434|Dr. T. H. Morris|O
+CH|55445|Merz & Associates, P.C.|O
+CH|55448|McLarty: Shawnette|O
+CH|55459|McLean, David Hugh  estate of|O
+CH|55460|General Mills, Inc.|O
+CH|55474|Mesna, Inger|O
+CH|55484|Mcnees Wallace & Nurick LLC|O
+CH|55485|Summers, Mark|O
+CH|55489|Murphy, Bernard|O
+CH|55493|Mello, Selena|O
+CH|55495|King & Wood Mallesons|O
+CH|55505|Madeiros, Linda|O
+CH|55507|Mitchell, James Macrae|O
+CH|55511|McKenna, John C.|O
+CH|55517|MATADOR CAPITAL MANAGEMENT|O
+CH|55519|Marshall, Gerstein & Borun LLP|O
+CH|55522|Marshall, Alison|O
+CH|55536|Morrison, Don|O
+CH|55537|Mitchell, Peter|O
+CH|55538|Macquarie Private Equity Group|O
+CH|55539|Medical Protection Society|O
+CH|55544|Merchant & Gould P.C.|O
+CH|55545|Marinella Properties Limited|O
+CH|55547|Moniz & George|O
+CH|55549|Marson, Christopher G.  Mr|O
+CH|55550|McCallum Rademeyer & Freimond|O
+CH|55552|Mallards Trust  The|O
+CH|55555|Moore, Margaret|O
+CH|55558|Marshall, Blake|O
+CH|55559|Morse Brown, Elizabeth|O
+CH|55561|Metz USA|O
+CH|55562|Mclaughlin, Eakin Carter O'Donnell|O
+CH|55563|Maranzana, Sandra|O
+CH|55566|Medeiros, Brian|O
+CH|55567|Mitchell, David|O
+CH|55568|Moore, Heian|O
+CH|55569|Goodwin, David & Bill Maycock|O
+CH|55570|Montrica Global Opportunities Master Fund|O
+CH|55571|Morfitt, Whitney|O
+CH|55573|Mello Jones & Martin|O
+CH|55574|Mitchell, Nadine|O
+CH|55575|Medical Protection Society|O
+CH|55577|Morse Barnes Brown Pendleton PC|O
+CH|55581|Martell & Co.|O
+CH|55582|Metroconsult Srl|O
+CH|55585|Mishcon De Reya Solicitors|O
+CH|55590|Medical Protection Society|O
+CH|55596|Matheney, Eric|O
+CH|55597|MTC Trust|C
+CH|55598|Medical Protection Society|O
+CH|55599|Moik, Johann|O
+CH|55601|Moniz, David|O
+CH|55602|Marriott International Inc.|O
+CH|55603|Madeiros, Rosemarie|O
+CH|55604|Musson, Madree|O
+CH|55605|Mercury Group Limited|O
+CH|55606|Mello, Miranda Shan|O
+CH|55610|Medical Protection Society|O
+CH|55612|Moore, Kamelah|O
+CH|55613|Mc Callan, Adina|O
+CH|55614|Madeira, Antonio|O
+CH|55616|Massop, Glenroy|O
+CH|55617|WM. E. Meyer & Company Limited|O
+CH|55618|Manatt, Phelps & Phillips, LLP|O
+CH|55619|Mansfield, John|O
+CH|55620|Ministry of Economy, Trade and Industry|O
+CH|55621|Moke Australia Pty Ltd.,|O
+CH|55622|Minors, Janika N.|O
+CH|55623|Meister Law LLC|O
+CH|55624|Morrison, Jocelyn|O
+CH|55625|Morgans Point Limited|O
+CH|55626|Medical Protection Society|O
+CH|55629|Outerbridge, Tafari|O
+CH|55645|OUTERBRIDGE, JOHN|O
+CH|55649|Mitchell, Zoe & Mark|O
+CH|55656|O'Connor Michele Marie Noelle|O
+CH|55658|Outerbridge, Evan|O
+CH|55664|Ocean Song|O
+CH|55665|Ocean Breeze|O
+CH|55666|Oliveira, Karen|O
+CH|55673|Offshore Insurance Services Ltd.|O
+CH|55677|Omega Insurance Holdings Limited|O
+CH|55680|O'Hara Trust|O
+CH|55681|Oliveria, Sylvia|O
+CH|55683|Oblon, Spivak, McClelland, Maier & Neustadt, P.C.|O
+CH|55684|O'Leary, Denis|O
+CH|55685|Outerbridge, Hayley Elizabeth|O
+CH|55689|Orange Valley Private Trustee Ltd.|O
+CH|55692|Omega Specialty Insurance Company|O
+CH|55693|Oliver, Jodie Ellen|O
+CH|55694|OJSC Promsvyazbank|O
+CH|55695|Outerbridge, Lily|O
+CH|55696|Osborne, Natasha Khan|O
+CH|55697|Oyster Consulting, LLC|O
+CH|55703|Martin, Lane|O
+CH|55704|Moulds, Barry|O
+CH|55705|Mallory, Shermel|O
+CH|55706|Media Chinese International Limited|O
+CH|55707|Oak Street Lending LLC|O
+CH|55708|Okumus Diversified Value Fund Ltd.|O
+CH|55710|Minors, Richard Denton|O
+CH|55711|McLauchlan, Andrew|O
+CH|55712|Ministry of Finance|O
+CH|55713|Medical Protection Society|O
+CH|55714|Monk, Mark|O
+CH|55715|Maycock, John Robert|O
+CH|55716|March International Investment Ltd.|O
+CH|55717|Morgenstern, Kai H.|O
+CH|55799|Outerbridge, Giselle N. & Sandra D.|O
+CH|55834|Ravet & Associes|O
+CH|56002|Patfra Trust|O
+CH|56003|PORCELAIN TRUST|O
+CH|56016|PVM OIL ASSOCIATES LTD.,|O
+CH|56017|PeWi Trust|O
+CH|56029|Perfection Trust|O
+CH|56140|POCOCK, JANE|O
+CH|56155|Pembroke Stores Ltd.|O
+CH|56199|Perinchief: Linda|O
+CH|56260|PITT: KAREN|O
+CH|56283|Packwood, Robert|O
+CH|56316|PETREDEC LIMITED|O
+CH|56319|PHILIP MORRIS INTERNATIONAL MANAGEMENT S.A.|O
+CH|56323|Wrangler Apparel Corp.|O
+CH|56327|Pearman, Lucy E.  Estate of|O
+CH|56334|PILOT MANAGEMENT LTD.|O
+CH|56338|PEGASUS FUND LIMITED|O
+CH|56344|Phipps, Charles C.|O
+CH|56357|Review Worldwide Ltd.|O
+CH|56367|PIMM, JEAN & BILL|O
+CH|56368|PricewaterhouseCoopers|O
+CH|56385|PITMAN, E. C.  TED|O
+CH|56402|P J W  LIMITED,|O
+CH|56417|PALMER, DAG|O
+CH|56423|Pitman, Gary R.|O
+CH|56432|PERCY, JANET LEE|O
+CH|56435|PERINCHIEF, RITA HELEN|O
+CH|56446|PACHECO, JOSE|O
+CH|56454|PEMBRIDGE MANAGEMENT SERVICES LTD.,|O
+CH|56494|PATTERSON, JEANNETTE|O
+CH|56496|Parker: Joan  Estate of|O
+CH|56502|PIER VU LTD.|O
+CH|56503|PROGRESSIVE ALTERNATIVE INVESTMENT LIMITED|O
+CH|56507|Phoenix Trust  The|O
+CH|56517|Payne Gulch Trust: The|O
+CH|56521|Perinchief, Claude|O
+CH|56530|PEMBROKE ATLANTIC LIMITED|O
+CH|56554|PEARMAN, LIONEL|O
+CH|56578|PERSISTENT EDGE ASIA PARTNERS, LTD|O
+CH|56582|Paragon Brokers  Bermuda0 Ltd|O
+CH|56588|Phoenix Capital Partners Ltd.|O
+CH|56590|Pool Care Ltd.|O
+CH|56607|PEDRO, JENNIFER|O
+CH|56623|PROSKAUER ROSE LLP|O
+CH|56629|PEDRO, CARL|O
+CH|56631|PHOENICIA AVIATION LTD.|O
+CH|56637|PANATEL VDS LTD.|O
+CH|56638|PHYTOTOX LIMITED|O
+CH|56656|PAR LA VILLE TREO LIMITED|O
+CH|56664|PAYNTER, RHYDELL|O
+CH|56665|Pereira, John Andrew|O
+CH|56668|PRYOR CASHMAN LLP|O
+CH|56674|Prime Deck Aviation Limited|O
+CH|56677|PEROIKOU, HARRIS NICHOLAS|O
+CH|56684|Pamplin: Patricia J.|O
+CH|56687|A.J. PARK|O
+CH|56702|Permanent Arbitration Tribunal|O
+CH|56706|PATSCHAK, SUSAN|O
+CH|56716|Paulson & Co. Inc|O
+CH|56718|Suncor Energy Inc.|O
+CH|56721|Pereira, John & Sharon|O
+CH|56722|Public Sector Pension Investment Board|O
+CH|56727|Pearman, Lionel Sinclair|O
+CH|56728|Piques, Lurlyn|O
+CH|56736|Powell, Gayous|O
+CH|56739|Perfection Limited|O
+CH|56748|Pereira, Arthur D.|O
+CH|56750|Molina & Salis Disain, D.L.,|O
+CH|56755|Phillips, Frederick & Anna|O
+CH|56757|Pernod Ricard|O
+CH|56762|Springer Ltd.|O
+CH|56764|Pelham Private Trustee Limited|O
+CH|56768|Paxton, Terry|O
+CH|56769|Paynter, Marvin|O
+CH|56774|Pitcher, Deon|O
+CH|56776|Popplewell, Mildred|O
+CH|56780|Pitcher, Azeem|O
+CH|56781|Prescott, Jonathan N.|O
+CH|56783|Procopio, Cory, Hargreaves & Savitch LLP|O
+CH|56788|Pacific Crossing Limited|O
+CH|56789|Pulsar Investment Ltd.|O
+CH|56794|Parris, Kathy|O
+CH|56797|Patterson, Alan Neil and Jillian Elizabeth|O
+CH|56798|Pernod Ricard ARGENTINA S.R.L.|O
+CH|56799|Carpmaels & Ransford|O
+CH|56801|Penderis, Lesley Ann|O
+CH|56802|Philpott, Durronnie|O
+CH|56806|Pernod Ricard, S. A.|O
+CH|56808|Philip, Darlene Marchella|O
+CH|56811|Paradine, Jennifer|O
+CH|56812|Phoenix XXVI Aviation Ltd.|O
+CH|56815|Phillips, Grafton|O
+CH|56817|Pearman, Norris Samuel Gilbert|O
+CH|56820|Peirce Capital Ltd.|O
+CH|56821|Penacho, Eduardo|O
+CH|56822|Pacific Oil & Gas  North Sumatera  Ltd|O
+CH|56823|Power, Terence|O
+CH|56825|Pacheco, Kerilynn|O
+CH|56826|Parex Resources  Bermuda  Ltd.|O
+CH|56827|Parker, Pauline|O
+CH|56828|Pitcher, Roger Estate of|O
+CH|56830|Packwood, Andrew|O
+CH|56832|Pearman, Lucille|O
+CH|56835|Palomino Fund Ltd & Thoroughbred Offshore Fund Ltd|O
+CH|56836|Lewis, Patricia A.|O
+CH|56837|Pereira, Sharon|O
+CH|56838|Paus, Erik|O
+CH|56839|Plant, Arthur Colin  Estate|O
+CH|56840|Pitcher, Eugenia May|O
+CH|56841|Peter, Stephen|O
+CH|56843|Patterson, Jillian|O
+CH|56847|PT HUAWEI Tech Investment|O
+CH|56848|Pricewaterhousecoopers|O
+CH|56849|Pinto, Annie|O
+CH|56850|Philip Morris Products S.A.|O
+CH|56851|Philip Morris Global Brands Inc.|O
+CH|56853|Pernod Richard USA LLC|O
+CH|56859|Pimental, Antonio|O
+CH|56860|Pimentel, Fatima|O
+CH|56861|Group Intellectual Property Hub Pernod Ricard SA|O
+CH|56863|PAG Asia|O
+CH|56864|Pereira, Paula|O
+CH|56867|Pratt, Sharon Margaret|O
+CH|56868|Perks, Flora Cecily|O
+CH|56869|Potter IP|O
+CH|56871|Prior, Liliana|O
+CH|56873|Pinder, Nicole|O
+CH|56874|Pett, Lauren|O
+CH|56875|PT Satria Tirtatama Energindo|O
+CH|56876|Parex Bermuda  Insurance  Ltd.|O
+CH|56877|PRW NZ|O
+CH|56878|Pires, Robert|C
+CH|56879|Patel, Hinal|O
+CH|56880|Paltl, Kenneth Anton|O
+CH|56881|Pemberton, Kenneth P.A.|O
+CH|56882|Proskauer|O
+CH|56883|Phantom Holdings Ltd.|C
+CH|56884|Powell, Tonia Audrey|O
+CH|56885|Sputnick Limited|O
+CH|56886|Paiva, Holly|O
+CH|56887|Pemberton, Vernon & Clair|O
+CH|56888|Pessino De Quirch, Mariana et al|O
+CH|56889|Pension Commission|O
+CH|56890|Posen, Kevin|O
+CH|56892|Paynter, Anthony|O
+CH|56893|Petersen, Jens Kristian|O
+CH|56894|Pellettieri, Rabstein & Altman|O
+CH|56895|Plexcera Therapeutics, LLC|O
+CH|56896|The Platinum Group|O
+CH|56897|P+P Pollath + Partners|O
+CH|56898|Cooley LLP|O
+CH|56899|Payne, Simon and Maria|O
+CH|56901|Parsons, Charles Arthur|O
+CH|56902|Paynter, Burton Jr.  The Estate of|O
+CH|57007|Tucker, Hans John Charles|O
+CH|57021|Quantum Communications Ltd.|O
+CH|57024|QUANTIV PENSION PLAN|O
+CH|57030|QUO VADIS TRUST|O
+CH|57033|Q Investments|O
+CH|57036|Quiksilver, Inc.|O
+CH|57038|Qualey Mews Ltd.|O
+CH|57044|Quorum Growth Funding Limited|O
+CH|57047|Quin Emanuel Urguhart & Sullivan LLP|O
+CH|58160|Registrar of Companies|O
+CH|58262|Ratteray, George E. G.|O
+CH|58266|ROSSER: MRS IVY|O
+CH|58282|Raynor, James R. W.|O
+CH|58285|R.T.C. LIMITED|O
+CH|58295|ROE, BARRY|O
+CH|58300|Rayclan Limited|O
+CH|58307|RODRIGUES: PAUL|O
+CH|58308|Reckitt Benckiser Plc.|O
+CH|58310|ROYAL GAZETTE LIMITED|O
+CH|58327|ROBINSON: BRIAN WHITE|O
+CH|58339|Robic LLP|O
+CH|58342|ROBBINS, MR. & MRS. JOHN|O
+CH|58359|Roberts: Lionel|O
+CH|58375|ROCHESTER, THELMA E.|O
+CH|58377|Richardson, Allan & Karen|O
+CH|58378|Raben Levetzau, Baroness Elizabeth|O
+CH|58389|ROYAL HAMILTON AMATEUR DINGHY CLUB|O
+CH|58398|Ratteray, Hilarie|O
+CH|58407|RUBERRY, SYDNEY|O
+CH|58428|RITCHIE, PAUL M. & MRS. J.M.|O
+CH|58438|ROWLING, CALVYN|O
+CH|58448|ROSEWOOD HOTELS & RESORTS, LLC|O
+CH|58478|RAYNER, EUGENE|O
+CH|58483|ROPES & GRAY|O
+CH|58488|Roberts, Joan Eleanor|O
+CH|58495|RICHARDSON, NIGEL  ET AL|O
+CH|58505|RICHARDSON, DWIGHT|O
+CH|58526|RISING STAR TRUST|O
+CH|58527|Robinson, Phyllis|O
+CH|58534|RANKIN, ARTHUR|O
+CH|58536|E & A AVIATION LIMITED|O
+CH|58539|Richardson, Veronica|O
+CH|58540|Rees: Norah Jean|O
+CH|58541|RIVER SETTLEMENT|O
+CH|58545|ROACH, CHERYL|O
+CH|58551|REBORN LTD|O
+CH|58575|RECOGNITION CLOTHING LTD.|O
+CH|58591|Red Bull GMBH|O
+CH|58598|Renaissance Limited|O
+CH|58602|BEAN, RUTH L.|O
+CH|58608|RAWLINS, KAREN OONA|O
+CH|58617|RUTHERFORD LIMITED|O
+CH|58623|Roque, Christopher|O
+CH|58652|Rock Island Gourmet Limited|O
+CH|58654|OTU Gold Limited|O
+CH|58656|Christie: Rae|O
+CH|58657|Richmond: John & Grainne|O
+CH|58666|Ropes & Gray LLP|O
+CH|58685|Erwin, Robert L. W.|O
+CH|58688|Ray, Stanley|O
+CH|58690|Roberts, Joan Elaine|O
+CH|58696|Richardson, Ian|O
+CH|58704|Research in Motion Limited|O
+CH|58705|Robinson, Raymond|O
+CH|58714|Richair Limited|O
+CH|58717|Reckitt Benckiser LLC.|O
+CH|58718|Richardson, Patrick, Westbrook & Brickman, LLC|O
+CH|58721|Butzel Long|O
+CH|58723|Richardson, Est. David|O
+CH|58731|Richardson, Stephanie & Leroy|O
+CH|58733|Red Lake Ltd.|O
+CH|58734|Ratteray, Derek|O
+CH|58735|Rutli Stiftung|O
+CH|58738|Robinson, Kennett & Stephanie|O
+CH|58739|Ratzlaff: Terry & Cindy|O
+CH|58744|Reckitt Benckiser Corporate Services Limited|O
+CH|58746|Robinson, Stephanie G.|O
+CH|58747|Richardson GMP Ltd.|O
+CH|58749|Rocon Services Bermuda Ltd.|O
+CH|58750|Rolling Hills Limited|O
+CH|58751|Reckitt Benckiser LLC|O
+CH|58753|Richardson, Erin Lee Joshua|O
+CH|58756|Regina Limited|O
+CH|58757|Robinson, Michael John, Estate of|O
+CH|58758|Rodrigues, Chris|O
+CH|58759|Romagnoli, Luciana   Deceased|O
+CH|58760|Rogers, Takisha|O
+CH|58763|Ramshorn International Limited|O
+CH|58764|Ruberry, Emelina|O
+CH|58765|Rio Tinto Minerals|O
+CH|58766|Raynor, Justen|O
+CH|58768|Rayner, Rhoda   Estate|O
+CH|58769|Roberts, Manai M.|O
+CH|58771|Rayner, Martha|O
+CH|58772|Reilly, John Harvey|O
+CH|58773|Richardson, Sr. Beresford Hubley|O
+CH|58775|Reach Digital Ltd.|O
+CH|58778|Roederer Legal|O
+CH|58780|Ribaroff, Alex|O
+CH|58782|Richards, Rosette|O
+CH|58783|Rioja Services Ltd.|O
+CH|58786|Robinson, Justin W.|O
+CH|58788|Richard Law Group|O
+CH|58789|ROBERTS, ASHLEY|O
+CH|58792|Richardson, Annpol|O
+CH|58795|Rabain, Carmen & Ryan|O
+CH|58797|Roberts, Mani,  Kavin Wilson & Larry Steede,|O
+CH|58798|Robinson, Dr. Wilfred R.|O
+CH|58802|Ross Aviation|O
+CH|58803|Roopra, Davinder|O
+CH|58804|Regulatory Authority of Bermuda|O
+CH|58808|RB Pharmaceuticals Limited|O
+CH|58810|Rosneft VIETNAM B.V.|O
+CH|58811|Richardson, Kelvin|O
+CH|58814|Rodyk & Davidson LLP|O
+CH|58816|Rayner, Alice Mildred|O
+CH|58817|Relx Inc.|O
+CH|58820|Robinson, Melanie|O
+CH|58821|Rodriques, Michael Steven|O
+CH|58822|Ray, Alden|O
+CH|58824|Ruiz, Tara|O
+CH|58825|Richardson, Desmond E.|O
+CH|58827|Roberts, June Elizabeth|O
+CH|58830|Rawlins, Eqiuilla Doris|O
+CH|58832|Ruberry, Richard|O
+CH|58833|Rego, Anthony J.|O
+CH|58836|R.G. Fowle  Holdings  Ltd.|O
+CH|58837|Rate My Bermuda Ltd.|C
+CH|58838|Roc Oil Company|O
+CH|58839|Rodrigues, Stephen|O
+CH|59002|Symington Trust|O
+CH|59011|Scriminger Marital Trust|O
+CH|59014|Stanford Private Trust|O
+CH|59019|SEAVIEW TRUST|O
+CH|59023|Seasalt Trust|O
+CH|59028|Sherwood Trust|O
+CH|59029|StoneHaven Trust|O
+CH|59101|Sea Breeze Trust|O
+CH|59295|ENSCO MARITIME LIMITED|O
+CH|59347|SOUSA, ROBERT|O
+CH|59402|Class Act Design Limited|O
+CH|59486|SOUSA, MARK|O
+CH|59504|Stinson Leonard Street LLP|O
+CH|59535|SMITH: CALVIN C.|O
+CH|59564|SPOOR AND FISHER JERSEY|O
+CH|59608|STONE CLADDING CONSULTANTS LIMTIED|O
+CH|59641|Worldview Economic Recovery Fund|O
+CH|59651|SIMONS: CALVIN|O
+CH|59661|SERRA FOUNDATION|O
+CH|59679|Sims: Wayne Scott|O
+CH|59685|Dundas & Co. Ltd.|O
+CH|59695|Sousa, Jefferson|O
+CH|59712|EVERETT: SIMON C.|O
+CH|59716|SINCLAIR REALTY LTD.|O
+CH|59717|SHELL INTERNATIONAL LIMITED|O
+CH|59725|STOWE, THOMAS NORMAN CANTERBURY|O
+CH|59727|Switchworx Limited,|O
+CH|59729|Zacco Netherlands BV|O
+CH|59730|Subair, Dr. H. O.|O
+CH|59740|Solvay, S.A.|O
+CH|59754|SINCLAIR: JOHN|O
+CH|59768|SALVATION ARMY|O
+CH|59774|Kilburn & Strode|O
+CH|59785|Argyll Elite Fund Limited|O
+CH|59814|Sousa, Donald & Rose|O
+CH|59820|Structural Engineers Insurance|O
+CH|59856|Spectron Holdings Limited|O
+CH|59871|Sequeros: Manuel|O
+CH|59878|Saints: Sarai A.|O
+CH|59898|Smith: Doraleen|O
+CH|59901|Sea Glen Trust|O
+CH|59931|SAS Institute Inc.|O
+CH|59934|STEELCASE INC.|O
+CH|59939|STRUCTURAL ENGINEERS HOLDINGS, LTD.|O
+CH|59943|SHAW, ROBERT  WARD|O
+CH|59968|SARA LEE   DE  N.V.|O
+CH|59980|SMITH, ALFRED DARNLY DOWLING|O
+CH|59991|SIMONS, JUNE & DUDLEY|O
+CH|59995|BURCH, DORIS  ESTATE OF|O
+CH|60006|STEPHENS, DONALD R.  ESTATE|O
+CH|60007|TALL PINES TRUST|O
+CH|60028|Zita Trust  The|O
+CH|60032|STATE HOUSE TRUST CO. LTD.|O
+CH|60035|SLOANE HELICOPTERS LIMITED|O
+CH|60040|SMITH, GARY|O
+CH|60045|TOPOL TRUST|O
+CH|60057|SEAFALCON LTD|O
+CH|60118|SMITH, MARILYN C.|O
+CH|60126|Stovell, Michael E.|O
+CH|60135|SOUTHGATE LIMITED|O
+CH|60139|SIMMONS, FLOYD S. & ADRIANNA S.|O
+CH|60155|SANCHELIMA & ASSOCIATES|O
+CH|60163|TUCKER, JAMES D.  ESTATE|O
+CH|60165|Thompson, Stephen|O
+CH|60204|MEDICAL PROTECTION SOCIETY|O
+CH|60215|STEEDE, WARREN|O
+CH|60225|STAG EXPLORATION PRODUCTION LIMITED|O
+CH|60230|Smith, James Bryce|O
+CH|60255|STEEDE, MARILYN|O
+CH|60258|SMITH, PETER WINSLOW|O
+CH|60270|SINCLAIR, ANDREW MAGEE  EST|O
+CH|60282|Terceira, Penelope|O
+CH|60287|SPENSER, IDA ELIZABETH|O
+CH|60301|THOMPSON, MARY PATRICIA|O
+CH|60322|SANDBED LTD|O
+CH|60336|TBS SHIPPING INTERNATIONAL LIMITED|O
+CH|60345|THOMPSON, VIBART REGINALD|O
+CH|60346|RADIOSHACK CORPORATION|O
+CH|60347|Thomson CompuMark|O
+CH|60349|Trott, Steven Grinnell|O
+CH|60351|TROTT: PHYLLIS|O
+CH|60361|TYRELL, KENYATTA|O
+CH|60376|TROTT, FRANCES GERALDINE|O
+CH|60383|Thomas: Gloria|O
+CH|60391|TRAFALGAR TOURS INTERNATIONAL LTD.|O
+CH|60398|TELFORD, GEORGE & CAROLYN|O
+CH|60405|Todd: Estate of George C.|O
+CH|60430|Kilpatrick Townsend & Stockton LLP|O
+CH|60447|THOMSON, ROBERT & PAMELA|O
+CH|60452|TROTT, MARY SUSAN ANN|O
+CH|60455|TERCEIRA, PETER|O
+CH|60469|THALES  BERMUDA  G.P. LTD.|O
+CH|60476|TOWNLEY, EMILY  ESTATE|O
+CH|60478|Tucker, Kimbel Leroy|O
+CH|60483|TRICON TRADE MANAGEMENT|O
+CH|60494|TELFORD, CAROLYN|O
+CH|60539|Tucker, Myer|O
+CH|60544|Forfaiting Trading  Bermuda  Limited|O
+CH|60555|THOMAS, HANNA  ESTATE OF|O
+CH|60580|TOMKINS & CO.|O
+CH|60582|TROTT, WILLIARD & PATRICIA|O
+CH|60587|TUCKER, DELMONT|O
+CH|60609|SINCLAIR FAMILY TRUST|O
+CH|60610|SPURLING, GRAHAM J.  Est.|O
+CH|60621|SMITH, PETER J.C.|O
+CH|60633|SCHEHeRAZADE LTD|O
+CH|60644|Stephens, Eardley|O
+CH|60661|SMITH, MEREDITH MARGUERITA|O
+CH|60663|SOUTHLANDS Limited|O
+CH|60669|STEMPEL, NEIL|O
+CH|60670|SMATT ADKINS, JENNIFER LEIGH|O
+CH|60677|SEYMOUR, WILLIAM E.|O
+CH|60681|SIMMONS, WESLEY & MAYBELLINE|O
+CH|60682|Symonds, Dwayne Troy D.|O
+CH|60684|Sutton, Karen E.|O
+CH|60701|TQ LIMITED|O
+CH|60712|TROTT, KINGSLEY & OTHERS|O
+CH|60713|Technics Auto Centre Ltd.|O
+CH|60723|TNS  INC.|O
+CH|60747|WODD, WILLIAM|O
+CH|60751|TROTT, DIANA|O
+CH|60755|TODD, LESLIE|O
+CH|60758|TALBOT, SHARMAINE|O
+CH|60763|TWEED, ANDRE|O
+CH|60809|STETINA BRUNDA GARRED & BRUCKER|O
+CH|60810|Slumber Products, Inc.|O
+CH|60814|Steadfast International Ltd.|O
+CH|60824|SPICE VILLA TRUST|O
+CH|60826|STATEHOUSE TRUST CO. LTD.|O
+CH|60840|SEA AVIATION LTD.|O
+CH|60852|STORR, PHILIP LEONARD|O
+CH|60857|SIMONS, WINIFRED DIANA|O
+CH|60866|Scully, Scott, Murphy & Presser|O
+CH|60867|STARWOOD HOTELS & RESORTS WORLDWIDE, INC.|O
+CH|60889|SMITH, SUZANNE ROSEMARIE|O
+CH|60898|SMITH, BETTY|O
+CH|60910|Terceira, Carol Ann|O
+CH|60917|Tricon Forfaiting Fund Limited|O
+CH|60918|TK'S Spices Trust|O
+CH|60922|Indian Hotels Company Ltd.|O
+CH|60926|Three Nineteen Holdings Ltd.|O
+CH|60927|Three Twenty Holdings Ltd.|O
+CH|60928|Thomas, Carolyn Patricia|O
+CH|60931|TERCEIRA, JILLIAN|O
+CH|60938|Schwan's Food Company|O
+CH|60945|Phantom Trust|O
+CH|60963|Tseng, Kingston|O
+CH|60964|Tucker, Donna Mae|O
+CH|60970|Thema Fund Ltd.|O
+CH|60972|Tatem, Michael A.|O
+CH|60974|Terceira, Norman|O
+CH|60975|Thompson, Shawn|O
+CH|60981|Taalib Din, Khomeini|O
+CH|60982|Tucker, Kimberley|O
+CH|60984|Tiptop Energy  Bermuda  Ltd.|O
+CH|60990|Tucker, Gilbert & Yolanda   Mr. & Mrs.|O
+CH|60992|Tatem, Sr. Herbert|O
+CH|60994|T.C. ASSOCIATES|O
+CH|61001|Todd, Winifred Evelyn  Estate|O
+CH|61006|Thomson Reuters|O
+CH|61008|The Absolut Company  Tac|O
+CH|61013|Tucker, James|O
+CH|61016|Terceira, Karen|O
+CH|61017|TULLY, SIMON|O
+CH|61019|Tucker Taylor, Lorell Yvonne|O
+CH|61020|Tences Investments Ltd.|O
+CH|61021|Tucker, Wendy Sue|O
+CH|61025|Tannock, Raymond|O
+CH|61027|Tucker, Audrey|O
+CH|61029|Trott, Mary Marecheaux Elizabeth|O
+CH|61033|Thomas, Sarah & Louise|O
+CH|61034|Tuckers Point Limited|O
+CH|61037|Three Cedars Trust|O
+CH|61041|Tavares, Goodwin Wayne|O
+CH|61043|Treanor, Linda|O
+CH|61044|Transatlantic Holdings, Inc.|O
+CH|61046|Thomas, Charles Aaron|O
+CH|61047|Trott, Alicia|O
+CH|61048|Trott, Charles Henry|O
+CH|61049|TJX Companies, Inc.|O
+CH|61050|Thermphos International B.V.|O
+CH|61051|TUCKER, WAYNE|O
+CH|61052|Turkel, William|O
+CH|61053|Castle Harbour Securities Limited|O
+CH|61054|Todd, Richard|O
+CH|61056|Trott, Ernest|O
+CH|61089|UMRANI, SHAHEED|O
+CH|61107|Universal Weather and Aviation, Inc.|O
+CH|61108|Universal Aviation Bermuda Limited|O
+CH|61109|Unicredit S.P.A.|O
+CH|61110|United Overseas Bank Limited, Los Angeles Agency|O
+CH|61112|Uhthoff Gomez Vega & Uhthoff, S.C.|O
+CH|61113|Ubimet GmbH|O
+CH|61116|Byland Construction Ltd.|O
+CH|61504|SHAKIR, RAHEEM|O
+CH|61509|STARC LIMITED|O
+CH|61511|SCOR S.A.|O
+CH|61512|SHAILER, ANDREW & BARRY|O
+CH|61513|STOVELL, WARREN|O
+CH|61524|SANDSONG VILLAS LIMITED|O
+CH|61544|SPURLING, LISA MS.|O
+CH|61553|Simons, Richard|O
+CH|61559|Challenger Holdings Bermuda Ltd.|O
+CH|61560|SIRONA DENTAL SYSTEMS INC.|O
+CH|61575|Starbucks Coffee Company|O
+CH|61579|Smith Gary E.|O
+CH|61691|Coan, Payton & Payne, LLC|O
+CH|61693|Senniger Powers LLP|O
+CH|61695|Scuba Trust|O
+CH|61696|Rule Ltd.|O
+CH|61698|Starc Holdings Limited|O
+CH|61701|Smith, Marie|O
+CH|61704|Swan, Arthur Granville|O
+CH|61711|Xchanging Software Bermuda Limited|O
+CH|61745|Steede, Dana|O
+CH|61746|Standard Bank PLC|O
+CH|61748|Smith, Kevin & Lornall|C
+CH|61759|Smith, David Ronald Gayous|O
+CH|61765|St. Jude Medical, Inc.|O
+CH|61770|Simons, Deborah|O
+CH|61772|Symonds, Joy et al|O
+CH|61777|Simmons, Colette M.|O
+CH|61782|Swedbank AB New York Branch|O
+CH|61783|Saunders, Noel & Antinette Adderly|O
+CH|61784|Sanofi|O
+CH|61787|Simmons, Sharon|O
+CH|61794|Sumitomo Mitsui Banking Corporation|O
+CH|61806|Sequeros, Geraldine Crockwell|O
+CH|61813|Scaife, Marion|O
+CH|61820|Smith, Ryan Ornell|O
+CH|61821|Sustainable Touch Charitable Trust|O
+CH|61823|Smith, Andrew|O
+CH|61827|Showers, Norma E. M.|O
+CH|61828|Shaikan Petroleum Limited|O
+CH|61830|Smith, Frederick Edward|O
+CH|61833|Spershott, Rose Evelyn|O
+CH|61845|Saliba, Bernadette|O
+CH|61847|Stowe, Thomas|O
+CH|61848|Simons, Pastor Gary|O
+CH|61851|Sec Investments of Ireland|O
+CH|61857|Soccer & Friends Ltd.|O
+CH|61859|Swan, Walter Stanley Sullivan|O
+CH|61863|Siddiqi, Rick|O
+CH|61871|Simons, Duncan|O
+CH|61872|Sousa, Joey|O
+CH|61875|Simmons, Sarah Rose|O
+CH|61876|Seyfarth Shaw LLP|O
+CH|61877|ST & P Attorneys and Agents|O
+CH|61880|Seyfarth Shaw LLP|O
+CH|61883|Santos, Joe & Sally|O
+CH|61884|Schindel, Peter|O
+CH|61886|Sagurs, June|O
+CH|61887|Simons, Carlton|O
+CH|61888|Sherry Hill Ltd.|O
+CH|61891|Simons, Steven|O
+CH|61892|Spencer Arscott, Margaret|O
+CH|61893|Suhartono, Whatony|O
+CH|61895|Simons: Gary Edmund|O
+CH|61896|Smith: Creswell|O
+CH|61899|Somerville, Randy|O
+CH|61905|Scotiabank Europe PLC|O
+CH|61907|Simoes Garcia Corte Real & Associados|O
+CH|61911|Stapff, Meredith|O
+CH|61912|Stephens, Howard Francis|O
+CH|61916|Saul, David John|O
+CH|61918|Smith, Susann|O
+CH|61919|Smith, Vincent|O
+CH|61921|Smith, Randolph|O
+CH|61922|Simons, Octavia   Est.|O
+CH|61925|Smith, Carol  Estate of|O
+CH|61928|Simmons, Cleveland|O
+CH|61929|Stobo, Daphne|O
+CH|61931|800 SPC Ltd.|O
+CH|61932|Simmons, Robert|O
+CH|61936|Surface Trends Limited|O
+CH|61937|Smith, Suzanne Martha|O
+CH|61939|Spenser, Arthur George   Deceased|O
+CH|61940|Topley, Sally   Dallas, Michelle   Eve, Linda|O
+CH|61944|Simmons, Brian|O
+CH|61945|Smith, Jamaine|O
+CH|61948|Smith, Cindi Jasalle and Others|O
+CH|61949|Sabre Metals Master Ltd.|O
+CH|61950|Sabre Metals Ltd.|O
+CH|61951|Smith, Greja|O
+CH|61952|Strachan, Garfield|O
+CH|61954|Simons, Rosalind Eugena|O
+CH|61955|Stiffington, Karen|O
+CH|62005|VALLEY & LANY TRUSTS|O
+CH|62056|Stowe, Walter Gerald Hilgrove|O
+CH|62057|Smith, Maxwell Neville|O
+CH|62059|Scaife, Andrew|O
+CH|62060|Santucci, Melvin|O
+CH|62061|Synergy Group Corp.|O
+CH|62062|Stephens, Mary Elizabeth|O
+CH|62065|Simons, James|O
+CH|62067|William F. Scriminger Marital Trust|O
+CH|62068|Scriminger Investment Trust |O
+CH|62069|Symonds, Vernesha|O
+CH|62071|Sigma Corporate Services|O
+CH|62072|Smith, Amanda J.|O
+CH|62074|Simmons, Victor Wesley|O
+CH|62077|Somers Gardens   Andrew Outerbridge|O
+CH|62079|Outerbridge, Stuart|O
+CH|62081|Scott, Laverne|O
+CH|62083|Shafique, Muhammad|O
+CH|62085|SapuraKencana|O
+CH|62089|Smith, Marilyn E.|O
+CH|62093|VIGILANTE: CLAUDIO G.|O
+CH|62096|VIEIRA: HERCULANO|O
+CH|62102|VIKING FOODS LTD.|O
+CH|62108|VALLIS, C. JIMMY|O
+CH|62117|VOYAGER  2000  FUND LIMITED|O
+CH|62121|VANCO EQUATORIAL GUINEA LTD.|O
+CH|62128|VENABLE, BAETJER, HOWARD & CIVILETTE, LLP|O
+CH|62131|VAN DYKE, GARDNER, LINN & BURKHART. LLP|O
+CH|62133|VANCO ENERGY COMPANY LTD.|O
+CH|62154|VORLEY, LLEWELLYN & LEILA|O
+CH|62161|Vallis & Hayward Ltd.|O
+CH|62170|Vanderwaak, Steven|O
+CH|62196|Viera, Pauline Manjoye|O
+CH|62201|Valasse, Omer|O
+CH|62202|T.C. Associates Ltd|O
+CH|62208|Vasconcelos, Dalmero|O
+CH|62209|Vera P. Card Ltd.|O
+CH|62215|Vandoninck, Philip|O
+CH|62216|Ventures, Gayle|O
+CH|62217|Victualling Yards Holdings Ltd.|O
+CH|62218|Vanrell|O
+CH|62219|Vocalion Limited|O
+CH|62924|Trevira Gmbh|O
+CH|63011|TABLE MOUNTAIN INVESTMENTS LIMITED.|O
+CH|63069|Southland|O
+CH|63164|WHITE & SONS|O
+CH|63168|Wilmot: Gerry|O
+CH|63217|Windblown Trust|O
+CH|63269|Williams International  Bermuda  Limited|O
+CH|63273|WEST: DR. STEPHEN|O
+CH|63282|Williams Int'l Ecuadorian Ventures  Bda  Limited|O
+CH|63298|WEBB, WALTER|O
+CH|63326|WINDBLOWN HOLDINGS LIMITED|O
+CH|63342|WARNER NORCROSS & JUDD|O
+CH|63343|WOLLMAN, PAUL C.|O
+CH|63358|WESTON: GRANGER|O
+CH|63361|WILLIAMS, ESTATE OF EDWARD ALLISON|O
+CH|63364|WILLIAMS, MARION CORALITA|O
+CH|63365|Richard Winchell,|O
+CH|63376|Wood: Hugh|O
+CH|63380|Wellman: Ann Luella|O
+CH|63382|White, Leslie|O
+CH|63387|WESTWARD TRUST|O
+CH|63388|Gray Plant Mooty|O
+CH|63401|WALENCIAK, STANLEY ROBERTSON|O
+CH|63408|Williams, Cecil Leonard  Estate|O
+CH|63410|WILLIAMS, AARON|O
+CH|63428|Wade: Patricia A.|O
+CH|63432|White & Sons Ltd,|O
+CH|63442|Wal International Corporation Limited|O
+CH|63445|Wright: John R. & Kim M.|O
+CH|63509|WILSON, MELBA|O
+CH|63520|Witten, Romamae|O
+CH|63530|WARNER, THYRA|O
+CH|63545|WRIGHT, ANGELA BERNICE|O
+CH|63549|WYATT, TARRANT & COMBS, LLP|O
+CH|63550|White, Jonathan Edric|O
+CH|63580|WOLF, GEZA|O
+CH|63582|WOODS, RANDOLPH & DOROTHEA|O
+CH|63584|WALTERS, KATHLEEN|O
+CH|63597|WWF International|O
+CH|63602|Wood, Herron & Evans, LLP|O
+CH|63605|WILLIAMS, JANE RONICKA  EST|O
+CH|63608|Wrangler Apparal Corp. Americas Region|O
+CH|63637|WARWICK, JOHN R.|O
+CH|63648|Wenzhou Xingye Trademark Service Co.,Ltd|O
+CH|63650|WILSON, ANDREA|O
+CH|63653|WOODLEY, JUDITH & SARAH|O
+CH|63655|WILLARDS TRUST|O
+CH|63656|WHITE, JOHN & BERNICE|O
+CH|63662|WEBB, CHARLES H. O'DONNELL|O
+CH|63685|WATTERS, NELLIE L.|O
+CH|63687|WHITE, EDRIC & BARBARA|O
+CH|63695|Wainwright, Marion Brenda Iona|O
+CH|63716|WOOLF PETER|O
+CH|63720|Wright, Charles Herbert|O
+CH|63723|Wohlmuth, Joanne & Franz|O
+CH|63734|Ware: Dr. Maureen|O
+CH|63735|Watson, Ian Patrick|O
+CH|63745|Wellman, David|O
+CH|63746|Wight, John|O
+CH|63748|Withers & Rogers LLP|O
+CH|63756|Williams, Ian|O
+CH|63758|West of England Protection and Indemnity|O
+CH|63761|Wilson, Lois|O
+CH|63766|Wallington, Leslie|O
+CH|63767|White, Paul|O
+CH|63769|Wade, Fern|O
+CH|63771|Wishboune Trust|O
+CH|63779|Withers  LLP|O
+CH|63781|Wallington, Chris|O
+CH|63782|Warner, Kevin|O
+CH|63786|Wilkinson, Elthel Marietta|O
+CH|63788|Wolfe, Heather|O
+CH|63790|Webster, Chamberlain & Bean|O
+CH|63791|Walker, Holly|O
+CH|63792|Warren Phillips, Pamela|O
+CH|63793|WEBSTER, JEFF|O
+CH|63794|Warner, Nakia|O
+CH|63796|Wilkinson, Nellie N|O
+CH|63797|Winchester Trust Company|O
+CH|63801|Wong, Mimi|O
+CH|63806|Williams, Mark|O
+CH|63807|Williams, MacDonald|O
+CH|63808|Watlington, Herewood|O
+CH|63810|Wainwight, Racquel & George Dowling|O
+CH|63811|Winchester Holding Ltd.|O
+CH|63812|Womble Carlyle Sandridge & Rice, PLLC|O
+CH|63813|Wolfe, Karen Elizabeth|O
+CH|63815|W.P.F.T. Purpose Trust|O
+CH|63816|Websense International Limited|O
+CH|63819|Woodcock, Maria Katalin|O
+CH|63821|Walker, Myra|O
+CH|63823|Williams, Lynette Estmere|O
+CH|63826|Wideluck Enterprises Limited|O
+CH|63827|Warwick Parish Council|O
+CH|63828|Wills, Jennifer|O
+CH|63830|Williams, John|O
+CH|63831|Wilkinson, Tammi|O
+CH|63832|Williams, William James|O
+CH|63834|Williams, David|O
+CH|63836|Wolfe, Josia|O
+CH|63837|Walsh, Sally & John|O
+CH|63838|Williams, Valerie|O
+CH|63839|Wadson, John|O
+CH|63840|White, Sergio|O
+CH|63841|Williams, Pamela|O
+CH|63842|Wells, Michael|O
+CH|63843|Westerfield, Andrea|O
+CH|63844|Weidenborner, Janice|O
+CH|63846|Walton, Christopher|O
+CH|63848|Williams, Michael|O
+CH|63849|Woodhouse, Denise|O
+CH|63851|Willitts, Lucy|O
+CH|63853|Wharton, Kendra K.|O
+CH|63856|Wakefield, Royce|O
+CH|63857|Woodstan Consultants Pension Plan|O
+CH|63858|Williams, Mary Elizabeth|O
+CH|63861|Wells Fargo Bank N.A.|O
+CH|63862|Wynn, Don Ricardo|O
+CH|63863|Woodward, Fiona|O
+CH|63864|Worldview Travel Ltd|O
+CH|63865|WHG  International  Limited|O
+CH|63866|Wood, Alfred George|O
+CH|63867|Woodway Enterprises S.A.|O
+CH|63868|LAEP Investments Ltd.|O
+CH|63869|Ward, Elizabeth Margaret|O
+CH|63871|Wolfe, Myron|O
+CH|63874|Waterfall, Caldwell, Hanshan & Villamana P.C.|O
+CH|63875|West African Gas Pipeline Company Limited|O
+CH|63876|Woods, Laniece|O
+CH|63878|White, Denis|O
+CH|63879|Wilson, Ledrew|O
+CH|63881|Wallinger Ricker Schlotter Tostmann|O
+CH|63882|West, Paul & Sally|O
+CH|63883|Washington, Sharon|O
+CH|63884|Woolridge, Sandra|O
+CH|63886|Wong, Chun Lee|O
+CH|63887|Whelan, Kilian|O
+CH|63888|Wilson, Akilah|O
+CH|63890|Woolridge, Stephen|O
+CH|63891|Wells, Phillip|O
+CH|63892|Wang, Susan & Sandy|O
+CH|63893|Wong, Monette G.|O
+CH|63894|WallPaperChannel Ltd.|O
+CH|63896|Wardman, Tiffany & Geordie|O
+CH|63897|White, Janet|O
+CH|63901|Symonds, Dwayne and John Symonds|O
+CH|63903|Smith Caisey, Brenda|O
+CH|63905|Sage Commission|O
+CH|63907|Simmons, Tiara|O
+CH|63908|Sundance Bermuda Accommodations.com Limited|O
+CH|63909|Skiffington, Mary|O
+CH|63910|Swan, Marlene|O
+CH|63912|Spalding, Janice|O
+CH|63913|Brandstock Legal Rechtsanwaltgesellschaft Schaft|O
+CH|63914|Salvation Army|O
+CH|63915|Superstarpa   Dudley Associates|O
+CH|63916|Smith, Cynthia|O
+CH|63917|Simons, Eulene|O
+CH|63920|Stewart, Geri|O
+CH|63922|Skadden Arps|O
+CH|63923|Sims, Jennifer|O
+CH|63927|Smith, Mavis Elnorah|O
+CH|63928|Simons, Denise|O
+CH|63929|Simons, Darryl T. S.|O
+CH|63930|Smith, Cynthia|O
+CH|63932|Spence, Andrew|O
+CH|63933|Swart, Charles|O
+CH|63937|Stephens, Kathy|O
+CH|63938|Seabourn Cruise Line Limited|O
+CH|63939|Smith, Timothy|O
+CH|63941|Smith, Craig|O
+CH|63942|Southport Trust|O
+CH|63947|Stevens Hewlett & Perkins|O
+CH|63948|Strands Limited|O
+CH|63950|Szmierek, Keith A.|O
+CH|63951|STURGEON CENTRAL ASIA BALANCED FUND LTD.|O
+CH|63954|Smith, Emily Laura Ann|O
+CH|63955|Simons, Winifred Diana|O
+CH|63956|Stobbs  IP  Limited|O
+CH|63958|Svenska Handelbanken AB  pubi|O
+CH|63959|Simmons, Eugene|O
+CH|63964|Sturgeon Capital Ltd.|O
+CH|63965|Samba Financial Group|O
+CH|63966|Stephens, Janice Marion|O
+CH|63967|Skinner, Catherine|O
+CH|63971|Gyorgy, Szegeti   The Estate of|O
+CH|63974|Smith, Garline Tracy|O
+CH|63976|Smith, Yvette Eleanor|O
+CH|63977|Simmons, Chanelle|O
+CH|63978|Santos Fita, Thomas & Cresencia|O
+CH|63980|Springham, Keith|O
+CH|63982|Stites & Harbison PLLC|O
+CH|63983|Smith, Avis|O
+CH|63986|Shelley, Tim|O
+CH|63987|Spar Yard Marine Solutions Ltd.|O
+CH|63988|Swan, Kathy Ann|O
+CH|63990|Sumitomo  #61852|O
+CH|63991|Software AG|O
+CH|63995|Stovell, Betty|O
+CH|63997|Simpson, Tiffany|O
+CH|63998|Selley, Craig|O
+CH|64001|Silverdale International Group Inc.|O
+CH|64004|Saliwanchik, Lloyd & Eisenschenk, P.A.|O
+CH|64008|SVP Worldwide|O
+CH|64010|Sawden, Rachel|O
+CH|64023|XL Insurance|O
+CH|64024|X10 Limited|O
+CH|64025|Xylem Inc.|O
+CH|64101|Scepter Partners|O
+CH|64104|Scraders, Nesbitt|O
+CH|64106|Simmons, Courtney|O
+CH|64107|Smith, Donna|O
+CH|64108|Smith, Rhonda|O
+CH|64109|Standard Bank Jersey|O
+CH|64110|Sace S.p.A.|O
+CH|64112|Skycore Aviation Ltd.|O
+CH|64113|Stoneham, Lauretta|O
+CH|64114|Smith, Terrence & Tula|O
+CH|64116|Steede, Denise|O
+CH|64118|Smith, Ann|O
+CH|64119|St. Anthony Ltd.|O
+CH|64120|Vasic Pirich, Sanja|O
+CH|64121|Sutcliffe, Linsey|O
+CH|64122|Sanchez, Virginia|O
+CH|64124|Simmons, Fermina Isabel|O
+CH|64126|Sousa, William Jay|O
+CH|64127|St. George's Club|O
+CH|64129|Saab AB|O
+CH|64130|Santarelli|O
+CH|64132|Sheen, David|O
+CH|64133|Spiritual & Personal Growth Trust|O
+CH|64134|Seyfarth Shaw LLP|O
+CH|64135|Societe Generale, London Branch|O
+CH|64137|St. Helena Ltd.|O
+CH|64138|Scraders, Marcia Jacqueline|O
+CH|65027|YOUNG, SYBIL|O
+CH|65040|YOUNG, KINGSLEY|O
+CH|65041|YAZOGLU, CAROL|O
+CH|65047|Yearwood Est. Frederick W|O
+CH|65049|Young: Thora Diame|O
+CH|65055|Yum! Brands, Inc.|O
+CH|65057|Yeo, Jacqueline|O
+CH|65059|York, Alma Foggo|O
+CH|65060|Young, Valerie G. A.|O
+CH|65062|Y.T. WANG|O
+CH|65065|Young, Reeve|O
+CH|65066|Yodpanya, Sirilak|O
+CH|66034|Zuill, David C.|O
+CH|66042|Zuill, John Carlisle|O
+CH|66044|Zorn, Patricia|O
+CH|66046|Zuill, Michael|O
+CH|66049|Zacco Norway AS|O
+CH|66052|Zurcher Kantonalbank|O
+CH|66054|Zuill, Kimberly & Rashawn  Sons a minor|O
+CH|67002|Tucker, Wesley Roy|O
+CH|67003|Tokio Millennium Re Ltd.|O
+CH|67004|Theresa Insurance ST 48360|O
+CH|67005|Thompson, Kim|O
+CH|67006|Thomas, Adele|O
+CH|67008|Tucker, Kavan|O
+CH|67010|Tucker, Tangie|O
+CH|67013|Tofori, Boswana|O
+CH|67014|Trott, Acacia|O
+CH|67015|Terceira, Harold|O
+CH|67016|TPC Hotels Ltd.|O
+CH|67018|Todd, Raymond Leon|O
+CH|67019|T.T.& D Limited|O
+CH|67020|Terceira's Port Royal Service Centre Limited|O
+CH|67023|Thompson, David|O
+CH|67024|Tucker, Wentworth|O
+CH|67026|Talbot, Herbet Michael H.|O
+CH|67029|Tucker, Ricardo L.A.|O
+CH|67032|Tucker, Ed  Trading as Tucker Corporation|O
+CH|67033|Thompson, Randall Elijah|O
+CH|67036|Trott, Madeline|O
+CH|67037|Towers Watson|O
+CH|67038|Thompson, Deborah|O
+CH|67039|Arbitration: Eve v Duncan|O
+CH|67040|Tucker, Douglas Winston|O
+CH|67042|Trott, David & Janice|O
+CH|67043|Terceira Quarterly Associates|O
+CH|67044|Tree Tops Ltd.|O
+CH|67045|Tree Tops II Ltd.|O
+CH|67046|Talbot, Macio|O
+CH|67047|Trott, Kamal|O
+CH|67048|The Certus Group|O
+CH|67050|Trina Investments Limited|O
+CH|67051|Thorne, Philip Andrew|O
+CH|67054|Athletic Club|O
+CH|67057|Tatem, Brenda|O
+CH|67058|Thomson, Nicholas|O
+CH|67060|Taby Airmaintenance AB|O
+CH|67061|Triangle Rigging Limited|O
+CH|67062|Taylor Wessing LLP|O
+CH|67064|Tucker, Marjorie|O
+CH|67065|Tahir, Naeem|O
+CH|67066|Tucker, Edna Gwendolyn|O
+CH|67067|Tudor Thomas, Katherine|O
+CH|67068|Turnkey Furniture Rental|O
+CH|67070|Taalib Din, Murad|O
+CH|67072|Tucker, Fredrick|O
+CH|67073|The Coca Cola Company|O
+CH|67075|Tucker, Joy|O
+CH|67076|Thomas, Edith Margaret|O
+CH|67077|Turnbull, Andrew|O
+CH|67078|Tsai, Ruby Kung Ju Ming|O
+CH|67080|Treasury Wine Estates Americas Company|O
+CH|67081|Treasury Wine Estate UK Brands Limited|O
+CH|67082|Treasury Wine Estates  Matua  Limited|O
+CH|67083|Triangle Sweets Ltd|O
+CH|67084|Twizzle Marine LP|O
+CH|67085|Terra Law Limited|O
+CH|67086|Trott, Charlette|O
+CH|67087|Tomlinson, Kauwanda|O
+CH|67089|Leman Management Nominees Limited|O
+CH|67090|Troutman Sanders LLP|O
+CH|67092|PT Internasional Tbk|O
+CH|67093|Telpoukhovskaia, Nina|O
+CH|67094|Toerama  PTY  Ltd.|O
+CH|67096|The Crossings Limited|O
+CH|68001|Once Upon A Time Limited|O
+CH|68002|Outerbridge, George|O
+CH|68005|Oracle Financial|O
+CH|68006|Oliveira, Betty Lou Ivanell|O
+CH|68007|Oliveira, Edward Joseph|O
+CH|68009|Outerbridge, John|O
+CH|68010|O'Connor, Melissa|O
+CH|68011|Oung Da Ming and Oung Shih Hua|O
+CH|68013|Ocular Technologies Sarl|O
+CH|68016|Owens & Minor|O
+CH|68017|Okumus Opportunistic Value Fund|O
+CH|68018|Outerbridge, Andre Eugene|O
+CH|68020|Ortega, Daniel|O
+CH|68021|Obex Investments LLC|O
+CH|68022|Oyster Consulting  Bermuda  Ltd.|O
+CH|68023|Outerbridge, Liza|O
+CH|68024|Olde Logan Berry Trust|O
+CH|68025|Oatley, Sarah|O
+CH|68027|Outerbridge, Anthony Keith|O
+CH|68028|O T Platform Sarl|O
+CH|68029|Outerbridge, Mark & Hayley|O
+CH|69001|Well Bottom Plumbing Supplies Limited|O
+CH|69002|Wilkinson, Rhiannon|O
+CH|69003|Wilmot, Paul|O
+CH|69004|Williams, Charles|O
+CH|69005|Wilson, Cleo|O
+CH|69006|Wolffe, Earlston W.|O
+CH|69007|Williams, Jacquelyn|O
+CH|69008|Webb, Kimberley Ann|O
+CH|69009|Watson, Lindsay|O
+CH|69010|Williams, Marcus|O
+CH|69011|Wharton, Paget|O
+CH|69012|Wells, Amanda|O
+CH|69013|Westend Properties Limited|O
+CH|69014|Wombwell, Sally|O
+CH|69015|Winstanley, William|O
+CH|69016|Williams, Edith Kathleen|O
+CH|69017|Wing Lung Bank Limited|O
+CH|69018|Waddell, Coral|O
+CH|69019|Walker, Gavin|O
+CH|69020|Walker Drywall Systems Limited|O
+CH|69022|Weare, Richard|O
+CH|70000|Globe Management Services Limited|O
+CH|70001|Correia, Dorothy|O
+CH|70002|Currie, Jennifer|O
+CH|70003|Cotti, Alicia|O
+CH|70005|Clarke, Tinysha|O
+CH|70006|A.I.M. INSURANCE COMPANY LIMITED.|O
+CH|70007|Clausen, Jorgen|O
+CH|70008|Cardoso, Goretti|O
+CH|70009|Cann, Gilbert|O
+CH|70014|Cox, Jeannette|O
+CH|70016|Chiever B.V.|O
+CH|70017|Culver, Carol|O
+CH|70018|Brokers Risk Placement Inc.|O
+CH|70019|Carne, Greta|O
+CH|70020|Cumming, Marion|O
+CH|70021|Cardoza's Garage|O
+CH|70025|Campbell, Shaycoy|O
+CH|70028|Bermudiana Arcade|O
+CH|70030|Celtic Pharma Fix Venture Ltd.|O
+CH|70033|Crockwell Laurent, Michael  Tony|O
+CH|70034|Celtic Pharma Holdings B.V.|O
+CH|70035|Campbell, Elaine|O
+CH|70036|CLARE, STUART A.|O
+CH|70039|Closed Joint Stock Company "Baltic Finance Agency"|O
+CH|70050|Caisey Sr., Alfred Charles Estate|O
+CH|70052|Cavodoro Marine Mutual Insurance Company Limited|O
+CH|70053|DIAMOND MARINE INSURANCE CO. LTD.|O
+CH|70055|CBC 2013 LLC|O
+CH|70058|Carroll, Therese|O
+CH|70059|Chiappa, Christopher Keith|O
+CH|70062|GCX Ltd.|O
+CH|70067|Cabral, Maria S. R.|O
+CH|70071|Correia, Mariano|O
+CH|70073|C.T. Development Ltd.|O
+CH|70074|C.T.M. Services Bermuda Ltd.|O
+CH|70075|C.T. Group Services Bermuda Ltd.|O
+CH|70076|C.T. Spyro Holdings Ltd.|O
+CH|70079|Coral Beach & Tenis Club|O
+CH|70080|Cape Lynn Trust|O
+CH|70081|GROW GROUP INSURANCE LTD|O
+CH|70082|Coral Palisades|O
+CH|70084|Darrell, Jonathan & Amanda|O
+CH|70085|Cordeiro, Cidalia|O
+CH|70086|Cordeiro, Octavio|O
+CH|70087|Criollo Quishpe, Luis A. & Manuel Criollo Quishpe|O
+CH|70088|Campbell, Edwina Jean|O
+CH|70089|Island Pest Control Ltd.|O
+CH|70090|CBP Ltd.|O
+CH|70091|Coad, Winifred Treco|O
+CH|70092|Credential Financial Inc.|O
+CH|70093|Collery, Gavin|O
+CH|70094|Casalonga & Associes|O
+CH|70098|Citibank|O
+CH|70101|CIPERA, Wendy|O
+CH|70102|Coughlan, Dermot|O
+CH|70104|Cann Fountain, Jodie|O
+CH|70105|Crystal Fuels Limited|C
+CH|70107|Correia, Bryan|O
+CH|70108|Chopsticks Fusion|O
+CH|70109|Colin Shaw & Co.|O
+CH|70111|Crisson, Chrissie|O
+CH|70115|Carriaholt Holdings|O
+CH|70116|CBCL Limited|O
+CH|70117|Carvalho Da Conceicao, Bruno Teixeira|O
+CH|70118|Caines, Shellvina|O
+CH|70119|Capsicum Reinsurance Brokers No. 3 LLP|O
+CH|70120|JORDANS LIMITED|O
+CH|70121|Clarium Capital Fund Limited|O
+CH|70124|CIT Finance LLC|O
+CH|70127|Deuss, John|O
+CH|70129|Cordeiro, Cassandra|C
+CH|70132|Cedar Tree Vets Limited|O
+CH|70133|Clarke, Sonya|O
+CH|70134|Conway, Sommer|O
+CH|70135|Capuano, Martina Christina|O
+CH|70136|Citadel Reinsurance Company Limited|O
+CH|70138|Centaur Financial Limited|O
+CH|70139|Crisson, H.S. & J.E., Ltd.|O
+CH|70142|Centaur Fund Services  Bermuda  Ltd.|C
+CH|70143|Cope, Charles P.|O
+CH|70146|Chiaw, Loo Choon|O
+CH|70147|Coad, Lynn|O
+CH|70149|Cohen & Gregsby PC|O
+CH|70151|CSAA Insurance Group|O
+CH|70152|Castle, Jean|O
+CH|70153|Cortland Capital Market Services LLC|O
+CH|70156|Stag Energy Ltd.|O
+CH|70161|Csomor Family Trust|O
+CH|70163|Chancery Trademarks|O
+CH|70165|The Cromer Company|O
+CH|70169|Take Five Ltd.|O
+CH|70259|EURO HOME  BERMUDA  LTD.|O
+CH|70268|HARBOURN LIMITED|O
+CH|70313|LAWTI INSURANCE CO. LTD.|O
+CH|70353|Barton Insurance Co. Ltd.|O
+CH|70374|PLUESS STAUFER LIMITED|O
+CH|70384|DUMBARTON, LTD.|O
+CH|70393|Chiarello International Ltd.|O
+CH|70415|Leisure Time Ltd.|O
+CH|70427|WESTERN HOLDINGS|O
+CH|70479|Trinova Insurance Ltd.|O
+CH|70480|North Rock Investments Ltd.|O
+CH|70494|Aimco Assurance Ltd|O
+CH|71000|GLOBE TRUST COMPANY LTD|O
+CH|71001|Hunt, Donte & Kelly & Judith Hollis|O
+CH|71002|Harris, Cameron J.|O
+CH|71004|Henagulph, Magnus|O
+CH|71005|Hypolite, Georgina|O
+CH|71006|Harrison, Phyllis|O
+CH|71007|Harris, Nichole|O
+CH|71009|Henkel Corporation|O
+CH|71010|Herbert Smith Freehills CIS LLP|O
+CH|71011|Hallinan, Natasha|O
+CH|71012|Hetzel, Erich & John Robbins|O
+CH|71013|Harris, Michael|O
+CH|71015|Hall Mckeown, Kimberley Roxanne|O
+CH|71017|Hamilton, Allan|O
+CH|71018|Herbst Kinsky|O
+CH|71019|Herzog, Christina|O
+CH|71020|Hardtman, Paul|O
+CH|71022|Hamilton Insurance Group|O
+CH|71024|Hendrickson, Karen & Judy|O
+CH|71025|Harris, Patricia|O
+CH|71028|Hospitals Auxiliary Board|C
+CH|71030|Harvey, Maurice|O
+CH|71033|Hamza, Nadia W.|O
+CH|71034|Svenska Handelsbanken|O
+CH|71036|Hogans Solicitors|O
+CH|71037|Hardy, Chantelle|O
+CH|71038|Harney, Dr. Tracey Lynn|O
+CH|71041|Hollingsworth, Catherine A.|O
+CH|71042|Hallett, Whitney & Patton|O
+CH|71044|H & H Plumbing and Mechanical Ltd.|C
+CH|71045|Horner, Patrice|O
+CH|71046|Hongkong International Theme Parks Limited|O
+CH|71047|Headlam, Hervin|O
+CH|71049|Henderson, John G.|O
+CH|72500|c o EAM|O
+CH|75000|Cox Hallett Wilkinson Adimin|O
+CH|80001|Morvillo, Abramowitz|O
+CH|80003|Mckinnon, Linda|O
+CH|80005|Maycock, John & Irene|O
+CH|80006|Mahons Attorneys|O
+CH|80007|Musson, Carlyle & Janette|O
+CH|80008|Moniz, David|O
+CH|80009|Marks & Clerk LLP|O
+CH|80011|Smith, Melba|O
+CH|80012|Mclean, Diana Lois|O
+CH|80013|Madeiros, Clement|O
+CH|80014|McKinney, Kelley|O
+CH|80015|McGowan, Preston, Eunice & Raymond  Idonia Beckles|O
+CH|80016|Matador Management Limited|O
+CH|80020|Matwawana, Celena|O
+CH|80022|Marshall, Brenda Gertrude|O
+CH|80025|Maclellan & Associates|O
+CH|80026|Maple Leaf Foods|O
+CH|80029|Madeiros, David Allen|O
+CH|80030|Medical Protection Society|O
+CH|80033|Moloney, Liam|O
+CH|80036|Martin, Lillian Casey|O
+CH|80037|Musson, Kai|O
+CH|80038|Minors, Marilou|O
+CH|80039|Maclellan, Peter|O
+CH|80040|McGowan, Edwin Reginald   Estate of|O
+CH|80041|Marsh, Andrew  Mr.|O
+CH|80042|Mattis, Lisa|O
+CH|80044|McMahon, Francine|O
+CH|80047|Marshall, Maureen|O
+CH|80084|Manning, Erik|O
+CH|80090|McBeath, Campbell Mr.|O
+CH|80091|Mackay, Andrew|O
+CH|80092|Michael, Best & Friedrich LLP|O
+CH|80093|Masters, Cecil & Ginny|O
+CH|80095|Pinpoint Limited|O
+CH|80097|Mirza, Omar|O
+CH|80098|Manderson, Kimberley Ann|O
+CH|80099|Medical Protection Society|O
+CH|80103|Mendonca, Manual|O
+CH|80106|Moniz, Janette|O
+CH|80107|Morgan Stanley & Co.|O
+CH|80108|Mather, Julia|O
+CH|80110|MacRonald Marsh, Justice|O
+CH|80111|Morgan, Winton B.|O
+CH|80112|Michael Simkins LLP|O
+CH|80113|McPhail Dill, Kerry|O
+CH|80115|Bean, Hattie|O
+CH|80116|McAlpine, Hector & Gavin|O
+CH|80117|Maryam, Masante|O
+CH|80118|Migros Pensionskasse|C
+CH|80121|Marsh, Sandra Milburn|O
+CH|80122|Mardon, Sarah|O
+CH|80123|Medical Protection Society|O
+CH|80126|Mello, Shomari|O
+CH|80127|Manning, Victoria|O
+CH|80128|Mouchette, Antoine|O
+CH|80129|Smith, Marion Rosalie|O
+CH|80130|Mello, Nancy Ann|C
+CH|80131|Mulder, Barbara Jean|O
+CH|80132|Maries, Scott|O
+CH|80133|Medical Protection Society|O
+CH|80135|Maycock, David|O
+CH|80137|Morse, John M.|O
+CH|80138|Makawao Trust   Dora|O
+CH|80140|Messina, Savior|O
+CH|80141|Matthams, Paul|O
+CH|80143|Morton, Haley Elizabeth|O
+CH|80144|Mayer Brown LLP|O
+CH|80145|McNeil, Veronica|O
+CH|80146|Mahoney, Jennifer|O
+CH|80147|Moss, John|O
+CH|80148|Malayan Banking Berhad|O
+CH|80149|Matthew, Steven Guy|O
+CH|80150|Minors, Brent Sr.|C
+CH|80152|Meyer Group of Companies|O
+CH|83208|Boeing Capital Corporation|O
+CH|99000|Cox Hallett Wilkinson|O
+CH|99999|Cox Hallett Wilkinson Ltd|O
+CO|10201|BANTAM INVESTMENTS LIMITED,|O
+CO|10208|Benmore Limited|O
+CO|10246|BERMUDA JANITORIAL SUPPLY LIMITED|O
+CO|10324|COSON COMPANY LTD.,|O
+CO|10623|SEVEN HOLDINGS COMPANY LIMITED|O
+CO|10918|I.S.B. Ltd.|O
+CO|11101|K LINE  INTERNATIONAL  LTD.,|O
+CO|11513|NETWORK COMPUTER SERVICES LIMITED|O
+CO|11902|RAPOSO WELDING SERVICE LIMITED,|O
+CO|12006|SEALCO  BERMUDA  LTD.,|O
+CO|12052|Sheraton  Bermuda  Limited|O
+CO|12121|Carrigaholt Holdings Ltd.|O
+CO|12303|Venture Management|O
+CO|12420|WINDJAMMER GALLERY LIMITED,|O
+CO|33014|Seaforth Investment Company Ltd|O
+CO|33022|Cybersettle.com International Ltd.|O
+CO|33039|Garrett Limited|O
+CO|33062|Island Home Landscaping|O
+CO|33063|Norwegian Cruise Line Limited|O
+CO|33088|Island Home Development|O
+CO|33134|MVB Management Ltd|O
+CO|33144|Seakist Limited|O
+CO|33173|Computer Concepts Ltd|O
+CO|33180|STUDIO LTD|O
+CO|33190|GSA Bermuda Ltd|O
+CO|33235|Interior Holdings Ltd|O
+CO|33238|ESC Ltd|O
+CO|33254|Nasilif Ltd|O
+CO|33278|Thirty Two, Sixty Four Ltd.|O
+CO|33279|Tamarind Limited|O
+CO|33281|Island Trustee  PVT  Ltd.|O
+CO|33295|NCL Cruises Ltd|O
+CO|33297|Norwegian Majesty Ltd|O
+CO|33361|Specialised Technologies Limited|O
+CO|33391|Information Systems Services Limited|O
+CO|33412|S.M.S. International Ltd.|O
+CO|33513|Oz Inc.|O
+CO|33534|Ignition  Bermuda  Ltd.|O
+CO|33558|Crown Electrical Engineering Limited|O
+CO|33601|Richmond Oil & Financial Holdings Ltd.|O
+CO|33622|Hillcrest Properties Ltd.|O
+CO|33624|MM&I Holdings Limited|O
+CO|33625|Eagle Pines LP|O
+CO|33700|Stratus Technologies Bermuda Ltd.|O
+CO|33745|Javelin Connections Bermuda Ltd|O
+CO|33835|Jaguar Asset Management Limited|O
+CO|33844|BRINKS INTERNATIONAL HOLDINGS AG|O
+CO|33846|COASTAL CORPORATION LTD|O
+CO|33893|Energy Plant Engineers International Ltd.|O
+CO|33914|Honeywell Bermuda L.P.|O
+CO|33923|Exclusive Property Management Ltd.|O
+CO|33934|Globe Union  Bermuda  Trading Ltd|O
+CO|33946|Jaguar Australian Leaders Long Short Fund Limited|O
+CO|34027|Trimingham Brothers Limited|O
+CO|34029|Transport Provider Ltd.|O
+CO|34074|TNS International Holdings LP|O
+CO|34099|Bermuda Moorings & Salvage Ltd.|O
+CO|34145|NCL  Bahamas  Ltd|O
+CO|34162|SOPS  Iran  Private Limited|O
+CO|34167|NCL Corporation Ltd|O
+CO|34168|NCL International Ltd|O
+CO|34169|Norwegian Spirit Ltd|O
+CO|40042|5Fathom Ltd.|O
+CO|41119|Atlantic Construction and Marine Services Ltd.|O
+CO|41121|ABS Partners C.V.|O
+CO|41123|ABS Holdings C.V.|O
+CO|41126|ABT Holding Ltd.|O
+CO|41215|AET Inc. Limited|O
+CO|41220|Argent Global  Bermuda  Ltd.|O
+CO|41236|Adams Offshore Ltd.|O
+CO|41354|Adams Challenge Ltd.|O
+CO|41355|Adams Nomad Limited|O
+CO|41417|Adams Holdings  Bermuda  Ltd.|O
+CO|41440|Uberrimae Fidei Insurance Company Ltd.|O
+CO|41559|Aristo Limited|O
+CO|41566|Longway Ltd.|O
+CO|41573|Advanced Eco Technology Ltd.|O
+CO|41574|MB Capital Partners Ltd.|O
+CO|41578|Norweign Gem Ltd.|O
+CO|41592|ACLIRES Holding Ltd.|O
+CO|41597|ACLIRES International Ltd.|O
+CO|41610|Alex Sam Limited|O
+CO|41628|ALEXION BERMUDA L.P.|O
+CO|41649|ADAMS AQUANAUT LIMITED|O
+CO|41650|Arborville International Limited|O
+CO|41659|F3 Three Ltd.|O
+CO|41678|Armad Limited|O
+CO|41685|Atlantics Financials Systems|O
+CO|41696|AmCap Holdings Ltd.|O
+CO|41703|Airbus 2009 Limited|O
+CO|41722|Alt Properties US Ltd.|O
+CO|41723|ALT Properties Europe Ltd.|O
+CO|41734|Auditair Global Limited|O
+CO|41746|ATVI C.V.|O
+CO|41748|Air Transworld Operations Limited|O
+CO|41780|ABIE Holdings I C.V.|O
+CO|41781|ABIE Holdings C.V.|O
+CO|41782|AB Distribution Holdings C.V.|O
+CO|41783|AB Partners C.V.|O
+CO|41784|Activision Entertainment Properties C.V.|O
+CO|41785|AB Holdings C.V.|O
+CO|41789|ABIE Holdings II C.V.|O
+CO|41795|Activision Blizzard Bermuda Limited|O
+CO|41819|Antenor Ltd.|O
+CO|41830|Andinoria Ltd|O
+CO|41855|Antigone Limited|O
+CO|41862|AG Show Ltd.|O
+CO|41872|AHI C.V.|O
+CO|41875|Admiral's View Ltd.|O
+CO|41879|Artis Ltd.|O
+CO|41882|AMR Services Ltd.|O
+CO|42174|Cumberland Director Ltd.|O
+CO|42210|Bermuda Gardens Limited|O
+CO|42259|Banbury Limited|O
+CO|42273|Landscape Gardeners Limited|O
+CO|42300|Bangu International Limited|O
+CO|42625|Beyond Film Properties Ltd.|O
+CO|42626|Beyond TV Properties Ltd.|O
+CO|42637|Bermuda Import & Export Company Limited|O
+CO|42730|BFA International Limited|O
+CO|42760|Bieco Holdings Limited|O
+CO|42835|Bay Imports & Marine Services Ltd.|O
+CO|42902|Briarfield Insurance Consultants Ltd.|O
+CO|42922|Blue Line Investments Limited|O
+CO|42979|Creative Beverage Solutions Ltd.|O
+CO|43025|R.E.L. Construction Ltd.|O
+CO|43034|CAKE SHOP LIMITED|O
+CO|43051|Baker Associates Limited|O
+CO|43054|BearingPoint Global Holdings Limited|O
+CO|43085|Crawford and Company  Bermuda  Limited|O
+CO|43124|Infigen Energy  Bermuda  Limited|O
+CO|43167|BERMUDA ENERGY SERVICES COMPANY LIMITED|O
+CO|43206|Commerce  Bermuda  Limited|O
+CO|43235|C.T.Development Bermuda Ltd.|O
+CO|43238|C.T.M. Services Bermuda Ltd.|O
+CO|43239|C.T. Group Services Bermuda Ltd.|O
+CO|43245|Coson Corporate Services|O
+CO|43256|C.T. Spyro Holdings Ltd.|O
+CO|43340|BBWP Holdings  Bermuda  Limited|O
+CO|43532|GeoPark Argentina Limited|O
+CO|43539|Convict Bay Residents Co. Ltd.|O
+CO|43561|Westwind Foundation Holdings Ltd.|O
+CO|43566|Commodore Limited|O
+CO|43579|Convict Bay Owners' Co. Ltd.|O
+CO|43677|Cavodoro Marine Mutual Inusrance Company Limited|O
+CO|43698|SIA Insurance Company  Risk Rentention Group  Ltd.|O
+CO|43710|Cedarcrest Apartments Limited|O
+CO|43758|Caithness Investments Limited|O
+CO|43791|Caritas Royalties Fund  Bermuda  Ltd.|O
+CO|43811|Compassion Overseas Ltd.|O
+CO|43821|CG Trade Ltd.|O
+CO|43869|Cable and Wireless eBusiness Ltd.|O
+CO|43870|Cable and Wireless Network Services Limited|O
+CO|43911|Crown Plaza Ltd.|O
+CO|43929|Card Warehouse Limited|O
+CO|43942|Sure  Diego Garcia  Limited|O
+CO|43953|CBS Holdings  Bermuda  2 Ltd.|O
+CO|43954|CBS Worldwide Ltd.|O
+CO|43966|CC Private Equity Partners Ltd.|O
+CO|43970|CGL Buritica Limited|O
+CO|43975|Continental Gold Limited|O
+CO|43977|CG marketing and Finance Ltd.|O
+CO|43987|Catalina Marketing Bermuda Ltd.|O
+CO|43991|Cornish Minerals Ltd.|O
+CO|44005|Cornerstone Limited|O
+CO|44007|CBS CSI Distribution  Bermuda  Ltd.|O
+CO|44008|CBS Leasing  Bermuda  Ltd.|O
+CO|44013|Exterion Partner  BDA  GP|O
+CO|44025|CA INTERNATIONAL HOLDINGS|O
+CO|44027|CA Global Holdings|O
+CO|44052|CapRock International Holdings Ltd.|O
+CO|44110|Chip Ventures Ltd.|O
+CO|44111|Colorado Footwear C.V.|O
+CO|44112|Cougar Ltd.|O
+CO|44126|Cequent Bermuda Holdings Ltd.|O
+CO|44128|Cornerstone Management  Bermuda  Ltd.|O
+CO|44141|CedarTree Vets Limited|O
+CO|44144|Windblown Holdings Limited|O
+CO|44194|Dorchester Realty Limited|O
+CO|44197|CBS Firewalker 11, Ltd.|O
+CO|44202|Chattanooga Insurance Company Ltd.|O
+CO|44203|J D C Darrell Ltd.|O
+CO|44216|CGL International Holdings Limited|O
+CO|44217|CGL Dominical Holdings Limited|O
+CO|44218|CGL Lunareja Holdings Limited|O
+CO|44219|CGL Management Services Limited|O
+CO|44221|CGL Berlin Holdings Limited|O
+CO|44249|CGL Greater Buritica Holdings Limited|O
+CO|44258|Castle Re Insurance Company, Ltd|O
+CO|44263|CGL Dojura Holdings Limited|O
+CO|44368|DZ Holdings Limited|O
+CO|44369|DZ International Limited|O
+CO|44550|Hall Limited|O
+CO|44557|D.R.M. Global Ltd.|O
+CO|44627|Forest Laboratories Holdings Limited|O
+CO|44747|DI Bermuda Holdings I, GP|O
+CO|44748|DI Bermuda Holdings II, GP|O
+CO|44750|Dresser International Bermuda, GP|O
+CO|44787|SIPC  SYRIA  LIMITED|O
+CO|44908|Exterion Leasing  BDA  Limited|O
+CO|44997|Exterion Firewalker II  BDA  Limited|O
+CO|45150|Sapori Limited|O
+CO|45197|E.L. & W. Robinson Limited|O
+CO|45241|Eminence Contractors Ltd.|O
+CO|45250|E & A Marine Operations Limited|O
+CO|45256|E.B.A.M. Ltd.|O
+CO|45257|ECO Ltd.|O
+CO|45263|Ecolab BM 1 Limited|O
+CO|45268|Eight Hundred Holdings Ltd.|O
+CO|45293|Eminence Warehouse Ltd.|O
+CO|45355|Eminence Restoration Services Ltd.|O
+CO|46127|State House Trust Comapny Limited|O
+CO|46143|FX Concepts  Bermuda  Limited|O
+CO|46208|American Architectural Planning & Development|O
+CO|46231|Free Port Terminal Company|O
+CO|46266|FPT Marketing Company Limited|O
+CO|46313|Reliance Globalcom Limited|O
+CO|46410|Francis Ltd.|O
+CO|46413|Stone Resources Limited|O
+CO|46420|Frank's International  Bermuda  Ltd.|O
+CO|46435|Flashpoint Media Ltd.|O
+CO|46452|Global Cloud Xchange Limited|O
+CO|46486|Flag Telecom Group Services Limited|O
+CO|46487|Flag Pacific Limited|O
+CO|46488|Reliance FLAG Pacific Holdings Limited|O
+CO|46489|FLAGWEB LIMITED|O
+CO|46491|FLAG Telecom Development Limited|O
+CO|46501|Firestone Ltd.|O
+CO|46536|FRIEND MEDIA TECHNOLOGY SYSTEMS LIMITED|O
+CO|46538|Future Investments, Ltd.|O
+CO|46549|Breakaway One, Ltd.|O
+CO|46550|Norwegian Epic, Ltd.|O
+CO|46557|L&M Holdings Ltd.|O
+CO|46570|Finnstar Ltd.|O
+CO|46587|FSX Ltd.|O
+CO|46605|Fire Arms Insurance Registry Limited|O
+CO|46636|Greenwich Kahala Services, Ltd.|O
+CO|46641|Fresco Holdings Ltd.|O
+CO|46645|Ogin Bermuda Limited|O
+CO|46653|Four Star Deveolpment Company Ltd.|O
+CO|46668|FL Holding C.V.|O
+CO|46675|Farfalle Aviation Ltd.|O
+CO|47082|General Professional Indemnity Ltd.|O
+CO|47237|Gateway Systems Limited|O
+CO|47250|Great Link International Limited|O
+CO|47287|Grosvenor Park Asset Maanagement  Limited|O
+CO|47326|Global One Ltd.|O
+CO|47342|HERB GARDEN COMPANY LIMITED|O
+CO|47346|CYCLE INDUSTRIES LTD|O
+CO|47364|Ghost Limited|O
+CO|47370|GeoPark Latin America Limited|O
+CO|47384|GeoPark Limited|O
+CO|47396|GSM Systems Ltd.|O
+CO|47467|Gemhall Ltd.|O
+CO|47471|Gourmet Solutions Limited|O
+CO|47491|Gulf Keystone Petroleum Limited|O
+CO|47513|Gulf Keystone Petroleum International Limited|O
+CO|47514|Globe Services Ltd.|O
+CO|47516|General Mills Global Holdings Two GP|O
+CO|47517|General Mills Global Holdings One GP|O
+CO|47531|Gulf Keystone Petroleum Numidia Limited|O
+CO|47532|General Mills Global Holdings Nine GP|O
+CO|47535|Gary E. Burgess School of The Performing Arts Ltd.|O
+CO|47537|General Mills Global Finance Ltd.|O
+CO|47538|General Mills Global Holdings Ten GP|O
+CO|47539|General Mills Global Holdings Eleven GP|O
+CO|47549|General Mills Global Holdings Eight GP|O
+CO|47558|Gulf Keystone Petroleum HBH Limited|O
+CO|47561|General Mills Global Holdings Four Ltd.|O
+CO|47589|Greenwich Kahala Aviation Ltd..|O
+CO|47595|Jean Guevel|O
+CO|47596|General Mills Global Holdings Seven Ltd.|O
+CO|47597|General Mills Global Holdings Six Ltd.|O
+CO|47604|General Mills Global Holdings Five GP|O
+CO|47619|Great Things Limited|O
+CO|47643|GCX Services Limited|O
+CO|47648|George's Bay Limited|O
+CO|47655|George's Bay Properties Limited|O
+CO|47656|George's Bay Residencies Limited|O
+CO|47668|George's Bay Hotel Ltd.|O
+CO|48139|Heyl's Corner Limited|O
+CO|48201|Ha' Penny  Holdings  Limited|O
+CO|48289|Longtail Properties Ltd.|O
+CO|48316|Hedgehog Risk Consulting Ltd.|O
+CO|48374|HIDEAWAY LIMITED|O
+CO|48399|Kenoka Ltd.|O
+CO|48426|Hilton Trade Corporation Ltd.|O
+CO|48443|HLV Private Trust Company Ltd.|O
+CO|48444|Humber Court Ltd.|O
+CO|48453|Hainan Airlines  International  Co. Ltd.|O
+CO|48473|Huntley Manor Limited|O
+CO|48482|Dyna Management Services Ltd.|O
+CO|48512|Hollis & Co.|O
+CO|48537|Hampton Shipmanagement Ltd.|O
+CO|48538|Hampton  Bermuda  Ltd.|O
+CO|48544|HELIOS HOLDINGS, LTD|O
+CO|48553|Norweign Pearl Ltd|O
+CO|48573|Honeywell Bermuda II, Ltd.|O
+CO|48598|Honeywell Bermuda Holdings II Ltd..|O
+CO|48608|FTCP Bermuda Ltd.|O
+CO|48612|Honeywell International Middle East Ltd.|O
+CO|48661|Hollis Corporate Services Ltd.|O
+CO|48718|Huntley Towers Ltd.|O
+CO|48739|2HFutura Capital Ltd.|O
+CO|48740|Honeywell Bermuda Holdings III LP|O
+CO|48741|Honeywell Bermuda Holdings LP|O
+CO|48752|Honeywell Britannia Finance Ltd|O
+CO|48754|Harbor Island Indemnity|O
+CO|48759|Honeywell Technology Holdings Ltd.|O
+CO|48783|800 Hirer Ltd.|O
+CO|48790|Highland Capital Brokerage|O
+CO|48794|Hafnia Tankers|O
+CO|49011|International Oil Management Limited|O
+CO|49024|Invisible Trenching Limited|O
+CO|49048|International Imports Limited|O
+CO|49182|ISC  Bermuda  Ltd.|O
+CO|49220|International Numismatic Services Limited|O
+CO|49223|IVAX  BERMUDA  LTD.|O
+CO|49242|IMG International Ltd.|O
+CO|49243|Independent Brokers Limited|O
+CO|49250|International Specialty Insurance Services, Inc.|O
+CO|49277|White Water Marine Ltd.|O
+CO|49278|iX Net Holding Ltd.|O
+CO|49293|iStore Limited|O
+CO|49354|iClick Ltd.|O
+CO|50211|J.H.R. Properties Limited|O
+CO|50226|Javelin Connections Bermuda Holdings Ltd.|O
+CO|50247|JPG Construction Ltd.|O
+CO|50249|Jabil Circuit Bermuda Ltd.|O
+CO|50260|J.W. Childs Asia Eqities, Ltd.|O
+CO|50273|JCO Ltd.|O
+CO|50276|Jam Group Holdings Ltd.|O
+CO|50281|J&L Group Limited|O
+CO|51055|Kennington Holdings Limited|O
+CO|51095|Karibuni Limited|O
+CO|51175|K2 Reinsurance Ltd.|O
+CO|51183|Lockwood Enterprises C.V.|O
+CO|51208|SVP HOLDINGS LIMITED|O
+CO|51209|SVP Worldwide Ltd.|O
+CO|51242|Kurron Bermuda Ltd.|O
+CO|51245|Katana Energy International Ltd.|O
+CO|51272|Kingsclere Investments Ltd.|O
+CO|51288|Kite Aviation Ltd.|O
+CO|51293|KAS Corporation Ltd.|O
+CO|51318|Kings Harbour Limited|O
+CO|52221|Longmeadow  Holdings  Limited|O
+CO|52271|Sousa's Landscape Management Co. Ltd.|O
+CO|52340|Lazard Asset Management LLC|O
+CO|52364|Logis Limited|O
+CO|52374|B.I. HOLDINGS C.V.|O
+CO|52397|Laroco Financial and Risk Management Services Ltd.|O
+CO|52446|Lazard Global Opportunities Master Fund. L.P.|O
+CO|52489|World Broadcasting Services|O
+CO|52501|LTB HOLDING LIMITED|O
+CO|52508|Lazard Emerging Income, Ltd.|O
+CO|52514|Linkinc Ltd.|O
+CO|52593|Lazard EM Currency Income Master Fund, Ltd.|O
+CO|52595|Lazard Emerging Income Plus, Ltd.|O
+CO|52598|Lazard Emerging Income Master, Ltd.|O
+CO|52608|Longford Limited|O
+CO|52612|TLC Limited|O
+CO|52643|Limestone Thoroughbreds Limited|O
+CO|52659|Lazard Global Classic Value Long Short, Ltd.|O
+CO|52664|Lazarus Limited|O
+CO|52675|Lazard Global Hexagon Fund, Ltd.|O
+CO|52676|Lazard Global Hexagon Master Fund, L.P.|O
+CO|52696|Lazard EM Currency Income Fund, Ltd.|O
+CO|52697|Lazard EM Currency Income Master Fund, L.P.|O
+CO|53082|Boeing Worldwide Operations Limited|O
+CO|53083|Boeing International Holdings, Ltd.|O
+CO|53152|Maraba Investment Ltd.|O
+CO|53198|Mailboxes Unlimited Ltd.|O
+CO|53223|Brightstar Corp|O
+CO|53262|Deanmore Holdings Limited|O
+CO|53278|Blizzard Entertainment Properties C.V.|O
+CO|53306|Breakaway Three, Ltd.|O
+CO|53307|Breakaway Four, Ltd.|O
+CO|53337|Bullet Holding Ltd.|O
+CO|53346|Broadway Development Limited|O
+CO|53358|Bleriot Ltd.|O
+CO|53364|Boreas Ltd.|O
+CO|53411|Samui limited|O
+CO|53414|Bentley Resorts Ltd.|O
+CO|53636|Adams Arrow Ltd.|O
+CO|53721|Morphex  Bermuda  Ltd.|O
+CO|53780|M.K.G. Company Limited|O
+CO|53849|Modern Building Technologies Ltd.|O
+CO|53915|MAUNA KALA MANAGEMENT TRUST|O
+CO|54037|Merryvale Ltd.|O
+CO|54040|MicroStrategy International Limited |O
+CO|54045|Marimar Ltd.|O
+CO|54108|Microstrategy International II Limited|O
+CO|54128|Markham Limited|O
+CO|54150|North Oxford Investment Company|O
+CO|54165|McDonald's Canada Risk Management Ltd.|O
+CO|54202|Nomads Ltd.|O
+CO|54278|Norwegian Pearl, Ltd.|O
+CO|54294|Norwegian Sun Limited|O
+CO|54304|Nordex Air Ltd.|O
+CO|54308|Breakaway Two, Ltd.|O
+CO|54315|HCB, Ltd.|O
+CO|54316|Northern Gulf Petroleum Holdings Limited|O
+CO|54328|NewLead Holdings Ltd.|O
+CO|54341|Norwegian Cruise Line Holdings Ltd.|O
+CO|54342|NBC Atlantic Holding Ltd.|O
+CO|54344|Thunderbolt Resources Master Ltd|O
+CO|54345|Thunderbolt Resources Ltd.|O
+CO|54346|NBC Atlantic Ltd.|O
+CO|54392|Norwegian USCRA, Ltd.|O
+CO|54397|NSAM Bermuda Ltd|O
+CO|55056|Orange Valley Company Limited|O
+CO|55089|Orthopaedics & Sports Medicine of Bermuda|O
+CO|55166|Oxford Metrica Limited|O
+CO|55172|ODYSSEY INDUSTRIES LTD|O
+CO|55197|Oxford Metrica Investment Management Limited|O
+CO|55198|Oxford Metrica International Equity Fund|O
+CO|55214|Old Lyme Insurance Company Ltd.|O
+CO|55414|Trinity Property Holdings Ltd.|O
+CO|55595|Mango Garden Ltd.|O
+CO|55607|MC China Limited|O
+CO|55617|WM. E. MEYER & CO. LIMITED|O
+CO|55666|Landmark  Southampton Ltd.|O
+CO|55674|Obsidian HCM Holdings Ireland|O
+CO|55675|Obsidian HCM Med International Holdings|O
+CO|55676|Obsidian HCM Med Holdings Ireland|O
+CO|56016|PVM Oil Associates Ltd.|O
+CO|56073|Phypan Limited|O
+CO|56074|McGuireWoods LLP|O
+CO|56109|PHILLIPINES FUND LIMITED|O
+CO|56155|Pembroke Stores Ltd.|O
+CO|56211|Park Properties Limited|O
+CO|56212|Planning Associates Limited|O
+CO|56240|Petrochem Gulf Holdings Ltd.|O
+CO|56249|PLM Worldwide Management Services Limited|O
+CO|56251|PIMENTAL GROUP, LTD.|O
+CO|56338|Pegusus Fund Limited|O
+CO|56397|Pacific American International Ltd.|O
+CO|56457|Profile International Limited|O
+CO|56489|Pembroke Atlantic Ltd.|O
+CO|56492|PELAGIC INDUSTRIES LTD|O
+CO|56502|Pier Vu Ltd.|O
+CO|56562|Pennant Insurance Company Limited|O
+CO|56588|Phoenix Capital Partners Ltd.|O
+CO|56589|Pool House Construction Limited|O
+CO|56631|Phoenicia Aviation Ltd.|O
+CO|56638|Phytotox Limited|O
+CO|56643|Pomander Gate Tennis Club limited|O
+CO|56651|Perly Ltd.|O
+CO|56656|Par la Ville Treo Ltd.|O
+CO|56673|Pittormie  Bermuda  Ltd.|O
+CO|56674|Prime Deck Aviation Limited|O
+CO|56689|Primes Place Compamy Limited|O
+CO|56725|Pavilion Ltd.|O
+CO|56732|Piazza Italia Ltd.|O
+CO|56756|Pan Ocean Trading Ltd.|O
+CO|56762|Springer Limited|O
+CO|56766|PK Marsym  Bermuda  Limited|O
+CO|56789|Pulsar Investment Ltd.|O
+CO|56810|Parex Resources  Bermuda  Ltd.|O
+CO|56822|Pacific Oil & Gas  North Sumatera  Limited|O
+CO|56876|Parex Bermuda  Insurance  Ltd.|O
+CO|56883|Phantom Holdings Ltd.|O
+CO|56896|The Platinum Group Ltd.|O
+CO|57013|Ottawa Leasing Limited|O
+CO|57019|Rioja Services Ltd.|O
+CO|57028|Ottawa Leasing Limited|O
+CO|57031|Queen's Club Holding company|O
+CO|57038|Qualey Mews Ltd.|O
+CO|58061|Ross Construction & Contracting Limited|O
+CO|58134|Railease Ltd.|O
+CO|58168|R.S.S. Ltd.|O
+CO|58176|R.G. Fowle  Holdings  Limited|O
+CO|58287|H. Rivkin & Company  Bermuda  Limited|O
+CO|58288|H. Rivkin & Company  Bermuda  Limited|O
+CO|58295|L.M.R. Painting & Decorating Ltd.|O
+CO|58501|Recognition Clothing Ltd.|O
+CO|58509|RANSOM WATSON MANAGEMENT TRUST|O
+CO|58511|Risk Management Solutions  Bermuda  Ltd.|O
+CO|58551|Reborn Ltd.|O
+CO|58598|Renaissance Limited|O
+CO|58617|Rutherford Limited|O
+CO|58618|Revere Capital Advisors, Ltd.|O
+CO|58625|Rusholme Limited|O
+CO|58633|Rutherford Holdings C.V.|O
+CO|58647|RULE Ltd.|O
+CO|58651|Advertising Systems HoldCo C.V.|O
+CO|58654|Otu Gold Ltd.|O
+CO|58670|Reindeer Limited|O
+CO|58684|Royal Palms  Holdings  Limited|O
+CO|58763|Ramshorn International Limited|O
+CO|58777|Remit Universal Ltd.|O
+CO|59295|ENSCO Maritime Limited|O
+CO|59385|Sound Endeavours Limited|O
+CO|59402|Class Act Designs Limited|O
+CO|59486|Cardoza's Ltd.|O
+CO|59541|Studia Investments Ltd.|O
+CO|59555|Bermuda Cleaning Limited|O
+CO|59608|Stone Cladding Consultants Ltd.|O
+CO|59629|Strangford Ltd.|O
+CO|59685|Dundas & Co. Ltd.|O
+CO|59787|Somerset Pharmacy Ltd.|O
+CO|59884|Sousa's Garden Center Ltd.|O
+CO|59890|Bermuda Signature Glass Limited|O
+CO|59993|ST. JOHN,  THE ORDER OF  BERMUDA|O
+CO|60018|SEAFALCON LIMITED|O
+CO|60060|PetroChina International  Bermuda  Ltd.|O
+CO|60061|PetroChina International Java Ltd.|O
+CO|60070|Santa Fe Energy Resources Pakistan Limited|O
+CO|60090|PetroChina International Kepala Burung Ltd.|O
+CO|60267|Techno Concepts Corporation Ltd.|O
+CO|60459|Tricon Trade Management Limited|O
+CO|60469|Thales  Bermuda  GP Limited|O
+CO|60476|Three Court Fund Offshore, LP|O
+CO|60493|TOWN & COUNTRY CARPET LIMITED|O
+CO|60510|Tony's fine Foods Ltd.|O
+CO|60513|Thales  Bermuda  Limited Partnership|O
+CO|60544|Forfaiting Trading  Bermuda  Limited|O
+CO|60560|Tadpole Ltd.|O
+CO|60616|Seahorse Ltd.|O
+CO|60641|Salisbury Reinsurance Company Limited|O
+CO|60675|Salisbury Holdings Limited|O
+CO|60691|Sunstone Ltd.|O
+CO|60701|TQ Limited|O
+CO|60725|Threshold Alliancce Limited|O
+CO|60774|Technology Holdings Ltd.|O
+CO|60883|Stratus Technologies Bermuda Holdings Ltd.|O
+CO|60884|Strategy.com International Limited|O
+CO|60917|Tricon Forfaiting Fund Limited|O
+CO|60926|Three Nineteen Holdings Ltd.|O
+CO|60927|Three Twenty Holdings Ltd.|O
+CO|60984|Tiptop Energy  Bermuda  Limited|O
+CO|61091|U.S. Global Investors  Bermuda  Ltd.|O
+CO|61509|Starc Limited|O
+CO|61537|Morgan's Point Limited|O
+CO|61559|Challenger Holdings Bermuda Limited|O
+CO|61576|Sirona Bermuda II Ltd.|O
+CO|61580|Sirona Bermuda I Ltd.|O
+CO|61698|STARC Holdings Limited|O
+CO|61700|Star NCLC Holdings Ltd.|O
+CO|61705|Syniverse Technologies|O
+CO|61717|Dog Leg Limited|O
+CO|61760|STARC Midco|O
+CO|61828|Shaikan Petroleum Limited|O
+CO|61844|Steele's Company Ltd.|O
+CO|61853|SEC Investments of Ireland|O
+CO|61914|Sirona Bermuda Holdings L.P.|O
+CO|61931|8OO SPC Ltd.|O
+CO|61943|Sixthman ltd.|O
+CO|61949|Sabre Metals Master Ltd.|O
+CO|61950|Sabre Metals Ltd.|O
+CO|62103|Vic Mor Investment Corp. Ltd.|O
+CO|62167|Ventana Ltd.|O
+CO|62203|Vera P. Card, Limited|O
+CO|63069|Southlands Ltd.|O
+CO|63131|Longwood Limited|O
+CO|63269|Williams International  Bermuda  Limited|O
+CO|63368|White's At Southside Ltd.|O
+CO|63381|Windward Supplies Ltd.|O
+CO|63390|West Bermuda Limited|O
+CO|63583|Wireless Ventures Ltd.|O
+CO|63691|West Coast Holdings Ltd.|O
+CO|63739|WDC Corp. Ltd.|O
+CO|63758|WEST OF ENGLAND INSURANCE LIMITED|O
+CO|63809|Western Brands Netherlands Holdings C.V.|O
+CO|63864|Forcepoint International Limited|O
+CO|63961|Seahawk Two Ltd.|O
+CO|63962|Seahawk One Ltd.|O
+CO|63987|Sparyard Marine Solutions Ltd.|O
+CO|64005|Xedex International Ltd.|O
+CO|64006|Xedex Ltd.|O
+CO|64013|Xerts International Limited|O
+CO|64019|Glencore Coal South America Ltd.|O
+CO|64020|WDC Limited Partnership|O
+CO|67054|The Athletic Club Limited|O
+CO|68018|Owens & Minor International Limited|O
+CO|70000|Globe Management Services Ltd|O
+CO|70003|Applied Computer Technologies Ltd.|O
+CO|70004|Ascot Properties Limited|O
+CO|70018|Brokers Risk Placement Services  BDA  Ltd.|O
+CO|70025|Bermuda Pest Control Ltd.|O
+CO|70027|Bermuda Shoppers Fair Limited|O
+CO|70028|Bermudiana Arcade Ltd.|O
+CO|70034|Challenger Marine Limited|O
+CO|70038|Creative Interiors Ltd.|O
+CO|70043|Centimark Insurance Company Limited|O
+CO|70049|Cumsecum Photoimpressions Ltd.|O
+CO|70053|Diamond Marine Insurance Company Limited|O
+CO|70054|DBC Limited|O
+CO|70057|DeFontes Broadcasting Company Ltd.|O
+CO|70058|DeFontes Broadcasting  Television  Ltd.|O
+CO|70059|DeFontes Television Centre Ltd.|O
+CO|70061|Cedar Aviation Services Ltd.|O
+CO|70062|GCX Limited|O
+CO|70070|Forward Construction Co. Ltd.|O
+CO|70081|Grow Group Insurance, Ltd.|O
+CO|70087|Ingham & Wilkinson Limited|O
+CO|70089|Island Pest Control Ltd.|O
+CO|70100|Lehigh Enterprises Limited|O
+CO|70104|Little Switzerland Ltd.|O
+CO|70111|Mermaid Beach & Racquet Club Limited|O
+CO|70113|White's At Hayward's Ltd.|O
+CO|70122|Midland Enterprises Group|O
+CO|70135|Palisades International Ltd.|O
+CO|70147|S.O.S. Limited|O
+CO|70156|Stag Energy Ltd.|O
+CO|70157|Stag Holdings Ltd.|O
+CO|70160|Suresucess Co. Ltd.|O
+CO|70168|Transrisk Limited|O
+CO|70178|Viking Food Ltd.|O
+CO|70181|Warwick Laundromat Ltd.|O
+CO|70182|Glasgow Ltd.|O
+CO|70183|WHITE & SONS LIMITED|O
+CO|70185|Wayne Pacific Ltd.|O
+CO|70241|Viking Cold Storage Limited|O
+CO|70253|GLOBAL ARM LIMITED|O
+CO|70255|Royall Imports Ltd.|O
+CO|70259|Euro Home Bermuda Limited|O
+CO|70261|Farm Lane Mews Ltd.|O
+CO|70270|Capcar Enterprises Ltd.|O
+CO|70271|UGT Limited|O
+CO|70275|Globe Corporate Services|O
+CO|70281|Big Ventures Limited|O
+CO|70289|Surrey Reinsurance Company Ltd.|O
+CO|70291|Complete Office Limited|O
+CO|70297|North Rock Ventures Ltd.|O
+CO|70299|Barrington Investments Limited|O
+CO|70301|Davnick Limited|O
+CO|70313|Lawti Insurance Company Ltd.|O
+CO|70314|Tallaton Holdings Ltd.|O
+CO|70334|Hainan American Limited|O
+CO|70335|Union Trans Atlantic Limited|O
+CO|70347|Seaflight Aviation Limited|O
+CO|70350|M. R. Construction Ltd.|O
+CO|70354|Regent's Park Holdings Ltd.|O
+CO|70374|PS Limited|O
+CO|70378|Wakawa Ltd.|O
+CO|70379|Andrene Ltd.|O
+CO|70383|Amis Memorial Chapel Ltd.|O
+CO|70389|HMH China Investments Limited|O
+CO|70392|Woodlands Garage Ltd.|O
+CO|70393|Chiarello International Ltd.|O
+CO|70405|Ark Mining & Finance Ltd.|O
+CO|70407|Richland International Ltd.|O
+CO|70412|Columbian Emeralds International Ltd.|O
+CO|70419|Business Management International Ltd.|O
+CO|70426|Seasons Ltd.|O
+CO|70431|Crangrook Insurance Group|O
+CO|70434|OPS Limited|O
+CO|70436|Diamonds International Ltd.|O
+CO|70437|Scot Ayr Ltd.|O
+CO|70443|Bermuda Finance Limited|O
+CO|70449|FUNDEX CAPITAL LTD.|O
+CO|70451|Micron Leasing Ltd.|O
+CO|70461|Switchworx Ltd.|O
+CO|70464|Halney Ltd.|O
+CO|70466|North Rock Communications Ltd|O
+CO|70472|Globe  Holdings  Company Limited|O
+CO|70473|Globe Management Services Limited|O
+CO|70479|Trinova Insurance Ltd.|O
+CO|70480|North Rock Investments Ltd.|O
+CO|70482|Simclair Realty Ltd.|O
+CO|70497|Swift International Ltd.|O
+CO|70517|Platinum Equity Capital Partners III, L.P.|O
+CO|75000|CCS ADMINISTRATION|O
+CO|80016|Matador Management Limited|O
+CO|80095|PinPoint Limited|O
+CO|80119|Mars Holding Ltd.|O
+ST|40050|COOPER, EST. JENNIE MARIE|O
+ST|41000|Bayfield Trust|O
+ST|41002|ABBEYGATE INTERNATIONAL PENSION PLAN TRUST|O
+ST|41004|AUSTRIA 95 PURPOSE TRUST|O
+ST|41012|AGAPE INTERNATIONAL TRUST|O
+ST|41014|ARCTIC DISCRETIONARY TRUST|O
+ST|41015|ALPHA TRUST|O
+ST|41018|APPLEWOOD TRUST|O
+ST|41020|AIRDRIE TRUST|O
+ST|41021|ADVANCED ECO TECHNOLOGY LIMITED PENSION PLAN TRUST|O
+ST|41023|Arias Trust|O
+ST|41026|Aegis Trust|O
+ST|41101|AVIATION COMMONWEALTH FUND TRUST|O
+ST|41102|ACC 2003 TRUST|O
+ST|41104|AMBROSIA TRUST|O
+ST|41390|Thomas Fillippo 2000 Trust|O
+ST|42001|POLLUX TRUST|O
+ST|42004|BRUDERER FAMILY TRUST|O
+ST|42006|Hartswood Trust|O
+ST|42011|BALMORE TRUST|O
+ST|42013|BURROWS FAMILY TRUST|O
+ST|42014|BETA TRUST|O
+ST|42015|BLUE TRUST|O
+ST|42017|BARRINGTON INTERNATIONAL LTD., PENSION PLAN|O
+ST|42018|BAYFIELD TRUST   HUGH WOOD|O
+ST|42019|BELLA TRUST  SHTC|O
+ST|42021|Bail trust|O
+ST|42028|Bronson Two Trust|O
+ST|42029|Bermuda Purchasing Trust|O
+ST|42031|WOODLAWN TRUST|O
+ST|42050|BITTERLEY AGRICULTURAL ENGINEERS PENSION PLAN|O
+ST|42051|Green Trust|O
+ST|42110|Joseph Correira Trust|O
+ST|42682|BELBODA, GEORGE ERIC  EST.|O
+ST|42784|CELESTINE TRUST|O
+ST|43001|CHIGWELL TRUST|O
+ST|43002|Dolphin Securities Pension Trust|O
+ST|43003|CORUNUM TRUST|O
+ST|43004|CLOVELLY TRUST|O
+ST|43005|Mrs. Fowles Trust|O
+ST|43008|CLOVERDALE TRUST|O
+ST|43011|COX: LADY JOAN MAITLAND|O
+ST|43012|COPPER TRUST|O
+ST|43014|CASTOR TRUST|O
+ST|43015|CHIPSTEAD TRUST|O
+ST|43017|Cedar Park Trust|O
+ST|43018|Chee Family Trust|O
+ST|43020|Cowaramup Trust|O
+ST|43021|Cole Family Trust|O
+ST|43026|CAPE LYNN TRUST|O
+ST|43027|CORAL PALISADES TRUST|O
+ST|43028|CSOMOR FAMILY TRUST|O
+ST|43032|CORAL TRUST|O
+ST|43034|COOPER ANNUITY TRUST|O
+ST|43036|COLIBRI TRUST  THE|O
+ST|43037|CRAZYLEGS TRUST THE|O
+ST|43038|CONSTANCY TRUST|O
+ST|43039|Collins Family No.1 Trust  The|O
+ST|43040|Collins Family  No. 2  Trust|O
+ST|43105|DENNY TRUST|O
+ST|43209|CLOVELLY TRUST|O
+ST|43453|CLENDENEN CHARITABLE TRUST|O
+ST|43470|CASSWOOD TRUST|O
+ST|43487|MILNER TRUST|O
+ST|43602|CRESCENT TRUST|O
+ST|43744|CUDA FAMILY GST TRUST|O
+ST|44001|DOLPHIN TRUST|O
+ST|44004|Dragoo Family Trust|O
+ST|44005|Dumbarton Private Trust|O
+ST|44008|DOGWOOD TRUST|O
+ST|44010|DIONYSUS TRUST|O
+ST|44408|DUBLOON TRUST|O
+ST|44412|JOHN DECKER TRUST|O
+ST|44498|A P D TRUST|O
+ST|44518|DAVIS, EDWARD B.  WILL TRUST|O
+ST|44608|DE SILVA TRUST|O
+ST|45009|eVoyager Trust  The|O
+ST|45012|1849 TRUST|O
+ST|45014|Eminence Trust|O
+ST|45307|Enterprise Settlement Trust|O
+ST|46004|First International Trust|O
+ST|46007|Frangiapani Trust|O
+ST|46008|Fresco Holdings Trust|O
+ST|46009|Farfalle Purpose Trust|O
+ST|46410|Francis Trust|O
+ST|46570|Finnstar Ltd., Pension Plan Trust|O
+ST|47003|GEROMINO TRUST|O
+ST|47005|GAMMA TRUST|O
+ST|47008|Gunsel Trust|O
+ST|47009|Goja Trust|O
+ST|47010|2H Futura Trust|O
+ST|47011|G 2007 Settlement|O
+ST|47187|Percy John Hunt Settlement|O
+ST|47269|Garcia Family Insurance Trust|O
+ST|47301|NEWLANDS OAK FAMILY TRUST|O
+ST|48001|HA' PENNY TRUST|O
+ST|48002|HORIZAN PAPER MILL PENSION PLAN TRUST|O
+ST|48003|HOMEWOOD TRUST|O
+ST|48004|PERCY JOHN HUNT SETTLEMENT|O
+ST|48005|HOMESTEAD TRUST|O
+ST|48006|HALCYON TRUST|O
+ST|48012|Hilton Trade Corporation Ltd., Pension Plan|O
+ST|48014|HENDALU TRUST|O
+ST|48017|HUNSINGER FAMILY TRUST|O
+ST|48261|HENRIQUES, LESLIE   POA|O
+ST|48286|ROSEMARY TRUST|O
+ST|48394|HANTON TRUST|O
+ST|49002|Irish Bay Trust|O
+ST|49070|Pemberton Trust|O
+ST|50000|tesst|O
+ST|50005|Jerry Nerad Foreign Irrevocable Trust|O
+ST|50006|JLAD TRUST|O
+ST|50007|J W  TRUST|O
+ST|50009|Jam Group Ltd.   Pension Plan Trust|O
+ST|50186|Narty Trust|O
+ST|50302|737 Bermuda II Ltd.   Purpose Trust|O
+ST|51005|THE TRUSTEES OF THE WILLIAM MARTIN KEMPE TRUST|O
+ST|51007|Kiemel Family Trust|O
+ST|51009|Keystone Trust: The|O
+ST|51010|KARMA PRIVATE TRUST|O
+ST|51011|Kent Family Irrevocable Life Insurance Trust|O
+ST|51012|Kingsdown Trust|O
+ST|51013|Kite Purpose Trust|O
+ST|51166|Kennedy Family Trust|O
+ST|51179|CARPATHIA TRUST|O
+ST|52001|LONGMEADOW TRUST|O
+ST|52002|LECHMERE INTERNATIONAL PENSION PLAN TRUST|O
+ST|52004|Maitland Trust|O
+ST|52005|LEWIN FAMILY TRUST|O
+ST|52009|LANTIS FAMILY TRUST|O
+ST|52010|LEROY DISCRETIONARY TRUST|O
+ST|52012|LADY COX SETTLEMENT TRUST I|O
+ST|52013|LAZARD GLOBAL OPPORTUNITIES TRUST|O
+ST|52014|LIVIS FAMILY TRUST|O
+ST|52015|LANY TRUST|O
+ST|52016|LOUZON FAMILY INTEGRATED TRUST|O
+ST|52017|L & M MARSHALL INSURANCE TRUST|O
+ST|52018|Lem N' Lew Trust|O
+ST|52019|LesLie Basil Gatewood James "Will Trust"|O
+ST|52090|J.B. Trust|O
+ST|52439|GINA LIAUBAUD FAMILY INSURANCE TRUST|O
+ST|52455|Medical Protection Society|O
+ST|52505|LESTER TRUST|O
+ST|53001|Magainin  Trust. The|O
+ST|53002|MAINSAIL TRUST: THE|O
+ST|53004|MARINE HALL TRUST|O
+ST|53009|MURDOCH FAMILY TRUST|O
+ST|53012|Mahncke Family Trust|O
+ST|53014|Manchester Trust|O
+ST|53016|MLT Investment Trust|O
+ST|53020|Minerva Trust|O
+ST|53021|Marian Trust|O
+ST|53023|Maxum Trust, The|O
+ST|53025|KENNEDY TRUST|O
+ST|53027|MIGHTY TRUST|O
+ST|53028|MAUI ISLE TRUST|O
+ST|53031|MALLARDS TRUST|O
+ST|53032|THE MAKAWAO TRUST|O
+ST|53035|McKey, Rebecca Rosalie Ward|O
+ST|53036|Meikelfield Trust|O
+ST|53037|Mel   Well Trust|O
+ST|53038|Moomin Trust|O
+ST|53039|Marimar Purpose Trust|O
+ST|53076|MURATSALO TRUST|O
+ST|53103|MARIREA TRUST|O
+ST|53701|MARKETEER LTD. PENSION PLAN|O
+ST|53734|QUARRY TRUST|O
+ST|53793|LETTIE TRUST|O
+ST|53884|Montpelier Re Foundation|O
+ST|54003|Nogales Trust|O
+ST|54004|Nirvana Trust|O
+ST|54005|Norwegian Cruise Lines Holdings, Charitable Trust|O
+ST|55003|Optical Science Purpose Trust|O
+ST|55005|Ottawa Purpose Trust|O
+ST|56002|PATFRA TRUST|O
+ST|56009|POLLUX TRUST|O
+ST|56010|Generation Infinity Trust|O
+ST|56012|Philip Family Trust|O
+ST|56017|PeWi Trust|O
+ST|56020|PAMELA J. SMITH TRUST|O
+ST|56026|Pitt Durango Trust|O
+ST|56028|PHANTOM TRUST|O
+ST|56029|Perfection Trust|O
+ST|56030|Pine Hurst Purpose Trust|O
+ST|56031|Pearman: Lucy Carmen Eurydice|O
+ST|56101|PEMBRIDGE TRUST|O
+ST|56102|J.B. TRUST|O
+ST|56110|PARSLEY TRUST|O
+ST|56140|Pocock, Jane Patricia|O
+ST|56513|POWELL FAMILY TRUST|O
+ST|56517|Payne Gulch Trust, the|O
+ST|56671|Metzler Family GST Trust|O
+ST|56715|Placid Trust|O
+ST|57001|Queenston Private Trust|O
+ST|57111|QUANTIV LTD. PENSION TRUST|O
+ST|58001|RGF TRUST|O
+ST|58004|RODRIGUES FAMILY TRUST|O
+ST|58009|Rising Star Trust|O
+ST|58011|Rockriver Trust|O
+ST|58020|ROYALL TRUST  THE|O
+ST|58021|Southern Copper Corp. Pension Plan Trust|O
+ST|58022|Rainbow Trust|O
+ST|58575|RECOGNITION CLOTHING LTD PENSION PLAN TRUST|O
+ST|59002|SYMINGTON: TRUST|O
+ST|59004|ST. JULIAN TRUST|O
+ST|59005|STRANGFORD PENSION PLAN|O
+ST|59006|STONE CLADDING CONSULTANTS LTD. PENSION PLAN TRUST|O
+ST|59008|STRATFORD TRUST|O
+ST|59009|Schulz Stoneman Trust|O
+ST|59010|William F. Scriminger Family Trust|O
+ST|59014|Stanford Private Trust|O
+ST|59016|Sandy Cove Trust|O
+ST|59018|SCIROCCO TRUST|O
+ST|59019|SEAVIEW TRUST|O
+ST|59022|ST. GILES TRUST|O
+ST|59023|SEASALT TRUST|O
+ST|59024|SOARING TRUST|O
+ST|59026|SANDERLING TRUST|O
+ST|59027|Stepehns: Est. of Donald|O
+ST|59028|SHERWOOD TRUST|O
+ST|59029|STONE HAVEN TRUST  THE|O
+ST|59030|SULMONA TRUST|O
+ST|59031|Southport Elgin Trust|O
+ST|59032|Springer Ltd. Pension Plan Trust|O
+ST|59033|800 SPC Purpose Trust|O
+ST|59034|The Southport Trust|O
+ST|59035|Southampton Trust|O
+ST|59036|Sons of G. Grainger Weston Trust|O
+ST|59037|THE SAMAKI TRUST|O
+ST|59050|Sea Plume Trust|O
+ST|59101|SEA BREEZE TRUST|O
+ST|59102|BLACK PEARL TRUST|O
+ST|59103|SWAINSON, JO  ESTATE OF|O
+ST|59190|HEALTHCARE SERVICES LTD. PENSION PLAN.|O
+ST|59456|Sea Glen Trust|O
+ST|59686|DUNDAS & CO. LTD., PENSION PLAN TRUST|O
+ST|59736|SWAINSON, JOSEPH  ESTATE OF|O
+ST|59906|Sutliff Family GST Trust|O
+ST|60003|TOPOL FOUNDATION TRUST|O
+ST|60004|TUCKER: JAMES DUNCAN FERGUSON, DECEASED|O
+ST|60006|Tact Family Trust|O
+ST|60010|Three G's  Limtied|O
+ST|60011|TERRA TRUST|O
+ST|60015|THREE CEDARS TRUST|O
+ST|60016|TRUVANA TRUST|O
+ST|60017|TK'S Spices Trust|O
+ST|60018|Talon Trust|O
+ST|60020|The Proferio Trust|O
+ST|60102|SAGACITY TRUST|O
+ST|60148|TORSIDE TRUST|O
+ST|60150|Santa Clara Trust|O
+ST|60151|SEQUEROS FAMILY TRUST|O
+ST|60241|STEPHENS TRUST|O
+ST|60282|PENN TRUST|O
+ST|60300|OLDE LOGANBERRY TRUST|O
+ST|60301|TOMACELLI TRUST|O
+ST|60302|TRELANE TRUST|O
+ST|60448|TORSIDE TRUST|O
+ST|60543|TKH TRUST|O
+ST|60545|FORFAITING TRADING  BERMUDA  PURPOSE TRUST|O
+ST|62002|VECTOR TRUST|O
+ST|62005|VALLEY TRUST|O
+ST|62103|G Weston Marriage Settlement|O
+ST|62120|G.V. TRUST|O
+ST|62143|VIZZI FAMILY IRREVOCABLE TRUST|O
+ST|63001|THE WEST LEA TRUST|O
+ST|63004|WOODSTAN CONSULTANT PENSION PLAN TRUST|O
+ST|63005|WINDBLOWN TRUST|O
+ST|63010|Wily Wolf Trust|O
+ST|63014|Williams Jane  POA|O
+ST|63015|Wishbone Trust|O
+ST|63445|Wright Family Trust|O
+ST|63481|WENGLER FAMILY TRUST|O
+ST|63545|WRIGHT, ANGELA BERNICE|O
+ST|63655|WILLARDS TRUST|O
+ST|66001|Zimmer Family Trust|O
+ST|70158|Chateau Trust|O
+ST|70427|WESTERN HOLDINGS  BERMUDA  LTD|O
+ST|75000|Administration|O
+GM|41521|Arbor Capital Ltd|O
+GM|42004|Bougainvillea LLC|O
+GM|43025|Craig M Compiano Family Trust|O
+GM|43944|CBS Firewalker II Ltd.|O
+GM|44001|Energy Efficiency Management, LLC|O
+GM|46127|State House Trust Company|O
+GM|52459|JDC Darrell Limited|O
+GM|63655|Longtail Properties Ltd|O
+GM|70473|Pillar Ltd|O
+GM|72500|Globe Services Ltd|O
+GS|10101|Ant One LLC|O
+GS|10201|Blaco LLC|O
+GS|10301|Center School Partners|O
+GS|41521|Arbor Capital Ltd.|O
+GS|43025|Craig M Compiano Family Trust|O
+GS|44001|Energy Efficiency Management, LLC|O
+GS|46100|Harem Settlement Trust|O
+GS|48018|HHH, LLC|O
+GS|52458|J S M M LLC,|O
+GS|52577|Little Angel Holdings LLC|O
+GS|53033|Marathon Benefits, LLC|O
+GS|56024|Policy Holding #46 LLC|O
+GS|56025|Policy Holdings #47 LLC|O
+GS|70384|Dumbarton Ltd.|O
+GS|72901|Marathon Benefits Trust|O

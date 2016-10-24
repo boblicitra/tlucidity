@@ -1,15 +1,36 @@
 {% extends 'layout.html' %}
+{% load staticfiles %}
 {% block content %}
-    <h2>Export Time</h2>
+    <div class="col-sm-offset-2 col-sm-10">
+    {% if comps > 0 %}
+        <h2>Confirm</h2>
+        <h4>Export these entries through {{ through }}?</h4>
+        <p>
+        <h3>Summary</h3>
+        </p>
+        <p>
+        <h4><pre>    Company                Entries   Hours</pre></h4>
+        <h4><pre>{{ summy }}</pre></h4>
 
-    <ul>
-        {% for entry in object_list %}
-            <li class="entry">
-                <a href="{{ entry.get_absolute_url }}">{{ entry }}</a> 
-            </li>
-        {% endfor %}
-    </ul>
+        <a role="button" class="btn btn-success btn-md active" onclick="show()" href="/timeadmin/exported">Yes, export this time</a>
+        <input type=button value="No, go back" onClick="window.history.back();return false;" />
 
-    <a class="btn btn-primary btn-md" href="/timeadmin" role="button">Cancel</a>
+    {% else %}
+        <h3>*************************************************************</h3>
+        <h3>No released entries found through {{ through }}</h3>
+        <h3>*************************************************************</h3>
+        <input type=button class="btn btn-info btn-md active"  value="Try another date" onClick="window.history.back();return false;" />
+        <a class="btn btn-default btn-md" href="/timeadmin" role="button">Cancel</a>
+    {% endif %}
+    </div>
+<div class="col-sm-offset-5 col-sm-10" id = "myDiv" style="display:none"><img src="{% static 'img/ajax-loader.gif' %}"></div><br>
+
+<script type = "text/javascript">
+
+function show() {
+    document.getElementById("myDiv").style.display="block";
+}
+
+</script>
 
 {% endblock %}

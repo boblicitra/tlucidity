@@ -7,5 +7,7 @@ urlpatterns = [
     url(r'^timeadmin/$', views.timeadmin, name = 'timeadmin'),
     url(r'^timeadmin/updatevals$', views.updatevals, name = 'updatevals'),
     url(r'^timeadmin/updateval$', views.updateval, name = 'updateval'),
-    url(r'^timeadmin/exporttime$', views.ExportEntryView.as_view(), name = 'export-time'),
+    url(r'^timeadmin/exported$', views.Exported, name = 'exported'),
+    url(r'^timeadmin/exportlist$', views.Exportlist, name = 'export-list'),
+    url(r'^timeadmin/exports/', views.ExpthrView.as_view(), name = 'exports'),
 ]

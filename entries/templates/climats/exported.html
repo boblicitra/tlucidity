@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+{% block content %}
+    <div class="col-sm-offset-2 col-sm-10">
+    {% if comps > 0 %}
+        <h2>Export Successful</h2>
+        <p>
+        <h3>Summary</h3>
+        </p>
+        <p>
+        <h4>{{ results }}</h4>
+
+        <a role="button" class="btn btn-success btn-md active" href="/timeadmin">Return</a>
+
+    {% else %}
+        <h3>*************************************</h3>
+        <h3>No entries were exported!!!!!!!!</h3>
+        <h3>Check logs for cause of failure.</h3>
+        <h3>*************************************</h3>
+        <a role="button" class="btn btn-danger btn-md" href="/admin/entries/export_error">Go to administration</a>
+    {% endif %}
+
+{% endblock %}
