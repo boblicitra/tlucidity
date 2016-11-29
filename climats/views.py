@@ -155,6 +155,7 @@ def updateval(request):
     with open ( textfile, "r" ) as inputF:
         lines = csv.reader (inputF, delimiter="|")
         rnum = 0
+        DefCom = Company.objects.get(pk='CH')
         for nextTk in lines:
             rnum += 1
             fnum = 0
@@ -172,7 +173,16 @@ def updateval(request):
                     f5 = nextCol
                 if fnum == 6:
                     f6 = nextCol
-            nextTk = Timekeeper (code=f1, first_name=f2, middle_ini=f3, last_name=f4, full_name=f5, status=f6)
+            if Timekeeper.objects.filter(pk=f1).exists():
+                existk = Timekeeper.objects.get(pk=f1)
+                def_com = existk.default_company
+                if def_com is None:
+                    f7 = DefCom
+                else:
+                    f7 = def_com
+            else:
+                f7 = DefCom
+            nextTk = Timekeeper (code=f1, first_name=f2, middle_ini=f3, last_name=f4, full_name=f5, status=f6, default_company=f7)
             nextTk.save()
             
         current_results += 'Processed '

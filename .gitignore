@@ -1,2 +1,4 @@
 tlucidity/settings.py
 *.pyc
+Exports/
+climats/val/

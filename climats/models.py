@@ -20,6 +20,7 @@ class Timekeeper(models.Model):
     last_name = models.CharField(max_length=16)
     full_name = models.CharField(max_length=55)
     status = models.CharField(max_length=1, choices = TK_STATUSES)
+    default_company = models.ForeignKey('Company', null=True, blank=True)
 
     def __str__(self):
         return u'%s - %s' % (self.code, self.full_name)

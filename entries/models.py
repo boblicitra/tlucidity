@@ -19,7 +19,7 @@ class Entry(models.Model):
     user = models.ForeignKey(User, null=True)
     who = models.ForeignKey('climats.Timekeeper', verbose_name="Timekeeper", null=True, blank=True)
     work_date = models.DateField(null=True)
-    company = models.ForeignKey('climats.Company', default='CH', blank=True)
+    company = models.ForeignKey('climats.Company', blank=True)
     matter = models.CharField(max_length=10, null=True)
     client = ChainedForeignKey(
         'climats.Client',
@@ -51,7 +51,8 @@ class Entry(models.Model):
     status = models.CharField(max_length=1, choices=STATUSES, default='O')
     released = models.BooleanField(default=False)
     exported = models.BooleanField(default=False)
-    recent_files = models.ForeignKey('Matter_use', null=True, blank=True, help_text='Select a recent file to override company, client, and case')
+    recent_files = models.ForeignKey('Matter_use', null=True, blank=True, help_text='Select a recent file to override company, client & case')
+    matter_keyin = models.CharField(max_length=10, null=True, blank=True, verbose_name="Matter", help_text='Type a client-case number to override client and case')
 
     class Meta:
         verbose_name_plural ='entries'
@@ -72,6 +73,7 @@ class Entry(models.Model):
     def save(self, *args, **kwargs):
         usobj = get_userobj()
         self.user = usobj
+        matter_keyin = ''
         if not self.who:
             self.who = Profile.objects.get(user_id=usobj.id).for_whom
             self.recent_files = None

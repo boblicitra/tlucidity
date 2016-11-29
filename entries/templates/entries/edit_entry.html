@@ -47,4 +47,26 @@ textarea { vertical-align: top; }
 })(jQuery || django.jQuery);
 </script>
 
+<script language="JavaScript">
+function matkey(source) {
+    var rfs = "";
+    var len = 0;
+    var casev = "";
+    var clientv = "";
+    rfs = document.getElementById('id_matter_keyin').value;
+    len = rfs.length;
+    casev = rfs.substr(len-11);
+    if (len > 0) {
+        document.getElementById('id_client').value = 'undefined';
+        document.getElementById('id_client').disabled = true;
+        document.getElementById('id_case').value = 'undefined';
+        document.getElementById('id_case').disabled = true;
+    }
+    else {
+        document.getElementById('id_client').disabled = false;
+        document.getElementById('id_case').disabled = false;
+    }
+}
+</script>
+
 {% endblock %}

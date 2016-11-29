@@ -48,6 +48,8 @@ function recent(source) {
     if (len > 0) {
         document.getElementById('id_company').value = compv;
         document.getElementById('id_company').disabled = true;
+        document.getElementById('id_matter_keyin').value = '';
+        document.getElementById('id_matter_keyin').disabled = true;
         document.getElementById('id_client').value = 'undefined';
         document.getElementById('id_client').disabled = true;
         document.getElementById('id_case').value = 'undefined';
@@ -55,6 +57,7 @@ function recent(source) {
     }
     else {
         document.getElementById('id_company').disabled = false;
+        document.getElementById('id_matter_keyin').disabled = false;
         document.getElementById('id_client').disabled = false;
         document.getElementById('id_case').disabled = false;
     }

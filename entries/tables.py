@@ -79,7 +79,7 @@ class OneTkTable(tables.Table):
     work_date = tables.Column(verbose_name='Date of Service')
     client = ClientWidthColumn(verbose_name='Client Name including Company Code')
     matter = tables.Column(orderable=False)
-    hours = SummingColumn(verbose_name='Hours',orderable=False)
+    hours = tables.Column(verbose_name='Hours',orderable=False)
     activity_code1 = ActiveWidthColumn(verbose_name='Activity Code 1',orderable=False)
     activity_code2 = ActiveWidthColumn(verbose_name='Activity Code 2',orderable=False)
     status = tables.Column(verbose_name='Status')
