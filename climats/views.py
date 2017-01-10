@@ -58,10 +58,11 @@ def Exported(request):
                 if a2:
                     ofile.write ("A2="+a2.code+"\n")
 #               ta = released.task_code
-#               ofile.write ("TA="+tk+"\n")
+#               ofile.write ("TA="+ta+"\n")
                 tx = released.narrative
                 if tx:
-                    ofile.write ("TX="+tx+"\n")
+                    txclean = lambda s: "".join(i for i in s if 31 < ord(i) < 127)
+                    ofile.write (txclean("TX="+tx)+"\n")
                 ofile.write ("##\n")
                 Entry.objects.filter(id=key).update(exported_date=now)
                 Entry.objects.filter(id=key).update(exported=True)
@@ -83,7 +84,7 @@ def Exported(request):
     if comps > 0:
         summary = str(tec)
         if tec == 1:
-            summary = summary + ' entry was'
+            summary = summary + ' entry was '
         else:
             summary = summary + ' entries were '
         summary = summary + 'exported for ' + coss

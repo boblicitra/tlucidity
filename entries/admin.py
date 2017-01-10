@@ -4,7 +4,7 @@ from .models import *
 
 class EntryAdmin(admin.ModelAdmin):
     list_display = ('who','matter','work_date','hours','status',)
-    list_filter = ('status', 'who',)
+    list_filter = ('status', 'who', 'company', 'exported_date')
 
 admin.site.register(Entry,EntryAdmin)
 

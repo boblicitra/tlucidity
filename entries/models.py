@@ -73,7 +73,8 @@ class Entry(models.Model):
     def save(self, *args, **kwargs):
         usobj = get_userobj()
         self.user = usobj
-        matter_keyin = ''
+        self.matter_keyin = ''
+        exported_date = ''
         if not self.who:
             self.who = Profile.objects.get(user_id=usobj.id).for_whom
             self.recent_files = None

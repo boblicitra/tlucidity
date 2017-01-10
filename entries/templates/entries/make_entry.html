@@ -3,7 +3,7 @@
 {% load staticfiles %}
     <h2>Entry for {{whom}} </h2>
 
-    <form action="{% url "make-entry" %}" method="POST">
+    <form action="{% url "make-entry" %}" method="POST" >
         {% csrf_token %}
 <style>
 textarea { vertical-align: top; }
@@ -35,6 +35,12 @@ textarea { vertical-align: top; }
 </script>
 
 <script language="JavaScript">
+function doFirst() {
+    document.getElementById('id_matter_keyin').size = "14";
+}
+</script>
+
+<script language="JavaScript">
 function recent(source) {
     var rfs = "";
     var len = 0;
@@ -50,6 +56,9 @@ function recent(source) {
         document.getElementById('id_company').disabled = true;
         document.getElementById('id_matter_keyin').value = '';
         document.getElementById('id_matter_keyin').disabled = true;
+        document.getElementById('id_matter_keyin').size = "14";
+        document.getElementsByClassName('helptext')[1].textContent = " ";
+        document.getElementsByClassName('helptext')[0].textContent = "Clear selection to access company, client & case";
         document.getElementById('id_client').value = 'undefined';
         document.getElementById('id_client').disabled = true;
         document.getElementById('id_case').value = 'undefined';
@@ -58,8 +67,75 @@ function recent(source) {
     else {
         document.getElementById('id_company').disabled = false;
         document.getElementById('id_matter_keyin').disabled = false;
+        document.getElementById('id_matter_keyin').size = "14";
+        document.getElementsByClassName('helptext')[1].textContent = "Type a client-case number to override client and case";
+        document.getElementsByClassName('helptext')[0].textContent = "Select a recent file to override company, client & case";
         document.getElementById('id_client').disabled = false;
         document.getElementById('id_case').disabled = false;
+    }
+}
+</script>
+
+<script language="JavaScript">
+function matkey(source) {
+    var mks = "";
+    var len = 0;
+    var casek = "";
+    var clientk = "";
+    var comp = "";
+    var found = "not";
+    var mlist = "{{matterlist}}";
+    mks = document.getElementById('id_matter_keyin').value;
+    len = mks.length;
+    comp = document.getElementById('id_company').value;
+    if (comp == "" && len > 0) {
+        numnames = "Select company before entering matter";
+    }
+    else {
+        numnames = "                                                ";
+        if (len > 0) {
+            dq=mks.substr(5,1);
+            if ( dq == '-' ) {
+                mks=mks.substr(0,5) + mks.substr(6);
+            }
+            find = comp + mks + " ";
+            p = mlist.indexOf(find);
+            if ( p > -1 ) {
+                found = mlist.substr(p+13);
+                p = found.indexOf("|");
+                numnames = found.substr(0,p-0);
+                document.getElementById('id_client').value = 'undefined';
+                document.getElementById('id_client').disabled = true;
+                document.getElementById('id_case').value = 'undefined';
+                document.getElementById('id_case').disabled = true;
+                document.getElementById('id_matter_keyin').size = "14";
+            }
+            else {
+                document.getElementById('id_client').disabled = false;
+                document.getElementById('id_case').disabled = false;
+                document.getElementById('id_matter_keyin').size = "14";
+            }
+        }
+        else {
+            numnames = "Type a client-case number to override client and case";
+            document.getElementById('id_client').disabled = false;
+            document.getElementById('id_case').disabled = false;
+            document.getElementById('id_matter_keyin').size = "14";
+        }
+    }
+    document.getElementsByClassName('helptext')[1].textContent = numnames;
+}
+</script>
+
+<script language="JavaScript">
+function setinc(source) {
+    var comp = "";
+    comp = document.getElementById('id_company').value;
+    if (comp == "CO") {
+        document.getElementById('id_hours').step = "0.01";
+    }
+    else {
+        document.getElementById('id_hours').step = "0.1";
     }
 }
 </script>

@@ -5,7 +5,7 @@ from django.core.urlresolvers import reverse
 from django.http import HttpResponse
 from django_tables2 import RequestConfig
 from entries.forms import EntryForm, EntryEditForm, SetTkForm
-from entries.models import Entry, Profile
+from entries.models import Entry, Profile, Matter_use
 from entries.tables import DashTable, FullTable, OneTkTable
 from entries.tables import ForReleaseTable, SelectedRelTable
 from climats.models import Timekeeper
@@ -103,7 +103,15 @@ class MakeEntryView(CreateView):
         context = super(MakeEntryView, self).get_context_data(**kwargs)
         usobj = get_userobj()
         selected_tk=Profile.objects.get(user = usobj).for_whom
+        matter_list = ""
+        ever_used = Matter_use.objects.all()
+        for clused in ever_used:
+            if clused.matter.code not in matter_list:
+                ccc=clused.matter
+                add2list = ccc.code+" |"+ccc.client.name+"("+ccc.client.number+") "+ccc.name+"("+ccc.number+") |"
+                matter_list = matter_list+add2list
         context['whom'] = selected_tk
+        context['matterlist'] = matter_list
         return context
 
 

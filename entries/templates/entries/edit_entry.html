@@ -48,6 +48,12 @@ textarea { vertical-align: top; }
 </script>
 
 <script language="JavaScript">
+function doFirst() {
+    document.getElementById('id_matter_keyin').size = "14";
+}
+</script>
+
+<script language="JavaScript">
 function matkey(source) {
     var rfs = "";
     var len = 0;
@@ -65,6 +71,19 @@ function matkey(source) {
     else {
         document.getElementById('id_client').disabled = false;
         document.getElementById('id_case').disabled = false;
+    }
+}
+</script>
+
+<script language="JavaScript">
+function setinc(source) {
+    var comp = "";
+    comp = document.getElementById('id_company').value;
+    if (comp == "CO") {
+        document.getElementById('id_hours').step = "0.01";
+    }
+    else {
+        document.getElementById('id_hours').step = "0.1";
     }
 }
 </script>
