@@ -107,6 +107,14 @@ class Entry(models.Model):
                 self.status = 'O'
                 self.released_date = None
             super(Entry, self).save(*args, **kwargs)
+            rm_id = self.who.code + self.case.code
+            rm_who = self.who
+            rm_case = self.case
+            rm_days = Profile.objects.get(user_id=usobj.id).recent_days
+            if Matter_use.objects.filter(worker_case=rm_id).exists():
+                Matter_use.objects.filter(worker_case=rm_id).update(last_used=datetime.now())
+            else:
+                Matter_use.objects.create(worker_case=rm_id, timekeeper=rm_who, matter=rm_case, last_used=datetime.now())
         return reverse('dashboard')
 
 

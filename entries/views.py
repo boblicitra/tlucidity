@@ -128,8 +128,16 @@ class UpdateEntryView(UpdateView):
         context = super(UpdateEntryView, self).get_context_data(**kwargs)
         usobj = get_userobj()
         selected_tk=Profile.objects.get(user = usobj).for_whom
+        matter_list = ""
+        ever_used = Matter_use.objects.all()
+        for clused in ever_used:
+            if clused.matter.code not in matter_list:
+                ccc=clused.matter
+                add2list = ccc.code+" |"+ccc.client.name+"("+ccc.client.number+") "+ccc.name+"("+ccc.number+") |"
+                matter_list = matter_list+add2list
         context['whom'] = selected_tk
         context['stat'] = self.object.status
+        context['matterlist'] = matter_list
         return context
 
 

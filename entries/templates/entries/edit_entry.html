@@ -55,23 +55,44 @@ function doFirst() {
 
 <script language="JavaScript">
 function matkey(source) {
-    var rfs = "";
+    var mks = "";
     var len = 0;
-    var casev = "";
-    var clientv = "";
-    rfs = document.getElementById('id_matter_keyin').value;
-    len = rfs.length;
-    casev = rfs.substr(len-11);
-    if (len > 0) {
-        document.getElementById('id_client').value = 'undefined';
-        document.getElementById('id_client').disabled = true;
-        document.getElementById('id_case').value = 'undefined';
-        document.getElementById('id_case').disabled = true;
+    var casek = "";
+    var clientk = "";
+    var comp = "";
+    var found = "not";
+    var mlist = "{{matterlist}}";
+    mks = document.getElementById('id_matter_keyin').value;
+    len = mks.length;
+    comp = document.getElementById('id_company').value;
+    if (comp == "" && len > 0) {
+        numnames = "Select company before entering matter";
     }
     else {
-        document.getElementById('id_client').disabled = false;
-        document.getElementById('id_case').disabled = false;
+        numnames = "                                                ";
+        if (len > 0) {
+            dq=mks.substr(5,1);
+            if ( dq == '-' ) {
+                mks=mks.substr(0,5) + mks.substr(6);
+            }
+            find = comp + mks + " ";
+            p = mlist.indexOf(find);
+            if ( p > -1 ) {
+                found = mlist.substr(p+13);
+                p = found.indexOf("|");
+                numnames = found.substr(0,p-0);
+                document.getElementById('id_matter_keyin').size = "14";
+            }
+            else {
+                document.getElementById('id_matter_keyin').size = "14";
+            }
+        }
+        else {
+            numnames = "Type a client-case number to change client & case";
+            document.getElementById('id_matter_keyin').size = "14";
+        }
     }
+    document.getElementsByClassName('helptext')[0].textContent = numnames;
 }
 </script>
 
