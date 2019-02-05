@@ -144,7 +144,7 @@ class Matter_use(models.Model):
 class Expthru(models.Model):
     user = models.OneToOneField(User, primary_key=True)
     thru_date = models.DateField(default=datetime.now(), verbose_name="Through Date")
-    key_list = models.CommaSeparatedIntegerField(max_length=4096, null=True, blank=True)
+    key_list = models.CommaSeparatedIntegerField(max_length=32768, null=True, blank=True)
 
     def save(self, *args, **kwargs):
         usobj = get_userobj()
